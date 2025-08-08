@@ -1,4 +1,4 @@
-# Ambulatory Diagnostic Stewardship – Static Dashboard (Simulated) – `_amb`
+# Ambulatory Diagnostic Stewardship – Static Dashboard (Simulated)
 
 This package is ready for **GitHub Pages** and includes:
 - **Overview** (classification charts + mapping)
