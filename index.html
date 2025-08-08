@@ -171,5 +171,14 @@
     loadCSVToTable('follow_up_time_summary_amb.csv', document.getElementById('follow-summary'));
     loadCSVToTable('outreach_counts_by_department_amb.csv', document.getElementById('outreach-counts'));
   </script>
+  <div class="card" id="process-flow" style="margin-top:16px;">
+  <h2 style="margin-top:0;">How this is automated</h2>
+  <p class="subtitle">End-to-end pipeline: SQL extraction → Python validation & classification → Aggregation → Dashboard → Logging & Scheduling.</p>
+  <figure>
+    <img src="diagnostic_pipeline_flowchart.png" alt="Automated Pipeline Flowchart" style="width:100%; border-radius:12px; max-width:900px;">
+    <figcaption>Monthly, parameterized, headless run with built-in QC and audit logging.</figcaption>
+  </figure>
+  <p class="subtitle">Prefer a printable version? <a href="diagnostic_pipeline_flowchart.pdf">Download the PDF</a>.</p>
+</div>
 </body>
 </html>
