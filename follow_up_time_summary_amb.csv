@@ -1,0 +1,6 @@
+department,n_abnormal_with_action,avg_days,median_days,max_days
+Peds Cardiology,18,8.9,8.5,20
+Peds GI,28,10.1,10.5,21
+Peds Neuro,22,8.7,9.5,17
+Peds Primary Care,25,10.5,9.0,21
+Peds Pulmonology,22,10.1,11.5,18

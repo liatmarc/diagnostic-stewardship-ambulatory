@@ -1,0 +1,5 @@
+classification,definition,recommended_intervention
+Actionable,"Valid result with documented action (referral, outreach, Rx, urgent/routine follow-up).",Reinforce timely follow-up workflows; highlight best-practice examples in clinic huddles.
+Non-actionable,"Normal result, no action taken, and order likely outside guideline context.",Provider education on evidence-based ordering; add EMR nudges for low-value tests and frequency limits.
+Review,"Borderline cases (e.g., abnormal result without documented action; action despite normal result).",Targeted chart audits; case reviews; refine documentation and routing of results to ensure follow-up.
+Incomplete,Test ordered but missing/never resulted.,Patient outreach (calls/texts); scheduling reminders; EMR flags for pending/expired orders.

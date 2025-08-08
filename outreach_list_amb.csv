@@ -1,0 +1,75 @@
+patient_id,visit_id,department,test_ordered,visit_date
+39622,468,Peds Cardiology,A1C,2025-04-07
+43581,576,Peds Cardiology,Urinalysis,2025-04-14
+32207,604,Peds Cardiology,CBC,2025-04-28
+40509,61,Peds Cardiology,CBC,2025-04-30
+39745,92,Peds Cardiology,A1C,2025-06-05
+31010,286,Peds Cardiology,CBC,2025-06-05
+35043,253,Peds Cardiology,Throat Culture,2025-06-08
+41642,71,Peds Cardiology,Chest X-ray,2025-06-18
+25114,364,Peds Cardiology,Urinalysis,2025-07-03
+27563,687,Peds Cardiology,Urinalysis,2025-07-03
+20136,512,Peds Cardiology,Lipid Panel,2025-07-18
+48024,694,Peds GI,Throat Culture,2025-04-02
+49181,256,Peds GI,A1C,2025-04-10
+10241,308,Peds GI,Urinalysis,2025-04-20
+44678,312,Peds GI,Lipid Panel,2025-04-23
+42626,427,Peds GI,A1C,2025-04-23
+22260,636,Peds GI,A1C,2025-05-04
+12276,207,Peds GI,CBC,2025-05-07
+38107,503,Peds GI,Urinalysis,2025-05-07
+40770,688,Peds GI,CRP,2025-05-15
+32083,380,Peds GI,Chest X-ray,2025-05-22
+20082,379,Peds GI,Urinalysis,2025-05-26
+36527,303,Peds GI,CRP,2025-06-13
+28564,118,Peds GI,CRP,2025-06-18
+15613,517,Peds GI,Lipid Panel,2025-06-20
+46949,506,Peds GI,Lipid Panel,2025-07-07
+28804,416,Peds GI,A1C,2025-07-13
+30876,535,Peds GI,Throat Culture,2025-07-14
+11932,346,Peds GI,Urinalysis,2025-07-20
+28130,591,Peds GI,Lipid Panel,2025-07-26
+15882,213,Peds GI,Throat Culture,2025-07-29
+42556,104,Peds Neuro,Urinalysis,2025-04-01
+14705,382,Peds Neuro,A1C,2025-04-17
+42033,603,Peds Neuro,A1C,2025-04-17
+26507,543,Peds Neuro,Chest X-ray,2025-04-19
+38610,268,Peds Neuro,Lipid Panel,2025-04-28
+17420,471,Peds Neuro,Urinalysis,2025-04-29
+30325,199,Peds Neuro,Chest X-ray,2025-05-09
+36208,637,Peds Neuro,CRP,2025-05-14
+19759,2,Peds Neuro,Throat Culture,2025-05-21
+24273,292,Peds Neuro,CBC,2025-05-24
+24932,300,Peds Neuro,A1C,2025-06-10
+11978,391,Peds Neuro,Throat Culture,2025-06-11
+37038,333,Peds Neuro,Urinalysis,2025-06-22
+19868,12,Peds Neuro,Urinalysis,2025-06-27
+33531,131,Peds Neuro,Chest X-ray,2025-06-27
+16161,452,Peds Neuro,CRP,2025-06-27
+33522,32,Peds Neuro,CBC,2025-07-11
+28464,432,Peds Neuro,Chest X-ray,2025-07-14
+14112,267,Peds Neuro,Throat Culture,2025-07-27
+41982,103,Peds Primary Care,Throat Culture,2025-04-13
+48039,280,Peds Primary Care,CBC,2025-04-14
+12023,440,Peds Primary Care,Lipid Panel,2025-04-20
+43853,459,Peds Primary Care,Lipid Panel,2025-04-26
+11809,125,Peds Primary Care,CBC,2025-05-01
+40585,208,Peds Primary Care,CRP,2025-05-06
+13326,138,Peds Primary Care,CBC,2025-05-31
+11015,35,Peds Primary Care,CRP,2025-06-16
+48311,375,Peds Primary Care,CRP,2025-06-26
+45275,652,Peds Primary Care,Chest X-ray,2025-06-29
+39788,179,Peds Primary Care,Chest X-ray,2025-07-03
+25663,222,Peds Primary Care,Chest X-ray,2025-07-18
+25794,191,Peds Primary Care,CBC,2025-07-20
+42515,4,Peds Primary Care,A1C,2025-07-21
+17564,378,Peds Primary Care,CBC,2025-07-23
+22161,622,Peds Pulmonology,A1C,2025-04-16
+15218,209,Peds Pulmonology,Throat Culture,2025-05-06
+23348,294,Peds Pulmonology,Chest X-ray,2025-05-23
+19461,186,Peds Pulmonology,CRP,2025-05-27
+12821,606,Peds Pulmonology,Lipid Panel,2025-06-11
+35914,24,Peds Pulmonology,Lipid Panel,2025-06-30
+24567,450,Peds Pulmonology,Lipid Panel,2025-07-06
+47543,533,Peds Pulmonology,A1C,2025-07-10
+46632,41,Peds Pulmonology,Lipid Panel,2025-07-13
