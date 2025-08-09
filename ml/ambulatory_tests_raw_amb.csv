@@ -1,0 +1,701 @@
+patient_id,visit_id,visit_date,department,provider,test_ordered,diagnosis_group,age,outside_guideline,test_result,follow_up_action,classification
+45184,1,2025-06-01,Peds Cardiology,Dr. Rivera,Urinalysis,Infectious,14,0,Normal,Routine Follow-up,Review
+41867,2,2025-06-11,Peds GI,Dr. Shah,Lipid Panel,GI,10,0,Normal,Routine Follow-up,Review
+12761,3,2025-06-13,Peds Cardiology,Dr. Kim,CRP,Respiratory,7,1,Normal,Rx Started,Review
+23170,4,2025-07-28,Peds Neuro,NP Miller,Urinalysis,Endocrine,11,1,Normal,None,Non-actionable
+46626,5,2025-06-23,Peds Cardiology,NP Miller,CRP,Respiratory,15,0,Normal,Phone Outreach,Review
+19942,6,2025-06-24,Peds Neuro,Dr. Rivera,CBC,Cardiac,16,0,Normal,None,Review
+46669,7,2025-06-23,Peds Primary Care,Dr. Rivera,Urinalysis,Respiratory,13,0,Normal,Phone Outreach,Review
+38714,8,2025-06-02,Peds Cardiology,PA Jordan,Chest X-ray,Well Child,2,0,Abnormal,None,Review
+14704,9,2025-06-22,Peds Primary Care,Dr. Kim,A1C,Respiratory,6,0,Normal,Referral,Review
+28488,10,2025-07-01,Peds Neuro,Dr. Shah,Lipid Panel,GI,5,1,Normal,None,Non-actionable
+35771,11,2025-06-23,Peds GI,Dr. Kim,Urinalysis,Endocrine,9,0,Abnormal,Routine Follow-up,Actionable
+19277,12,2025-07-10,Peds Pulmonology,NP Miller,Throat Culture,Infectious,13,0,Normal,None,Review
+16534,13,2025-06-13,Peds Neuro,NP Miller,Urinalysis,Infectious,11,0,Normal,Phone Outreach,Review
+30835,14,2025-07-09,Peds GI,Dr. Kim,CBC,Cardiac,12,0,Abnormal,Routine Follow-up,Actionable
+12884,15,2025-06-13,Peds Cardiology,Dr. Rivera,Lipid Panel,Neuro,13,0,Normal,None,Review
+43992,16,2025-07-24,Peds Primary Care,Dr. Kim,CBC,Well Child,8,0,Normal,None,Review
+27904,17,2025-06-11,Peds Pulmonology,NP Miller,Chest X-ray,Cardiac,6,1,Missing,Referral,Incomplete
+22872,18,2025-06-10,Peds Primary Care,Dr. Shah,Lipid Panel,Respiratory,2,0,Normal,Rx Started,Review
+30378,19,2025-07-24,Peds GI,Dr. Shah,CRP,Cardiac,2,0,Abnormal,Routine Follow-up,Actionable
+47829,20,2025-07-26,Peds Neuro,PA Jordan,Throat Culture,GI,5,0,Normal,Routine Follow-up,Review
+28902,21,2025-07-26,Peds Neuro,Dr. Shah,Urinalysis,Endocrine,10,1,Normal,Urgent Visit,Review
+30062,22,2025-06-21,Peds GI,Dr. Kim,Chest X-ray,Cardiac,8,1,Normal,None,Non-actionable
+45247,23,2025-06-08,Peds Primary Care,Dr. Kim,Lipid Panel,Infectious,10,0,Abnormal,Phone Outreach,Actionable
+18537,24,2025-07-14,Peds GI,PA Jordan,Lipid Panel,Cardiac,13,0,Normal,Routine Follow-up,Review
+34784,25,2025-06-24,Peds Pulmonology,PA Jordan,A1C,GI,15,0,Normal,Rx Started,Review
+33111,26,2025-06-28,Peds Neuro,Dr. Rivera,Chest X-ray,GI,8,1,Missing,None,Incomplete
+27043,27,2025-06-08,Peds Pulmonology,PA Jordan,Urinalysis,Cardiac,15,0,Missing,None,Incomplete
+10911,28,2025-07-28,Peds Primary Care,NP Miller,Lipid Panel,Cardiac,11,0,Normal,None,Review
+22693,29,2025-06-26,Peds Pulmonology,PA Jordan,A1C,Cardiac,17,0,Abnormal,Urgent Visit,Actionable
+27863,30,2025-06-14,Peds Primary Care,Dr. Shah,CRP,Cardiac,14,1,Normal,Phone Outreach,Review
+39457,31,2025-06-19,Peds Neuro,Dr. Shah,Urinalysis,Endocrine,9,0,Normal,Rx Started,Review
+24167,32,2025-06-02,Peds Primary Care,PA Jordan,Lipid Panel,Cardiac,1,0,Normal,Routine Follow-up,Review
+34205,33,2025-06-14,Peds Neuro,Dr. Kim,Urinalysis,Neuro,11,0,Normal,Rx Started,Review
+43973,34,2025-06-04,Peds Primary Care,Dr. Rivera,Lipid Panel,Infectious,15,0,Normal,Routine Follow-up,Review
+13731,35,2025-07-30,Peds GI,Dr. Kim,CBC,Neuro,1,0,Normal,None,Review
+16118,36,2025-06-15,Peds Primary Care,PA Jordan,Chest X-ray,Neuro,15,0,Normal,Routine Follow-up,Review
+31502,37,2025-06-29,Peds Cardiology,Dr. Shah,Urinalysis,Well Child,7,0,Missing,Phone Outreach,Incomplete
+21564,38,2025-06-21,Peds Primary Care,Dr. Rivera,Urinalysis,Cardiac,15,0,Normal,Routine Follow-up,Review
+41761,39,2025-06-08,Peds Cardiology,Dr. Kim,CRP,Infectious,11,0,Normal,Routine Follow-up,Review
+26444,40,2025-06-14,Peds Primary Care,Dr. Rivera,Lipid Panel,Well Child,13,1,Normal,Routine Follow-up,Review
+46330,41,2025-07-21,Peds GI,PA Jordan,Throat Culture,Cardiac,10,0,Abnormal,Referral,Actionable
+43049,42,2025-06-07,Peds Neuro,NP Miller,CBC,Endocrine,8,0,Missing,None,Incomplete
+40232,43,2025-06-07,Peds Primary Care,Dr. Shah,Urinalysis,Well Child,10,0,Normal,Rx Started,Review
+32165,44,2025-07-03,Peds Primary Care,PA Jordan,Throat Culture,Respiratory,15,0,Abnormal,Rx Started,Actionable
+42196,45,2025-06-03,Peds GI,Dr. Shah,Throat Culture,Cardiac,2,0,Abnormal,Routine Follow-up,Actionable
+21590,46,2025-07-13,Peds Pulmonology,NP Miller,Urinalysis,GI,11,0,Normal,Phone Outreach,Review
+45949,47,2025-06-16,Peds Cardiology,NP Miller,A1C,Infectious,8,0,Missing,Referral,Incomplete
+27933,48,2025-07-05,Peds Cardiology,PA Jordan,CBC,Well Child,7,0,Missing,None,Incomplete
+39623,49,2025-07-17,Peds Neuro,Dr. Rivera,CBC,Cardiac,14,0,Abnormal,None,Review
+46814,50,2025-07-06,Peds Neuro,NP Miller,Throat Culture,Cardiac,12,0,Missing,Phone Outreach,Incomplete
+43683,51,2025-07-13,Peds Neuro,Dr. Kim,Chest X-ray,Infectious,4,0,Normal,None,Review
+30606,52,2025-07-17,Peds Neuro,Dr. Shah,CRP,Infectious,5,0,Missing,Rx Started,Incomplete
+37681,53,2025-07-04,Peds GI,Dr. Rivera,Chest X-ray,Cardiac,2,0,Missing,None,Incomplete
+40432,54,2025-06-19,Peds GI,Dr. Rivera,Lipid Panel,Infectious,1,0,Abnormal,Phone Outreach,Actionable
+48800,55,2025-06-20,Peds Neuro,Dr. Rivera,Urinalysis,Neuro,1,0,Normal,Phone Outreach,Review
+16995,56,2025-06-24,Peds Neuro,PA Jordan,Urinalysis,Endocrine,3,0,Normal,None,Review
+30745,57,2025-06-16,Peds Pulmonology,PA Jordan,Chest X-ray,Cardiac,6,0,Abnormal,Phone Outreach,Actionable
+25016,58,2025-07-16,Peds Primary Care,Dr. Shah,CRP,Cardiac,11,0,Normal,None,Review
+28815,59,2025-07-08,Peds Primary Care,NP Miller,A1C,GI,15,0,Normal,Phone Outreach,Review
+29033,60,2025-06-14,Peds Cardiology,PA Jordan,Chest X-ray,Endocrine,4,0,Normal,None,Review
+28466,61,2025-06-25,Peds GI,NP Miller,Chest X-ray,Neuro,1,0,Abnormal,Routine Follow-up,Actionable
+13345,62,2025-07-23,Peds Primary Care,PA Jordan,Chest X-ray,Endocrine,5,0,Abnormal,None,Review
+14268,63,2025-07-24,Peds Pulmonology,Dr. Shah,Lipid Panel,Infectious,6,0,Missing,Routine Follow-up,Incomplete
+21314,64,2025-06-16,Peds GI,Dr. Kim,CBC,Well Child,2,0,Abnormal,Phone Outreach,Actionable
+32586,65,2025-06-06,Peds Cardiology,Dr. Kim,Chest X-ray,Cardiac,8,1,Abnormal,None,Review
+21199,66,2025-07-07,Peds Cardiology,NP Miller,A1C,Endocrine,17,0,Normal,None,Review
+17232,67,2025-07-30,Peds Cardiology,Dr. Kim,Throat Culture,Infectious,7,0,Normal,None,Review
+49845,68,2025-06-19,Peds Pulmonology,Dr. Shah,Throat Culture,Well Child,14,0,Normal,Referral,Review
+44730,69,2025-06-12,Peds Primary Care,Dr. Shah,Throat Culture,Well Child,5,0,Abnormal,Routine Follow-up,Actionable
+35575,70,2025-06-21,Peds Cardiology,PA Jordan,Urinalysis,Endocrine,3,1,Normal,Rx Started,Review
+24361,71,2025-06-06,Peds Cardiology,PA Jordan,CBC,Neuro,9,0,Normal,None,Review
+39913,72,2025-07-18,Peds Primary Care,PA Jordan,Chest X-ray,Well Child,15,0,Normal,Phone Outreach,Review
+14636,73,2025-07-05,Peds Pulmonology,Dr. Rivera,Chest X-ray,Infectious,15,0,Abnormal,Referral,Actionable
+14756,74,2025-06-23,Peds Cardiology,NP Miller,Throat Culture,Endocrine,8,1,Normal,Routine Follow-up,Review
+37553,75,2025-06-19,Peds Neuro,Dr. Kim,CBC,GI,6,0,Normal,Phone Outreach,Review
+43021,76,2025-06-06,Peds Pulmonology,Dr. Shah,Lipid Panel,Respiratory,4,1,Normal,Urgent Visit,Review
+28297,77,2025-06-14,Peds Neuro,Dr. Shah,Throat Culture,Endocrine,9,1,Normal,Referral,Review
+18683,78,2025-06-04,Peds GI,NP Miller,CRP,Cardiac,6,1,Normal,Phone Outreach,Review
+48586,79,2025-06-13,Peds GI,NP Miller,Lipid Panel,Well Child,13,0,Normal,None,Review
+43866,80,2025-06-11,Peds GI,NP Miller,A1C,Infectious,11,0,Normal,Phone Outreach,Review
+25709,81,2025-07-30,Peds Cardiology,Dr. Shah,Chest X-ray,Respiratory,17,0,Normal,Phone Outreach,Review
+18670,82,2025-06-24,Peds Neuro,Dr. Kim,Throat Culture,Endocrine,11,0,Normal,Routine Follow-up,Review
+10904,83,2025-06-19,Peds Pulmonology,Dr. Kim,CRP,GI,9,0,Normal,Referral,Review
+29049,84,2025-06-14,Peds Pulmonology,NP Miller,Throat Culture,Infectious,6,0,Abnormal,None,Review
+34168,85,2025-06-28,Peds GI,Dr. Rivera,Throat Culture,GI,3,0,Missing,Routine Follow-up,Incomplete
+13998,86,2025-07-08,Peds Primary Care,Dr. Shah,Chest X-ray,Endocrine,15,0,Normal,Routine Follow-up,Review
+47026,87,2025-06-04,Peds Pulmonology,Dr. Kim,Throat Culture,Endocrine,15,0,Normal,Rx Started,Review
+45061,88,2025-06-03,Peds Pulmonology,PA Jordan,Throat Culture,Infectious,14,1,Abnormal,Phone Outreach,Actionable
+29776,89,2025-07-07,Peds Neuro,NP Miller,Throat Culture,Cardiac,8,0,Normal,Urgent Visit,Review
+34277,90,2025-07-13,Peds Primary Care,Dr. Rivera,CBC,Respiratory,16,0,Normal,Referral,Review
+48355,91,2025-06-27,Peds GI,Dr. Shah,Lipid Panel,Respiratory,6,1,Normal,Rx Started,Review
+27825,92,2025-07-08,Peds Neuro,NP Miller,Lipid Panel,Endocrine,4,1,Normal,Routine Follow-up,Review
+18819,93,2025-06-14,Peds Pulmonology,Dr. Rivera,CBC,GI,13,0,Normal,Routine Follow-up,Review
+21622,94,2025-07-17,Peds GI,PA Jordan,Throat Culture,Well Child,13,0,Abnormal,Urgent Visit,Actionable
+37919,95,2025-06-10,Peds Pulmonology,NP Miller,A1C,GI,7,0,Normal,Routine Follow-up,Review
+29753,96,2025-06-08,Peds GI,PA Jordan,Chest X-ray,Neuro,3,0,Normal,Referral,Review
+21509,97,2025-06-08,Peds Cardiology,Dr. Shah,Throat Culture,Endocrine,11,0,Abnormal,Urgent Visit,Actionable
+29815,98,2025-06-18,Peds Neuro,NP Miller,Urinalysis,Respiratory,11,0,Normal,None,Review
+16725,99,2025-07-30,Peds Cardiology,Dr. Rivera,Urinalysis,Neuro,5,1,Normal,Phone Outreach,Review
+11121,100,2025-07-27,Peds Neuro,PA Jordan,Throat Culture,Respiratory,15,0,Normal,None,Review
+34229,101,2025-07-26,Peds Pulmonology,PA Jordan,CBC,Infectious,16,1,Missing,Phone Outreach,Incomplete
+11464,102,2025-06-08,Peds GI,PA Jordan,A1C,GI,14,1,Abnormal,Routine Follow-up,Actionable
+32322,103,2025-07-15,Peds Primary Care,PA Jordan,Chest X-ray,Well Child,14,0,Normal,Referral,Review
+33083,104,2025-06-19,Peds GI,Dr. Rivera,Throat Culture,Endocrine,14,0,Normal,Phone Outreach,Review
+14694,105,2025-06-22,Peds Neuro,Dr. Shah,CRP,GI,6,0,Normal,Rx Started,Review
+34521,106,2025-06-25,Peds Cardiology,Dr. Kim,CBC,Endocrine,13,1,Abnormal,Routine Follow-up,Actionable
+14277,107,2025-07-26,Peds Cardiology,NP Miller,A1C,GI,2,0,Abnormal,None,Review
+25397,108,2025-07-08,Peds GI,PA Jordan,Throat Culture,Respiratory,2,0,Missing,Rx Started,Incomplete
+30195,109,2025-07-19,Peds GI,Dr. Rivera,CRP,Endocrine,5,0,Abnormal,Routine Follow-up,Actionable
+41813,110,2025-06-18,Peds Cardiology,Dr. Kim,A1C,GI,5,0,Normal,Routine Follow-up,Review
+18936,111,2025-07-08,Peds Primary Care,Dr. Kim,Chest X-ray,Well Child,5,0,Normal,Phone Outreach,Review
+26406,112,2025-06-02,Peds GI,Dr. Rivera,Lipid Panel,Endocrine,12,0,Abnormal,Routine Follow-up,Actionable
+20864,113,2025-06-29,Peds GI,Dr. Kim,A1C,Endocrine,2,0,Abnormal,Rx Started,Actionable
+14528,114,2025-07-03,Peds Pulmonology,Dr. Shah,Chest X-ray,Well Child,1,1,Normal,Phone Outreach,Review
+23531,115,2025-06-19,Peds Neuro,NP Miller,Urinalysis,Neuro,14,1,Normal,Referral,Review
+32693,116,2025-06-25,Peds Neuro,Dr. Shah,Urinalysis,GI,13,0,Abnormal,Routine Follow-up,Actionable
+24653,117,2025-06-26,Peds Cardiology,PA Jordan,A1C,Infectious,9,1,Normal,Phone Outreach,Review
+47385,118,2025-07-17,Peds GI,Dr. Rivera,CRP,Neuro,11,0,Normal,Rx Started,Review
+32223,119,2025-07-25,Peds Pulmonology,PA Jordan,CRP,Neuro,9,0,Normal,Phone Outreach,Review
+43512,120,2025-07-04,Peds GI,PA Jordan,Throat Culture,GI,17,0,Normal,Phone Outreach,Review
+27878,121,2025-06-11,Peds GI,Dr. Kim,Lipid Panel,Infectious,15,0,Normal,Urgent Visit,Review
+27660,122,2025-06-23,Peds GI,Dr. Shah,CRP,Endocrine,10,0,Abnormal,Phone Outreach,Actionable
+35797,123,2025-07-06,Peds Neuro,PA Jordan,Chest X-ray,Well Child,3,0,Normal,Rx Started,Review
+48162,124,2025-06-08,Peds Pulmonology,PA Jordan,CBC,Endocrine,3,0,Abnormal,None,Review
+36344,125,2025-06-20,Peds Pulmonology,PA Jordan,Lipid Panel,Cardiac,6,1,Normal,Phone Outreach,Review
+47687,126,2025-07-25,Peds Primary Care,Dr. Kim,A1C,Neuro,15,0,Normal,None,Review
+32013,127,2025-07-27,Peds GI,Dr. Kim,Chest X-ray,Respiratory,9,0,Normal,Referral,Review
+39034,128,2025-07-25,Peds Cardiology,Dr. Shah,Chest X-ray,GI,5,0,Normal,Phone Outreach,Review
+32553,129,2025-06-11,Peds Pulmonology,Dr. Kim,Throat Culture,Well Child,13,0,Abnormal,Referral,Actionable
+14754,130,2025-07-10,Peds Primary Care,Dr. Shah,A1C,Neuro,9,0,Normal,None,Review
+14513,131,2025-07-08,Peds Pulmonology,Dr. Kim,Urinalysis,Endocrine,16,1,Abnormal,Referral,Actionable
+10378,132,2025-07-01,Peds Neuro,PA Jordan,CBC,GI,15,0,Normal,Urgent Visit,Review
+19615,133,2025-06-16,Peds Neuro,Dr. Rivera,Throat Culture,Cardiac,4,1,Abnormal,None,Review
+41662,134,2025-07-04,Peds Primary Care,Dr. Rivera,CBC,Infectious,14,1,Normal,Referral,Review
+41027,135,2025-07-16,Peds Cardiology,Dr. Rivera,CBC,Respiratory,5,1,Missing,Phone Outreach,Incomplete
+24988,136,2025-06-29,Peds GI,Dr. Shah,CBC,Endocrine,17,0,Normal,None,Review
+20375,137,2025-07-24,Peds Primary Care,Dr. Kim,Chest X-ray,Neuro,13,0,Normal,None,Review
+34520,138,2025-06-24,Peds Cardiology,Dr. Kim,CRP,GI,6,1,Abnormal,Urgent Visit,Actionable
+28133,139,2025-06-18,Peds Pulmonology,Dr. Rivera,Chest X-ray,Respiratory,1,0,Normal,Phone Outreach,Review
+40752,140,2025-06-15,Peds Cardiology,NP Miller,Urinalysis,GI,7,1,Normal,Phone Outreach,Review
+47192,141,2025-07-15,Peds Pulmonology,PA Jordan,Chest X-ray,Endocrine,3,0,Normal,Phone Outreach,Review
+11536,142,2025-07-21,Peds Neuro,PA Jordan,Throat Culture,Well Child,7,0,Missing,None,Incomplete
+47073,143,2025-07-27,Peds Primary Care,Dr. Kim,CRP,Endocrine,10,1,Normal,None,Non-actionable
+15464,144,2025-06-11,Peds Cardiology,NP Miller,Chest X-ray,Endocrine,14,0,Abnormal,Phone Outreach,Actionable
+30179,145,2025-06-02,Peds Pulmonology,NP Miller,Lipid Panel,Endocrine,1,1,Missing,Rx Started,Incomplete
+46256,146,2025-07-21,Peds Neuro,Dr. Rivera,Throat Culture,Cardiac,3,0,Normal,Rx Started,Review
+41116,147,2025-07-07,Peds Primary Care,PA Jordan,CRP,Neuro,15,1,Normal,Urgent Visit,Review
+31786,148,2025-07-25,Peds GI,Dr. Kim,Chest X-ray,GI,6,0,Normal,Rx Started,Review
+14159,149,2025-06-11,Peds GI,Dr. Rivera,Urinalysis,GI,5,0,Abnormal,Phone Outreach,Actionable
+32891,150,2025-07-07,Peds Cardiology,Dr. Kim,Throat Culture,Neuro,6,1,Normal,None,Non-actionable
+49818,151,2025-07-03,Peds Neuro,Dr. Kim,Chest X-ray,Endocrine,15,0,Normal,Rx Started,Review
+36705,152,2025-06-17,Peds Primary Care,PA Jordan,Lipid Panel,Well Child,2,0,Normal,None,Review
+37517,153,2025-06-22,Peds Neuro,Dr. Kim,CBC,Infectious,1,1,Missing,Routine Follow-up,Incomplete
+28479,154,2025-06-10,Peds Cardiology,Dr. Shah,Chest X-ray,Respiratory,7,0,Normal,None,Review
+33405,155,2025-06-03,Peds Neuro,NP Miller,Lipid Panel,Endocrine,8,0,Normal,Rx Started,Review
+49442,156,2025-07-15,Peds Pulmonology,Dr. Shah,CBC,Well Child,15,0,Normal,Routine Follow-up,Review
+14459,157,2025-07-17,Peds GI,NP Miller,A1C,GI,11,0,Normal,None,Review
+42205,158,2025-06-12,Peds Cardiology,Dr. Kim,CBC,Well Child,1,0,Normal,Routine Follow-up,Review
+28963,159,2025-06-22,Peds Cardiology,NP Miller,CRP,Respiratory,17,0,Normal,None,Review
+17411,160,2025-06-18,Peds Primary Care,NP Miller,CRP,Endocrine,7,0,Missing,None,Incomplete
+36607,161,2025-07-20,Peds GI,Dr. Shah,Chest X-ray,GI,12,0,Normal,Rx Started,Review
+37680,162,2025-06-21,Peds GI,Dr. Kim,Chest X-ray,Cardiac,15,0,Normal,Phone Outreach,Review
+32703,163,2025-06-09,Peds Pulmonology,Dr. Kim,Chest X-ray,Neuro,1,0,Normal,Urgent Visit,Review
+42093,164,2025-06-29,Peds Pulmonology,Dr. Rivera,Lipid Panel,Respiratory,14,0,Normal,Routine Follow-up,Review
+36074,165,2025-07-14,Peds Cardiology,Dr. Kim,CBC,Respiratory,6,0,Normal,None,Review
+26723,166,2025-06-22,Peds Neuro,Dr. Kim,Lipid Panel,Respiratory,7,0,Normal,None,Review
+37384,167,2025-06-19,Peds Neuro,Dr. Kim,A1C,Well Child,14,1,Missing,Phone Outreach,Incomplete
+30796,168,2025-07-21,Peds Neuro,Dr. Rivera,CBC,Neuro,7,0,Abnormal,None,Review
+25095,169,2025-06-18,Peds Neuro,Dr. Rivera,CRP,Endocrine,7,0,Normal,Phone Outreach,Review
+36595,170,2025-07-14,Peds Pulmonology,Dr. Shah,CRP,Cardiac,14,0,Normal,None,Review
+48293,171,2025-07-13,Peds Neuro,Dr. Shah,CRP,Neuro,1,0,Abnormal,Routine Follow-up,Actionable
+14995,172,2025-07-28,Peds Primary Care,PA Jordan,CBC,Respiratory,16,0,Normal,Referral,Review
+14564,173,2025-06-21,Peds Cardiology,Dr. Shah,CRP,Endocrine,8,0,Normal,Phone Outreach,Review
+38979,174,2025-06-06,Peds GI,NP Miller,CRP,Cardiac,3,1,Normal,Routine Follow-up,Review
+35408,175,2025-06-17,Peds Cardiology,PA Jordan,Chest X-ray,GI,6,0,Missing,Routine Follow-up,Incomplete
+20940,176,2025-07-22,Peds Cardiology,Dr. Kim,CRP,Cardiac,14,0,Abnormal,None,Review
+39552,177,2025-06-06,Peds Primary Care,PA Jordan,Throat Culture,GI,1,0,Normal,None,Review
+46273,178,2025-07-24,Peds Primary Care,Dr. Rivera,A1C,Neuro,4,0,Missing,Routine Follow-up,Incomplete
+22958,179,2025-06-29,Peds Neuro,NP Miller,Urinalysis,Well Child,15,0,Normal,Referral,Review
+21953,180,2025-07-02,Peds Cardiology,NP Miller,Lipid Panel,Respiratory,14,1,Normal,Referral,Review
+48919,181,2025-06-08,Peds Pulmonology,NP Miller,CBC,Well Child,4,0,Abnormal,None,Review
+27306,182,2025-06-20,Peds Cardiology,NP Miller,CBC,Well Child,3,0,Abnormal,None,Review
+23055,183,2025-07-11,Peds Cardiology,Dr. Rivera,Urinalysis,Cardiac,15,0,Normal,Phone Outreach,Review
+46440,184,2025-06-21,Peds Primary Care,PA Jordan,Throat Culture,Neuro,6,0,Missing,Referral,Incomplete
+45130,185,2025-06-19,Peds Neuro,PA Jordan,Lipid Panel,Cardiac,8,0,Abnormal,None,Review
+47530,186,2025-07-07,Peds GI,Dr. Shah,A1C,Endocrine,16,1,Missing,Referral,Incomplete
+12069,187,2025-07-27,Peds Pulmonology,Dr. Shah,Throat Culture,Well Child,9,1,Normal,None,Non-actionable
+46728,188,2025-07-12,Peds Cardiology,Dr. Shah,A1C,Well Child,13,1,Normal,None,Non-actionable
+14033,189,2025-06-06,Peds Pulmonology,PA Jordan,CBC,Respiratory,11,0,Normal,None,Review
+28715,190,2025-07-06,Peds Cardiology,Dr. Kim,Urinalysis,Cardiac,6,0,Normal,None,Review
+49462,191,2025-06-26,Peds Pulmonology,Dr. Shah,Throat Culture,Respiratory,17,0,Normal,Routine Follow-up,Review
+28233,192,2025-06-17,Peds GI,Dr. Kim,CBC,Cardiac,1,0,Normal,Rx Started,Review
+26842,193,2025-06-14,Peds GI,PA Jordan,CRP,Well Child,1,0,Normal,None,Review
+43591,194,2025-07-20,Peds Primary Care,Dr. Kim,Lipid Panel,Infectious,2,0,Abnormal,Phone Outreach,Actionable
+45535,195,2025-07-29,Peds GI,Dr. Shah,Urinalysis,Neuro,11,1,Normal,None,Non-actionable
+39948,196,2025-07-09,Peds Neuro,Dr. Rivera,Throat Culture,Neuro,4,0,Normal,Routine Follow-up,Review
+20000,197,2025-06-11,Peds Pulmonology,NP Miller,Chest X-ray,Infectious,9,0,Normal,Routine Follow-up,Review
+18908,198,2025-06-16,Peds Neuro,PA Jordan,Urinalysis,GI,3,0,Normal,Routine Follow-up,Review
+34662,199,2025-06-17,Peds Neuro,Dr. Rivera,Chest X-ray,Infectious,10,0,Normal,None,Review
+12777,200,2025-06-28,Peds Neuro,Dr. Shah,Urinalysis,Respiratory,1,0,Abnormal,Phone Outreach,Actionable
+44789,201,2025-06-16,Peds Pulmonology,Dr. Kim,Throat Culture,GI,5,0,Abnormal,Rx Started,Actionable
+46598,202,2025-06-15,Peds Pulmonology,PA Jordan,Throat Culture,Infectious,12,0,Normal,Urgent Visit,Review
+38018,203,2025-07-09,Peds Neuro,Dr. Kim,Urinalysis,Endocrine,1,0,Normal,Rx Started,Review
+46769,204,2025-07-10,Peds Cardiology,PA Jordan,Chest X-ray,Endocrine,7,0,Normal,Routine Follow-up,Review
+13116,205,2025-06-13,Peds Primary Care,NP Miller,A1C,Cardiac,4,1,Normal,None,Non-actionable
+38882,206,2025-06-16,Peds Neuro,NP Miller,CRP,Respiratory,4,0,Normal,Referral,Review
+12398,207,2025-07-15,Peds GI,Dr. Rivera,Urinalysis,Cardiac,8,0,Abnormal,Referral,Actionable
+12448,208,2025-06-24,Peds GI,Dr. Rivera,Chest X-ray,Neuro,16,0,Normal,Urgent Visit,Review
+32365,209,2025-06-09,Peds GI,Dr. Rivera,CRP,Endocrine,10,0,Abnormal,Urgent Visit,Actionable
+20715,210,2025-07-10,Peds Cardiology,NP Miller,Chest X-ray,Endocrine,2,0,Missing,Routine Follow-up,Incomplete
+29966,211,2025-06-05,Peds GI,Dr. Kim,Urinalysis,Respiratory,9,0,Abnormal,None,Review
+42498,212,2025-06-27,Peds GI,PA Jordan,A1C,Respiratory,7,0,Normal,Routine Follow-up,Review
+19645,213,2025-06-21,Peds Pulmonology,Dr. Shah,CBC,Endocrine,17,0,Abnormal,Referral,Actionable
+33425,214,2025-07-22,Peds Cardiology,NP Miller,Throat Culture,Endocrine,15,0,Abnormal,None,Review
+34589,215,2025-06-28,Peds Primary Care,NP Miller,Chest X-ray,Neuro,6,0,Missing,Referral,Incomplete
+29541,216,2025-06-10,Peds Neuro,Dr. Kim,Lipid Panel,Cardiac,8,1,Abnormal,Rx Started,Actionable
+29362,217,2025-06-23,Peds Cardiology,Dr. Kim,CBC,Respiratory,14,0,Normal,None,Review
+37903,218,2025-06-07,Peds GI,Dr. Kim,A1C,Infectious,1,1,Normal,Phone Outreach,Review
+30132,219,2025-07-24,Peds GI,NP Miller,CBC,Cardiac,7,0,Normal,None,Review
+43244,220,2025-06-29,Peds Primary Care,Dr. Rivera,Urinalysis,Endocrine,7,0,Missing,None,Incomplete
+30184,221,2025-06-14,Peds Cardiology,PA Jordan,Chest X-ray,Infectious,11,0,Abnormal,None,Review
+13120,222,2025-06-01,Peds Cardiology,Dr. Shah,CRP,Endocrine,7,0,Normal,None,Review
+10198,223,2025-07-17,Peds Cardiology,Dr. Rivera,Urinalysis,Neuro,5,1,Normal,Routine Follow-up,Review
+28099,224,2025-06-14,Peds Cardiology,Dr. Kim,CRP,Well Child,2,0,Normal,Rx Started,Review
+18606,225,2025-07-24,Peds Cardiology,NP Miller,A1C,Endocrine,10,0,Normal,Phone Outreach,Review
+13739,226,2025-06-04,Peds Primary Care,Dr. Kim,CRP,Cardiac,2,0,Abnormal,None,Review
+32175,227,2025-06-18,Peds Pulmonology,Dr. Rivera,CBC,Well Child,17,0,Normal,Urgent Visit,Review
+16889,228,2025-07-10,Peds Primary Care,Dr. Kim,CBC,GI,14,0,Normal,None,Review
+12041,229,2025-06-16,Peds Pulmonology,NP Miller,A1C,Respiratory,6,0,Abnormal,Rx Started,Actionable
+29046,230,2025-06-27,Peds Primary Care,Dr. Shah,Urinalysis,Neuro,4,0,Normal,Rx Started,Review
+37240,231,2025-07-02,Peds GI,Dr. Kim,Chest X-ray,Respiratory,12,0,Normal,Phone Outreach,Review
+36631,232,2025-06-24,Peds Neuro,Dr. Shah,Lipid Panel,Infectious,9,0,Abnormal,None,Review
+22699,233,2025-07-26,Peds Primary Care,Dr. Shah,Chest X-ray,Cardiac,14,0,Normal,Routine Follow-up,Review
+42815,234,2025-06-13,Peds Cardiology,NP Miller,A1C,Cardiac,14,0,Normal,None,Review
+43866,235,2025-06-29,Peds Pulmonology,Dr. Shah,CRP,Respiratory,10,0,Normal,Phone Outreach,Review
+39114,236,2025-07-10,Peds GI,Dr. Shah,Urinalysis,GI,10,0,Normal,None,Review
+28059,237,2025-07-18,Peds Neuro,Dr. Rivera,Chest X-ray,Respiratory,7,1,Normal,Routine Follow-up,Review
+38389,238,2025-07-06,Peds GI,NP Miller,Chest X-ray,GI,14,0,Normal,None,Review
+32202,239,2025-06-28,Peds Pulmonology,PA Jordan,Throat Culture,Infectious,3,0,Normal,Rx Started,Review
+40030,240,2025-07-19,Peds Neuro,NP Miller,Chest X-ray,Endocrine,16,0,Missing,None,Incomplete
+39873,241,2025-06-27,Peds GI,Dr. Shah,Lipid Panel,Well Child,13,1,Normal,Routine Follow-up,Review
+48325,242,2025-07-26,Peds GI,Dr. Rivera,Chest X-ray,Neuro,9,0,Abnormal,Routine Follow-up,Actionable
+18055,243,2025-07-30,Peds GI,PA Jordan,CRP,Neuro,6,0,Normal,Referral,Review
+21703,244,2025-07-16,Peds Cardiology,NP Miller,A1C,Neuro,2,0,Normal,Referral,Review
+24781,245,2025-06-17,Peds Cardiology,Dr. Rivera,A1C,Well Child,12,1,Abnormal,None,Review
+32808,246,2025-06-22,Peds Cardiology,Dr. Shah,Lipid Panel,Endocrine,3,1,Abnormal,Routine Follow-up,Actionable
+25936,247,2025-06-20,Peds Cardiology,Dr. Kim,A1C,Endocrine,5,0,Missing,Routine Follow-up,Incomplete
+19369,248,2025-07-22,Peds Pulmonology,PA Jordan,CRP,GI,12,1,Normal,None,Non-actionable
+17256,249,2025-06-28,Peds Pulmonology,Dr. Kim,Throat Culture,Respiratory,8,0,Normal,None,Review
+38887,250,2025-07-24,Peds Pulmonology,Dr. Kim,CBC,Infectious,2,0,Normal,Routine Follow-up,Review
+27762,251,2025-06-10,Peds GI,PA Jordan,CBC,Cardiac,8,0,Normal,Phone Outreach,Review
+20904,252,2025-06-01,Peds Neuro,Dr. Rivera,Urinalysis,Neuro,1,0,Normal,None,Review
+46382,253,2025-06-16,Peds GI,Dr. Shah,Urinalysis,Cardiac,14,1,Normal,Rx Started,Review
+26053,254,2025-06-29,Peds Pulmonology,Dr. Shah,A1C,GI,2,0,Missing,Rx Started,Incomplete
+49214,255,2025-06-08,Peds GI,Dr. Shah,A1C,Neuro,5,1,Normal,Routine Follow-up,Review
+49886,256,2025-06-01,Peds Primary Care,Dr. Shah,Lipid Panel,Endocrine,10,0,Normal,None,Review
+18740,257,2025-07-01,Peds Pulmonology,Dr. Kim,Lipid Panel,Cardiac,15,0,Normal,None,Review
+18939,258,2025-06-17,Peds Neuro,Dr. Kim,Lipid Panel,Well Child,15,0,Normal,None,Review
+46937,259,2025-07-25,Peds Cardiology,PA Jordan,CRP,Respiratory,5,0,Normal,Phone Outreach,Review
+10813,260,2025-06-18,Peds Primary Care,NP Miller,A1C,Endocrine,4,0,Normal,None,Review
+35343,261,2025-07-30,Peds Cardiology,NP Miller,CRP,Respiratory,7,1,Normal,None,Non-actionable
+15222,262,2025-07-09,Peds Pulmonology,Dr. Shah,CRP,Neuro,11,0,Normal,Routine Follow-up,Review
+46511,263,2025-07-07,Peds GI,PA Jordan,CBC,Infectious,14,0,Normal,Routine Follow-up,Review
+12028,264,2025-07-10,Peds Cardiology,Dr. Kim,Throat Culture,Endocrine,1,0,Normal,Routine Follow-up,Review
+25587,265,2025-07-20,Peds Cardiology,Dr. Rivera,Chest X-ray,Respiratory,8,0,Missing,Rx Started,Incomplete
+43661,266,2025-06-14,Peds Neuro,Dr. Kim,Chest X-ray,Well Child,15,0,Normal,Rx Started,Review
+21967,267,2025-07-12,Peds Primary Care,NP Miller,CBC,Neuro,14,0,Normal,None,Review
+11414,268,2025-06-11,Peds Neuro,Dr. Shah,Lipid Panel,GI,6,0,Normal,Routine Follow-up,Review
+19415,269,2025-06-22,Peds Pulmonology,PA Jordan,Urinalysis,Cardiac,12,0,Abnormal,Referral,Actionable
+37794,270,2025-07-28,Peds Neuro,PA Jordan,CRP,GI,8,1,Abnormal,Referral,Actionable
+20111,271,2025-06-09,Peds Neuro,Dr. Kim,Lipid Panel,Well Child,10,0,Normal,None,Review
+33407,272,2025-06-27,Peds Cardiology,PA Jordan,CRP,Cardiac,16,1,Missing,Urgent Visit,Incomplete
+43701,273,2025-07-24,Peds Neuro,Dr. Kim,CRP,Well Child,5,0,Normal,Routine Follow-up,Review
+28559,274,2025-06-03,Peds Primary Care,Dr. Kim,Urinalysis,Respiratory,10,0,Normal,Routine Follow-up,Review
+35703,275,2025-07-20,Peds GI,Dr. Rivera,Chest X-ray,Endocrine,13,0,Normal,Routine Follow-up,Review
+19928,276,2025-07-04,Peds GI,NP Miller,CBC,GI,2,0,Normal,None,Review
+29767,277,2025-07-23,Peds Primary Care,PA Jordan,A1C,Respiratory,15,0,Abnormal,None,Review
+42328,278,2025-07-15,Peds Pulmonology,NP Miller,Lipid Panel,Neuro,9,0,Normal,None,Review
+23694,279,2025-06-23,Peds Neuro,Dr. Shah,A1C,GI,15,0,Missing,None,Incomplete
+15194,280,2025-06-02,Peds Cardiology,NP Miller,A1C,Endocrine,11,0,Normal,Urgent Visit,Review
+39395,281,2025-06-24,Peds Cardiology,Dr. Kim,Lipid Panel,GI,12,0,Normal,None,Review
+15837,282,2025-07-22,Peds Neuro,Dr. Rivera,A1C,Cardiac,9,0,Abnormal,Routine Follow-up,Actionable
+17217,283,2025-07-21,Peds Primary Care,PA Jordan,Urinalysis,Neuro,5,1,Abnormal,Routine Follow-up,Actionable
+14630,284,2025-07-17,Peds Neuro,PA Jordan,Lipid Panel,Neuro,1,0,Abnormal,Phone Outreach,Actionable
+13826,285,2025-07-15,Peds Pulmonology,PA Jordan,CRP,Endocrine,8,0,Normal,Referral,Review
+32121,286,2025-06-27,Peds Neuro,Dr. Rivera,Chest X-ray,Well Child,1,1,Normal,Phone Outreach,Review
+14507,287,2025-07-19,Peds Primary Care,NP Miller,Chest X-ray,Neuro,8,0,Normal,Routine Follow-up,Review
+45159,288,2025-06-14,Peds Neuro,PA Jordan,CRP,Well Child,6,0,Abnormal,None,Review
+44460,289,2025-06-04,Peds Cardiology,Dr. Rivera,Urinalysis,Well Child,17,1,Abnormal,Phone Outreach,Actionable
+39938,290,2025-06-05,Peds Cardiology,Dr. Rivera,Urinalysis,Neuro,10,0,Normal,Routine Follow-up,Review
+48562,291,2025-06-15,Peds Cardiology,Dr. Rivera,CBC,Cardiac,13,0,Normal,Rx Started,Review
+36726,292,2025-06-11,Peds Cardiology,Dr. Kim,Chest X-ray,Endocrine,10,0,Normal,Routine Follow-up,Review
+26217,293,2025-06-19,Peds GI,PA Jordan,Lipid Panel,Endocrine,15,0,Normal,Phone Outreach,Review
+21537,294,2025-06-03,Peds Cardiology,PA Jordan,Lipid Panel,Neuro,16,0,Missing,None,Incomplete
+27157,295,2025-07-21,Peds Neuro,PA Jordan,A1C,Neuro,16,0,Normal,None,Review
+30975,296,2025-07-27,Peds Cardiology,Dr. Shah,Urinalysis,Endocrine,6,0,Normal,Routine Follow-up,Review
+31734,297,2025-07-13,Peds GI,PA Jordan,Chest X-ray,Infectious,9,0,Normal,Rx Started,Review
+17763,298,2025-06-14,Peds Neuro,Dr. Rivera,Chest X-ray,Well Child,1,0,Normal,Routine Follow-up,Review
+24227,299,2025-07-19,Peds Cardiology,Dr. Kim,Throat Culture,Endocrine,13,0,Abnormal,Rx Started,Actionable
+41653,300,2025-06-24,Peds Pulmonology,PA Jordan,Chest X-ray,Well Child,7,1,Abnormal,Rx Started,Actionable
+11317,301,2025-07-10,Peds Pulmonology,Dr. Shah,A1C,GI,14,0,Missing,None,Incomplete
+43490,302,2025-07-07,Peds Pulmonology,NP Miller,Lipid Panel,Endocrine,13,0,Normal,None,Review
+16493,303,2025-07-07,Peds Pulmonology,Dr. Shah,CRP,Neuro,16,0,Abnormal,Routine Follow-up,Actionable
+40278,304,2025-07-19,Peds Pulmonology,Dr. Shah,Lipid Panel,Cardiac,7,0,Normal,None,Review
+12817,305,2025-07-19,Peds Pulmonology,PA Jordan,CRP,Cardiac,10,0,Normal,Routine Follow-up,Review
+33071,306,2025-07-18,Peds Primary Care,Dr. Rivera,Chest X-ray,Well Child,15,0,Normal,Urgent Visit,Review
+28185,307,2025-06-08,Peds Neuro,PA Jordan,CBC,Endocrine,14,1,Normal,Phone Outreach,Review
+18895,308,2025-06-15,Peds Primary Care,Dr. Rivera,Throat Culture,Cardiac,8,0,Normal,Routine Follow-up,Review
+33489,309,2025-07-22,Peds GI,Dr. Shah,Lipid Panel,Infectious,5,0,Abnormal,Phone Outreach,Actionable
+40096,310,2025-06-07,Peds Cardiology,NP Miller,Urinalysis,GI,6,1,Normal,Routine Follow-up,Review
+20299,311,2025-07-29,Peds Cardiology,Dr. Shah,Throat Culture,Neuro,2,0,Normal,Rx Started,Review
+36256,312,2025-06-28,Peds Neuro,Dr. Kim,CBC,Endocrine,1,0,Missing,Routine Follow-up,Incomplete
+49539,313,2025-07-19,Peds Neuro,Dr. Kim,CBC,Endocrine,13,0,Abnormal,Routine Follow-up,Actionable
+43070,314,2025-07-02,Peds Neuro,Dr. Kim,Urinalysis,GI,9,1,Normal,None,Non-actionable
+20537,315,2025-07-06,Peds Cardiology,PA Jordan,CRP,GI,2,0,Normal,Routine Follow-up,Review
+49187,316,2025-06-25,Peds Cardiology,Dr. Rivera,Urinalysis,Neuro,1,0,Abnormal,None,Review
+34656,317,2025-07-16,Peds Cardiology,Dr. Kim,Chest X-ray,Respiratory,15,0,Abnormal,Phone Outreach,Actionable
+27788,318,2025-07-23,Peds GI,Dr. Shah,A1C,GI,15,0,Missing,Phone Outreach,Incomplete
+30067,319,2025-06-24,Peds Cardiology,Dr. Shah,Urinalysis,GI,10,0,Abnormal,Referral,Actionable
+30413,320,2025-07-07,Peds Cardiology,Dr. Shah,Urinalysis,GI,2,0,Normal,None,Review
+13349,321,2025-07-09,Peds GI,NP Miller,Lipid Panel,Well Child,9,0,Normal,None,Review
+21954,322,2025-07-25,Peds GI,NP Miller,Lipid Panel,Endocrine,2,0,Normal,Phone Outreach,Review
+14917,323,2025-07-02,Peds Cardiology,NP Miller,CRP,Neuro,11,0,Normal,Phone Outreach,Review
+36963,324,2025-07-04,Peds Primary Care,Dr. Shah,Throat Culture,Respiratory,14,0,Abnormal,Routine Follow-up,Actionable
+11125,325,2025-07-25,Peds Neuro,NP Miller,CBC,Infectious,15,0,Normal,Routine Follow-up,Review
+19639,326,2025-07-08,Peds Pulmonology,Dr. Rivera,A1C,Well Child,13,0,Normal,None,Review
+19212,327,2025-07-30,Peds Primary Care,Dr. Rivera,Lipid Panel,Respiratory,9,0,Normal,None,Review
+29520,328,2025-07-27,Peds GI,PA Jordan,CBC,Respiratory,6,1,Abnormal,None,Review
+23795,329,2025-06-07,Peds Cardiology,NP Miller,Throat Culture,Well Child,17,0,Abnormal,None,Review
+45786,330,2025-07-05,Peds GI,Dr. Rivera,Throat Culture,Endocrine,1,0,Normal,Routine Follow-up,Review
+13599,331,2025-07-12,Peds Primary Care,PA Jordan,Lipid Panel,GI,7,0,Normal,Referral,Review
+41924,332,2025-06-18,Peds Primary Care,Dr. Kim,A1C,Respiratory,10,0,Normal,Phone Outreach,Review
+44158,333,2025-07-05,Peds Primary Care,PA Jordan,A1C,Neuro,2,0,Abnormal,Rx Started,Actionable
+31488,334,2025-06-15,Peds Primary Care,Dr. Shah,A1C,Cardiac,14,0,Abnormal,Rx Started,Actionable
+34343,335,2025-07-07,Peds Primary Care,Dr. Shah,Urinalysis,GI,6,0,Missing,Rx Started,Incomplete
+26029,336,2025-06-10,Peds Cardiology,NP Miller,Urinalysis,Infectious,9,1,Abnormal,Referral,Actionable
+41443,337,2025-06-20,Peds Pulmonology,Dr. Shah,Lipid Panel,GI,11,0,Normal,None,Review
+44924,338,2025-06-18,Peds Pulmonology,Dr. Kim,Urinalysis,GI,17,0,Normal,Rx Started,Review
+32555,339,2025-06-28,Peds Neuro,Dr. Shah,A1C,Neuro,14,0,Abnormal,None,Review
+11512,340,2025-07-16,Peds Neuro,Dr. Rivera,Urinalysis,Well Child,13,0,Missing,Referral,Incomplete
+47758,341,2025-07-02,Peds Pulmonology,Dr. Kim,Chest X-ray,Endocrine,4,0,Normal,None,Review
+34361,342,2025-06-18,Peds GI,Dr. Rivera,Chest X-ray,Well Child,17,0,Normal,None,Review
+20217,343,2025-06-22,Peds GI,PA Jordan,Urinalysis,Infectious,15,0,Missing,Rx Started,Incomplete
+21430,344,2025-07-10,Peds Neuro,Dr. Shah,CBC,Neuro,3,0,Missing,None,Incomplete
+28994,345,2025-06-13,Peds Pulmonology,Dr. Shah,Lipid Panel,Respiratory,3,0,Normal,Phone Outreach,Review
+12360,346,2025-06-07,Peds Neuro,Dr. Shah,Chest X-ray,Infectious,16,0,Normal,None,Review
+33700,347,2025-06-23,Peds Primary Care,Dr. Kim,Urinalysis,Cardiac,8,1,Normal,Referral,Review
+28071,348,2025-07-18,Peds Cardiology,Dr. Shah,CRP,Well Child,11,0,Normal,None,Review
+31733,349,2025-06-12,Peds Cardiology,Dr. Shah,Urinalysis,Infectious,12,0,Missing,Phone Outreach,Incomplete
+19060,350,2025-07-22,Peds Neuro,Dr. Rivera,CBC,Well Child,5,0,Normal,Urgent Visit,Review
+24229,351,2025-07-28,Peds Primary Care,Dr. Kim,A1C,Neuro,6,1,Normal,Phone Outreach,Review
+10911,352,2025-06-04,Peds Pulmonology,NP Miller,CRP,GI,4,0,Normal,None,Review
+42544,353,2025-07-23,Peds Cardiology,PA Jordan,Chest X-ray,Endocrine,12,1,Normal,Routine Follow-up,Review
+18943,354,2025-07-25,Peds Pulmonology,Dr. Shah,Urinalysis,Well Child,15,0,Normal,None,Review
+42063,355,2025-07-23,Peds GI,NP Miller,Urinalysis,Endocrine,6,0,Normal,None,Review
+28063,356,2025-06-13,Peds Primary Care,Dr. Kim,Chest X-ray,Endocrine,15,1,Normal,Phone Outreach,Review
+32287,357,2025-06-04,Peds Primary Care,NP Miller,Lipid Panel,Cardiac,15,0,Normal,Rx Started,Review
+26384,358,2025-07-16,Peds Pulmonology,Dr. Kim,A1C,GI,12,0,Abnormal,None,Review
+37317,359,2025-06-11,Peds Cardiology,Dr. Kim,CBC,Respiratory,10,0,Normal,Phone Outreach,Review
+30687,360,2025-06-04,Peds Pulmonology,Dr. Shah,Urinalysis,GI,10,0,Normal,None,Review
+10388,361,2025-07-16,Peds Cardiology,Dr. Shah,Lipid Panel,Respiratory,3,0,Abnormal,Phone Outreach,Actionable
+32080,362,2025-06-21,Peds Neuro,Dr. Shah,CBC,Respiratory,10,0,Normal,Phone Outreach,Review
+46008,363,2025-06-18,Peds Pulmonology,NP Miller,Lipid Panel,Cardiac,6,0,Abnormal,None,Review
+49310,364,2025-07-11,Peds Neuro,Dr. Shah,Throat Culture,GI,7,1,Normal,None,Non-actionable
+42344,365,2025-06-25,Peds Primary Care,NP Miller,Lipid Panel,Cardiac,4,1,Normal,Urgent Visit,Review
+25538,366,2025-06-21,Peds Neuro,PA Jordan,Chest X-ray,Cardiac,2,0,Normal,Phone Outreach,Review
+39021,367,2025-07-22,Peds Pulmonology,Dr. Kim,A1C,Cardiac,10,0,Abnormal,Referral,Actionable
+10653,368,2025-07-13,Peds GI,Dr. Kim,A1C,Respiratory,7,0,Abnormal,Referral,Actionable
+17637,369,2025-07-29,Peds Neuro,Dr. Rivera,Throat Culture,Infectious,13,0,Normal,Rx Started,Review
+26354,370,2025-07-11,Peds Pulmonology,Dr. Shah,Chest X-ray,Infectious,4,0,Normal,Routine Follow-up,Review
+24697,371,2025-06-14,Peds Pulmonology,NP Miller,Urinalysis,Well Child,6,0,Normal,Routine Follow-up,Review
+26110,372,2025-07-25,Peds Pulmonology,Dr. Kim,Chest X-ray,Respiratory,5,0,Abnormal,Phone Outreach,Actionable
+24606,373,2025-06-30,Peds Neuro,NP Miller,Chest X-ray,Endocrine,10,0,Normal,None,Review
+37246,374,2025-06-01,Peds GI,Dr. Shah,CBC,Infectious,12,0,Normal,None,Review
+26625,375,2025-07-16,Peds Pulmonology,Dr. Rivera,CBC,GI,1,0,Normal,Phone Outreach,Review
+12220,376,2025-06-09,Peds Cardiology,NP Miller,Lipid Panel,Neuro,6,0,Normal,Phone Outreach,Review
+15522,377,2025-06-12,Peds GI,NP Miller,A1C,Infectious,16,0,Normal,None,Review
+38820,378,2025-07-22,Peds Pulmonology,Dr. Kim,A1C,Infectious,8,0,Normal,None,Review
+20530,379,2025-06-25,Peds Pulmonology,PA Jordan,Urinalysis,Neuro,13,1,Abnormal,Routine Follow-up,Actionable
+45468,380,2025-07-22,Peds Cardiology,Dr. Rivera,Chest X-ray,Respiratory,8,0,Abnormal,Referral,Actionable
+37053,381,2025-07-17,Peds Pulmonology,PA Jordan,Chest X-ray,GI,14,1,Missing,Phone Outreach,Incomplete
+30340,382,2025-06-18,Peds Pulmonology,Dr. Shah,CRP,Endocrine,9,0,Normal,None,Review
+28265,383,2025-06-26,Peds Primary Care,Dr. Kim,A1C,Neuro,16,0,Abnormal,Routine Follow-up,Actionable
+24490,384,2025-06-15,Peds Pulmonology,Dr. Shah,Throat Culture,Endocrine,9,0,Normal,Referral,Review
+20811,385,2025-06-13,Peds GI,PA Jordan,Throat Culture,GI,17,0,Normal,None,Review
+25554,386,2025-07-21,Peds Neuro,Dr. Shah,CBC,Infectious,14,0,Normal,None,Review
+47497,387,2025-07-10,Peds Pulmonology,Dr. Rivera,Throat Culture,Respiratory,14,0,Normal,Phone Outreach,Review
+37748,388,2025-07-19,Peds GI,Dr. Shah,CBC,Endocrine,14,0,Normal,Referral,Review
+35000,389,2025-06-10,Peds Cardiology,Dr. Rivera,CBC,Cardiac,11,0,Normal,Phone Outreach,Review
+49673,390,2025-07-15,Peds Pulmonology,NP Miller,CRP,GI,14,0,Missing,None,Incomplete
+31068,391,2025-07-30,Peds Neuro,Dr. Shah,Urinalysis,Infectious,10,0,Normal,None,Review
+21571,392,2025-07-04,Peds GI,PA Jordan,Urinalysis,GI,7,0,Normal,None,Review
+14519,393,2025-07-10,Peds Neuro,Dr. Rivera,CRP,GI,2,0,Normal,None,Review
+35068,394,2025-06-10,Peds GI,Dr. Shah,Throat Culture,Endocrine,13,0,Normal,Routine Follow-up,Review
+11892,395,2025-07-15,Peds GI,Dr. Shah,Lipid Panel,Infectious,7,0,Normal,None,Review
+38212,396,2025-07-20,Peds Pulmonology,NP Miller,Chest X-ray,Endocrine,7,1,Normal,Rx Started,Review
+47323,397,2025-07-08,Peds GI,PA Jordan,A1C,Endocrine,10,0,Normal,None,Review
+21833,398,2025-07-24,Peds Neuro,Dr. Shah,Lipid Panel,Neuro,11,0,Normal,Phone Outreach,Review
+38512,399,2025-06-09,Peds GI,Dr. Rivera,Lipid Panel,Cardiac,12,0,Normal,Urgent Visit,Review
+36454,400,2025-07-15,Peds Cardiology,Dr. Rivera,A1C,Endocrine,12,0,Missing,None,Incomplete
+20214,401,2025-07-10,Peds Cardiology,Dr. Kim,CBC,Neuro,15,0,Normal,Rx Started,Review
+45350,402,2025-06-18,Peds Primary Care,Dr. Shah,Lipid Panel,Well Child,16,0,Normal,None,Review
+13901,403,2025-07-04,Peds Primary Care,PA Jordan,Lipid Panel,Cardiac,11,0,Normal,None,Review
+37464,404,2025-07-24,Peds Primary Care,Dr. Rivera,CRP,Well Child,5,1,Missing,None,Incomplete
+29693,405,2025-07-19,Peds Cardiology,Dr. Kim,A1C,Endocrine,8,0,Normal,Routine Follow-up,Review
+12947,406,2025-07-08,Peds Pulmonology,NP Miller,Chest X-ray,Respiratory,3,0,Abnormal,Urgent Visit,Actionable
+16823,407,2025-07-30,Peds Neuro,Dr. Shah,Chest X-ray,Endocrine,15,0,Normal,Routine Follow-up,Review
+37526,408,2025-07-01,Peds Neuro,PA Jordan,Throat Culture,GI,15,0,Normal,Routine Follow-up,Review
+31083,409,2025-06-07,Peds Cardiology,Dr. Kim,CRP,Respiratory,6,1,Abnormal,None,Review
+35805,410,2025-06-25,Peds Neuro,Dr. Shah,CRP,GI,7,0,Abnormal,Routine Follow-up,Actionable
+22712,411,2025-07-27,Peds Pulmonology,Dr. Kim,A1C,Neuro,10,0,Missing,Phone Outreach,Incomplete
+39740,412,2025-07-27,Peds Primary Care,Dr. Rivera,Urinalysis,Endocrine,12,0,Normal,Rx Started,Review
+16048,413,2025-06-08,Peds GI,Dr. Shah,Chest X-ray,Neuro,2,1,Normal,Routine Follow-up,Review
+16246,414,2025-07-24,Peds Neuro,NP Miller,Chest X-ray,Cardiac,5,1,Abnormal,Referral,Actionable
+15803,415,2025-07-16,Peds Pulmonology,NP Miller,CRP,Respiratory,9,0,Normal,Phone Outreach,Review
+31271,416,2025-06-19,Peds Neuro,Dr. Shah,CBC,Infectious,1,0,Abnormal,Referral,Actionable
+11129,417,2025-06-04,Peds Primary Care,Dr. Kim,Chest X-ray,Endocrine,17,0,Normal,Referral,Review
+43705,418,2025-06-20,Peds Pulmonology,Dr. Kim,CBC,GI,11,0,Normal,Phone Outreach,Review
+45459,419,2025-07-12,Peds GI,Dr. Rivera,Urinalysis,Infectious,15,0,Normal,Routine Follow-up,Review
+10845,420,2025-07-30,Peds Cardiology,Dr. Shah,Throat Culture,GI,9,0,Normal,Rx Started,Review
+46102,421,2025-07-03,Peds Cardiology,Dr. Kim,Lipid Panel,Respiratory,3,0,Abnormal,None,Review
+48288,422,2025-06-09,Peds GI,Dr. Kim,A1C,Infectious,9,0,Missing,Referral,Incomplete
+25099,423,2025-06-15,Peds Cardiology,PA Jordan,Chest X-ray,Neuro,8,0,Normal,Urgent Visit,Review
+43121,424,2025-07-26,Peds Cardiology,NP Miller,CBC,Endocrine,7,1,Missing,Phone Outreach,Incomplete
+13068,425,2025-07-17,Peds Cardiology,NP Miller,Urinalysis,Respiratory,7,0,Abnormal,None,Review
+42090,426,2025-06-15,Peds Pulmonology,Dr. Rivera,Chest X-ray,Well Child,1,0,Abnormal,Referral,Actionable
+15702,427,2025-06-11,Peds Primary Care,Dr. Kim,CBC,Endocrine,1,0,Normal,Urgent Visit,Review
+11005,428,2025-07-22,Peds Neuro,Dr. Shah,Chest X-ray,Respiratory,11,0,Normal,Rx Started,Review
+47357,429,2025-06-27,Peds Primary Care,Dr. Kim,Lipid Panel,Neuro,2,0,Abnormal,Rx Started,Actionable
+32701,430,2025-06-28,Peds Primary Care,Dr. Rivera,A1C,Infectious,10,0,Normal,None,Review
+27621,431,2025-07-12,Peds Neuro,PA Jordan,Chest X-ray,Respiratory,7,0,Abnormal,Referral,Actionable
+40795,432,2025-07-05,Peds Pulmonology,Dr. Shah,A1C,Endocrine,5,0,Normal,None,Review
+25565,433,2025-06-07,Peds Primary Care,Dr. Kim,CBC,Cardiac,8,1,Abnormal,Referral,Actionable
+11226,434,2025-06-24,Peds Neuro,NP Miller,CRP,Respiratory,2,0,Normal,Phone Outreach,Review
+37765,435,2025-06-22,Peds Pulmonology,Dr. Shah,A1C,Neuro,9,0,Abnormal,None,Review
+24224,436,2025-06-06,Peds GI,Dr. Rivera,A1C,Cardiac,15,1,Normal,Urgent Visit,Review
+45055,437,2025-06-27,Peds Cardiology,Dr. Rivera,Throat Culture,Cardiac,9,1,Normal,None,Non-actionable
+45241,438,2025-06-10,Peds Primary Care,Dr. Shah,Urinalysis,GI,17,0,Missing,None,Incomplete
+47834,439,2025-06-06,Peds Cardiology,Dr. Rivera,Lipid Panel,Endocrine,2,0,Normal,Phone Outreach,Review
+13373,440,2025-06-29,Peds Primary Care,Dr. Shah,Throat Culture,Respiratory,10,1,Normal,Rx Started,Review
+18637,441,2025-07-29,Peds GI,NP Miller,CRP,Well Child,5,1,Abnormal,Rx Started,Actionable
+12630,442,2025-07-02,Peds Neuro,PA Jordan,A1C,Endocrine,4,0,Normal,None,Review
+38317,443,2025-07-17,Peds Primary Care,Dr. Rivera,A1C,Cardiac,11,0,Normal,None,Review
+19027,444,2025-06-09,Peds Neuro,Dr. Rivera,Urinalysis,Well Child,15,1,Abnormal,Phone Outreach,Actionable
+18075,445,2025-06-11,Peds Primary Care,Dr. Shah,Lipid Panel,Endocrine,1,0,Normal,Routine Follow-up,Review
+47099,446,2025-06-20,Peds Neuro,Dr. Shah,Urinalysis,Well Child,12,0,Normal,Routine Follow-up,Review
+35050,447,2025-07-23,Peds Neuro,Dr. Rivera,Throat Culture,Well Child,17,0,Abnormal,None,Review
+25456,448,2025-07-01,Peds Primary Care,Dr. Shah,CBC,Respiratory,1,1,Missing,None,Incomplete
+21128,449,2025-06-26,Peds Primary Care,Dr. Kim,A1C,Neuro,5,1,Normal,Phone Outreach,Review
+36415,450,2025-06-28,Peds Neuro,Dr. Rivera,Urinalysis,GI,3,0,Normal,None,Review
+39308,451,2025-07-02,Peds Cardiology,Dr. Rivera,CBC,Endocrine,7,0,Missing,Routine Follow-up,Incomplete
+39670,452,2025-06-18,Peds Neuro,Dr. Rivera,CRP,Cardiac,1,1,Abnormal,Routine Follow-up,Actionable
+38733,453,2025-06-20,Peds Cardiology,NP Miller,Lipid Panel,Well Child,14,0,Abnormal,Phone Outreach,Actionable
+33511,454,2025-07-02,Peds Pulmonology,Dr. Kim,CBC,Endocrine,11,1,Normal,Phone Outreach,Review
+38302,455,2025-06-21,Peds Neuro,Dr. Shah,CRP,Neuro,17,0,Normal,Routine Follow-up,Review
+40065,456,2025-07-07,Peds Neuro,Dr. Kim,CBC,GI,7,1,Abnormal,Routine Follow-up,Actionable
+18029,457,2025-06-13,Peds Cardiology,Dr. Rivera,Chest X-ray,Neuro,16,0,Normal,None,Review
+44787,458,2025-07-19,Peds Primary Care,PA Jordan,A1C,Respiratory,11,1,Normal,Referral,Review
+39584,459,2025-06-01,Peds Pulmonology,NP Miller,Lipid Panel,Endocrine,6,1,Normal,Referral,Review
+40694,460,2025-06-10,Peds Primary Care,Dr. Kim,CBC,Respiratory,4,0,Abnormal,Rx Started,Actionable
+49096,461,2025-07-27,Peds GI,Dr. Shah,Throat Culture,Well Child,16,1,Normal,None,Non-actionable
+25690,462,2025-07-26,Peds Primary Care,Dr. Shah,Lipid Panel,Neuro,10,0,Abnormal,None,Review
+13929,463,2025-07-01,Peds GI,Dr. Kim,Chest X-ray,Well Child,5,1,Normal,None,Non-actionable
+34726,464,2025-06-23,Peds Neuro,PA Jordan,A1C,Respiratory,1,0,Abnormal,Rx Started,Actionable
+30030,465,2025-07-07,Peds Primary Care,Dr. Shah,Lipid Panel,Well Child,14,0,Abnormal,Referral,Actionable
+28167,466,2025-06-04,Peds Neuro,Dr. Shah,Throat Culture,Cardiac,10,1,Abnormal,Routine Follow-up,Actionable
+43071,467,2025-07-12,Peds Pulmonology,Dr. Rivera,CBC,Cardiac,2,0,Normal,Routine Follow-up,Review
+34685,468,2025-07-11,Peds Primary Care,Dr. Kim,CBC,Endocrine,6,0,Normal,Phone Outreach,Review
+22291,469,2025-07-05,Peds GI,PA Jordan,Chest X-ray,Well Child,3,1,Normal,None,Non-actionable
+11122,470,2025-07-27,Peds Pulmonology,Dr. Rivera,CRP,Endocrine,12,0,Normal,Phone Outreach,Review
+20679,471,2025-07-02,Peds Pulmonology,PA Jordan,Chest X-ray,Neuro,7,0,Normal,None,Review
+29992,472,2025-07-08,Peds Neuro,Dr. Rivera,CRP,Cardiac,3,0,Normal,Routine Follow-up,Review
+23750,473,2025-06-17,Peds Primary Care,Dr. Shah,Chest X-ray,Endocrine,4,0,Normal,Phone Outreach,Review
+13304,474,2025-06-16,Peds Primary Care,PA Jordan,Throat Culture,Infectious,4,0,Missing,Phone Outreach,Incomplete
+36363,475,2025-07-28,Peds Pulmonology,Dr. Rivera,Urinalysis,Well Child,10,0,Normal,None,Review
+40982,476,2025-06-23,Peds GI,Dr. Rivera,Urinalysis,GI,11,0,Normal,Referral,Review
+22683,477,2025-06-15,Peds Cardiology,Dr. Shah,CRP,Respiratory,14,0,Abnormal,Phone Outreach,Actionable
+19783,478,2025-06-20,Peds Cardiology,Dr. Rivera,Throat Culture,Endocrine,17,0,Normal,None,Review
+48056,479,2025-06-14,Peds Pulmonology,Dr. Kim,Urinalysis,Respiratory,6,0,Abnormal,Routine Follow-up,Actionable
+37646,480,2025-06-27,Peds Primary Care,Dr. Kim,CRP,GI,12,0,Abnormal,Rx Started,Actionable
+13399,481,2025-06-04,Peds Cardiology,Dr. Rivera,A1C,Well Child,11,0,Normal,None,Review
+21815,482,2025-07-13,Peds Neuro,Dr. Kim,CRP,Cardiac,1,1,Normal,Phone Outreach,Review
+49609,483,2025-07-16,Peds Pulmonology,Dr. Shah,Urinalysis,Cardiac,3,0,Normal,Routine Follow-up,Review
+30306,484,2025-06-27,Peds Cardiology,Dr. Rivera,Lipid Panel,Endocrine,4,0,Missing,None,Incomplete
+34659,485,2025-07-24,Peds Pulmonology,Dr. Rivera,A1C,Infectious,16,0,Normal,None,Review
+10594,486,2025-07-16,Peds Neuro,Dr. Kim,CRP,Infectious,14,0,Abnormal,None,Review
+21672,487,2025-07-28,Peds Neuro,Dr. Kim,Lipid Panel,GI,17,0,Abnormal,Phone Outreach,Actionable
+30379,488,2025-06-12,Peds Neuro,NP Miller,CRP,Infectious,3,0,Normal,Phone Outreach,Review
+24526,489,2025-07-07,Peds Pulmonology,PA Jordan,Lipid Panel,Cardiac,4,0,Normal,Phone Outreach,Review
+21525,490,2025-07-24,Peds Cardiology,PA Jordan,A1C,Well Child,10,0,Normal,Routine Follow-up,Review
+49055,491,2025-06-09,Peds Neuro,Dr. Rivera,CRP,Infectious,5,0,Normal,Urgent Visit,Review
+48128,492,2025-07-29,Peds Pulmonology,NP Miller,Lipid Panel,Infectious,12,0,Missing,None,Incomplete
+44412,493,2025-06-03,Peds GI,NP Miller,CRP,Respiratory,8,0,Normal,Routine Follow-up,Review
+26338,494,2025-07-29,Peds Primary Care,Dr. Kim,Chest X-ray,Infectious,12,1,Normal,Phone Outreach,Review
+23098,495,2025-06-02,Peds Cardiology,Dr. Kim,Urinalysis,Respiratory,6,0,Abnormal,None,Review
+12069,496,2025-06-12,Peds Neuro,PA Jordan,Chest X-ray,Endocrine,5,0,Normal,Referral,Review
+34002,497,2025-07-06,Peds Pulmonology,Dr. Kim,Urinalysis,Infectious,13,0,Abnormal,None,Review
+14789,498,2025-07-27,Peds Cardiology,Dr. Shah,A1C,GI,7,1,Normal,Routine Follow-up,Review
+13485,499,2025-06-27,Peds Cardiology,PA Jordan,CBC,Endocrine,7,0,Normal,None,Review
+35657,500,2025-06-27,Peds Cardiology,Dr. Kim,CBC,Endocrine,7,0,Abnormal,Phone Outreach,Actionable
+36117,501,2025-07-27,Peds Primary Care,Dr. Kim,Urinalysis,Endocrine,1,0,Abnormal,None,Review
+11723,502,2025-06-20,Peds GI,Dr. Shah,A1C,GI,4,0,Normal,Rx Started,Review
+41705,503,2025-07-15,Peds Pulmonology,Dr. Rivera,Throat Culture,Cardiac,14,0,Abnormal,Phone Outreach,Actionable
+27964,504,2025-07-28,Peds Primary Care,Dr. Shah,Chest X-ray,Endocrine,10,0,Missing,Rx Started,Incomplete
+15444,505,2025-07-16,Peds GI,Dr. Rivera,Urinalysis,Well Child,6,0,Normal,Phone Outreach,Review
+43381,506,2025-06-16,Peds GI,Dr. Shah,CRP,Respiratory,17,1,Normal,Referral,Review
+24013,507,2025-07-14,Peds Cardiology,Dr. Kim,CRP,Neuro,1,0,Normal,None,Review
+44383,508,2025-07-01,Peds Pulmonology,NP Miller,CBC,Cardiac,5,0,Normal,Routine Follow-up,Review
+27195,509,2025-07-11,Peds Neuro,NP Miller,CRP,Endocrine,11,1,Normal,Urgent Visit,Review
+29378,510,2025-07-09,Peds Cardiology,NP Miller,Chest X-ray,GI,8,0,Missing,Phone Outreach,Incomplete
+47711,511,2025-07-08,Peds Primary Care,PA Jordan,CRP,Infectious,14,0,Normal,Routine Follow-up,Review
+37168,512,2025-06-30,Peds Pulmonology,Dr. Kim,CBC,Infectious,5,0,Normal,Phone Outreach,Review
+35316,513,2025-07-14,Peds Pulmonology,NP Miller,Urinalysis,Respiratory,3,0,Normal,None,Review
+45096,514,2025-06-14,Peds GI,PA Jordan,Lipid Panel,Endocrine,6,0,Normal,None,Review
+46491,515,2025-06-26,Peds Neuro,Dr. Kim,CRP,Infectious,9,0,Normal,Phone Outreach,Review
+24163,516,2025-07-12,Peds Pulmonology,PA Jordan,Lipid Panel,Infectious,5,0,Normal,None,Review
+10298,517,2025-07-21,Peds Primary Care,PA Jordan,Throat Culture,Endocrine,9,0,Normal,Referral,Review
+26226,518,2025-07-27,Peds Cardiology,PA Jordan,CRP,Cardiac,6,0,Normal,Routine Follow-up,Review
+37317,519,2025-06-05,Peds Cardiology,Dr. Rivera,CRP,Respiratory,5,0,Normal,None,Review
+24461,520,2025-07-02,Peds Cardiology,PA Jordan,Throat Culture,Well Child,17,0,Normal,Referral,Review
+20211,521,2025-07-27,Peds Primary Care,Dr. Shah,A1C,Infectious,8,0,Normal,Referral,Review
+31844,522,2025-07-12,Peds Neuro,Dr. Shah,CRP,GI,2,0,Abnormal,Phone Outreach,Actionable
+23875,523,2025-07-17,Peds Cardiology,NP Miller,CBC,Endocrine,3,0,Normal,Phone Outreach,Review
+24949,524,2025-06-14,Peds Primary Care,Dr. Kim,A1C,Infectious,5,1,Abnormal,Referral,Actionable
+24872,525,2025-07-17,Peds GI,PA Jordan,CBC,GI,10,1,Missing,Routine Follow-up,Incomplete
+25278,526,2025-07-18,Peds Primary Care,NP Miller,CRP,GI,6,1,Abnormal,Routine Follow-up,Actionable
+36010,527,2025-07-03,Peds Cardiology,Dr. Rivera,Lipid Panel,Cardiac,2,0,Normal,None,Review
+37560,528,2025-07-20,Peds GI,Dr. Shah,Urinalysis,Cardiac,13,0,Normal,None,Review
+35644,529,2025-07-07,Peds Cardiology,NP Miller,Lipid Panel,GI,4,0,Normal,Routine Follow-up,Review
+19146,530,2025-07-07,Peds Primary Care,Dr. Kim,Lipid Panel,Neuro,8,0,Normal,Rx Started,Review
+32197,531,2025-07-01,Peds Primary Care,Dr. Shah,CBC,Infectious,10,0,Normal,Urgent Visit,Review
+49398,532,2025-06-10,Peds Primary Care,Dr. Kim,CRP,Neuro,1,1,Abnormal,Phone Outreach,Actionable
+16250,533,2025-06-03,Peds Neuro,Dr. Shah,CRP,Respiratory,2,0,Missing,Referral,Incomplete
+20493,534,2025-06-09,Peds Neuro,PA Jordan,Throat Culture,Well Child,7,0,Normal,Rx Started,Review
+13781,535,2025-07-04,Peds Neuro,Dr. Shah,Throat Culture,Cardiac,11,0,Normal,Routine Follow-up,Review
+17632,536,2025-06-20,Peds Cardiology,Dr. Kim,Lipid Panel,Infectious,2,0,Abnormal,None,Review
+49489,537,2025-06-01,Peds Primary Care,NP Miller,CRP,Well Child,15,0,Normal,None,Review
+37447,538,2025-07-03,Peds Cardiology,Dr. Kim,Throat Culture,Cardiac,9,1,Abnormal,Phone Outreach,Actionable
+40690,539,2025-06-29,Peds Neuro,Dr. Shah,Lipid Panel,Infectious,10,0,Missing,None,Incomplete
+37082,540,2025-07-12,Peds Cardiology,Dr. Rivera,A1C,Infectious,6,0,Normal,Routine Follow-up,Review
+33996,541,2025-06-11,Peds Cardiology,NP Miller,A1C,Infectious,2,0,Abnormal,None,Review
+48572,542,2025-06-07,Peds GI,Dr. Shah,A1C,Cardiac,11,0,Abnormal,Phone Outreach,Actionable
+23714,543,2025-07-29,Peds GI,NP Miller,Urinalysis,Cardiac,10,0,Missing,Routine Follow-up,Incomplete
+23615,544,2025-07-22,Peds Neuro,Dr. Rivera,Lipid Panel,GI,14,0,Normal,Routine Follow-up,Review
+18951,545,2025-07-26,Peds GI,Dr. Kim,Chest X-ray,Respiratory,9,1,Normal,Rx Started,Review
+38649,546,2025-07-24,Peds Neuro,Dr. Kim,CRP,Respiratory,11,0,Normal,Phone Outreach,Review
+15338,547,2025-06-20,Peds GI,PA Jordan,Urinalysis,Neuro,1,0,Normal,Routine Follow-up,Review
+27102,548,2025-07-22,Peds GI,Dr. Kim,CRP,Infectious,7,1,Normal,Referral,Review
+17636,549,2025-06-28,Peds Cardiology,Dr. Rivera,Lipid Panel,GI,2,0,Missing,Phone Outreach,Incomplete
+45571,550,2025-07-13,Peds Pulmonology,Dr. Shah,Chest X-ray,Neuro,3,0,Missing,Routine Follow-up,Incomplete
+44856,551,2025-06-08,Peds Primary Care,Dr. Kim,A1C,Neuro,12,0,Abnormal,Rx Started,Actionable
+41198,552,2025-06-24,Peds Pulmonology,Dr. Shah,A1C,Cardiac,12,0,Normal,None,Review
+15827,553,2025-06-22,Peds Pulmonology,Dr. Shah,Throat Culture,Respiratory,15,1,Normal,Routine Follow-up,Review
+46907,554,2025-07-19,Peds Primary Care,PA Jordan,CRP,Cardiac,16,0,Normal,None,Review
+31320,555,2025-06-18,Peds GI,Dr. Rivera,A1C,Respiratory,9,0,Abnormal,Phone Outreach,Actionable
+35721,556,2025-06-05,Peds Cardiology,NP Miller,Chest X-ray,Neuro,1,0,Normal,Routine Follow-up,Review
+22439,557,2025-07-01,Peds Neuro,NP Miller,Lipid Panel,Neuro,5,0,Abnormal,None,Review
+19420,558,2025-07-11,Peds Primary Care,PA Jordan,Throat Culture,Cardiac,12,0,Normal,Routine Follow-up,Review
+21507,559,2025-07-15,Peds Pulmonology,Dr. Shah,CBC,Endocrine,6,0,Abnormal,None,Review
+49843,560,2025-07-04,Peds Pulmonology,Dr. Kim,CRP,Well Child,2,1,Normal,Routine Follow-up,Review
+12853,561,2025-07-14,Peds Cardiology,Dr. Kim,CRP,Infectious,7,0,Normal,None,Review
+27588,562,2025-06-20,Peds Cardiology,Dr. Kim,A1C,Neuro,2,0,Normal,Phone Outreach,Review
+19241,563,2025-07-29,Peds Primary Care,PA Jordan,CRP,Respiratory,7,0,Missing,Referral,Incomplete
+23682,564,2025-06-20,Peds Primary Care,NP Miller,A1C,Cardiac,8,0,Normal,Rx Started,Review
+42929,565,2025-07-18,Peds Neuro,PA Jordan,Throat Culture,GI,6,0,Normal,Routine Follow-up,Review
+39252,566,2025-07-26,Peds Neuro,Dr. Rivera,Urinalysis,GI,16,1,Missing,Phone Outreach,Incomplete
+11022,567,2025-07-30,Peds GI,Dr. Rivera,Urinalysis,Endocrine,12,0,Abnormal,Rx Started,Actionable
+40860,568,2025-07-13,Peds Primary Care,PA Jordan,CRP,Well Child,13,0,Normal,None,Review
+25321,569,2025-06-06,Peds Neuro,Dr. Rivera,CBC,Infectious,2,0,Normal,None,Review
+36370,570,2025-06-14,Peds Neuro,Dr. Shah,CRP,Respiratory,15,1,Missing,None,Incomplete
+31510,571,2025-06-29,Peds GI,Dr. Kim,Urinalysis,Endocrine,12,0,Abnormal,None,Review
+31691,572,2025-07-14,Peds GI,Dr. Shah,CRP,Neuro,1,0,Missing,None,Incomplete
+26005,573,2025-06-15,Peds Primary Care,Dr. Shah,Lipid Panel,Endocrine,8,0,Normal,None,Review
+15303,574,2025-07-30,Peds Primary Care,NP Miller,Throat Culture,Cardiac,11,0,Normal,None,Review
+41788,575,2025-06-13,Peds Pulmonology,Dr. Shah,A1C,Neuro,15,0,Missing,None,Incomplete
+10893,576,2025-07-18,Peds Pulmonology,Dr. Kim,CBC,Endocrine,12,0,Normal,None,Review
+24389,577,2025-06-26,Peds Pulmonology,Dr. Kim,Urinalysis,Infectious,11,0,Abnormal,Phone Outreach,Actionable
+46787,578,2025-07-30,Peds Pulmonology,Dr. Shah,Throat Culture,GI,15,0,Normal,None,Review
+39017,579,2025-07-19,Peds Primary Care,PA Jordan,Lipid Panel,Neuro,7,0,Normal,None,Review
+49765,580,2025-07-24,Peds GI,Dr. Kim,CBC,Respiratory,8,0,Missing,Referral,Incomplete
+26326,581,2025-06-26,Peds Cardiology,Dr. Rivera,Lipid Panel,GI,4,0,Missing,Referral,Incomplete
+19255,582,2025-07-16,Peds Primary Care,Dr. Shah,Urinalysis,Endocrine,1,0,Normal,Rx Started,Review
+11512,583,2025-07-07,Peds Primary Care,PA Jordan,Chest X-ray,Cardiac,12,0,Normal,Rx Started,Review
+38765,584,2025-06-01,Peds Cardiology,Dr. Kim,Urinalysis,Well Child,6,0,Abnormal,Rx Started,Actionable
+28985,585,2025-06-02,Peds GI,Dr. Kim,A1C,Respiratory,15,0,Normal,Phone Outreach,Review
+31764,586,2025-07-24,Peds Primary Care,Dr. Kim,Urinalysis,Infectious,11,0,Abnormal,Routine Follow-up,Actionable
+36619,587,2025-07-12,Peds Neuro,Dr. Shah,CBC,Cardiac,11,0,Normal,None,Review
+17144,588,2025-07-09,Peds Pulmonology,PA Jordan,Throat Culture,Well Child,17,0,Normal,Phone Outreach,Review
+16615,589,2025-06-15,Peds GI,PA Jordan,Urinalysis,Endocrine,12,0,Normal,Routine Follow-up,Review
+29769,590,2025-07-19,Peds Primary Care,Dr. Shah,CRP,Respiratory,12,0,Abnormal,Routine Follow-up,Actionable
+38027,591,2025-06-22,Peds Cardiology,Dr. Rivera,Lipid Panel,GI,17,1,Abnormal,Rx Started,Actionable
+26673,592,2025-07-24,Peds Cardiology,Dr. Kim,A1C,Endocrine,16,1,Normal,Referral,Review
+25773,593,2025-06-15,Peds Primary Care,Dr. Shah,Chest X-ray,Endocrine,1,1,Abnormal,None,Review
+17768,594,2025-06-05,Peds Neuro,NP Miller,CRP,Endocrine,15,0,Abnormal,Phone Outreach,Actionable
+42194,595,2025-07-25,Peds Cardiology,Dr. Shah,Throat Culture,Neuro,10,0,Normal,Rx Started,Review
+44573,596,2025-06-25,Peds GI,Dr. Rivera,Chest X-ray,Infectious,12,0,Abnormal,Rx Started,Actionable
+38074,597,2025-06-12,Peds GI,Dr. Kim,A1C,GI,4,1,Normal,Referral,Review
+30366,598,2025-07-05,Peds GI,Dr. Shah,CRP,Well Child,9,0,Normal,None,Review
+10341,599,2025-07-27,Peds Primary Care,Dr. Rivera,CRP,Endocrine,3,0,Normal,Rx Started,Review
+32730,600,2025-06-21,Peds Pulmonology,Dr. Rivera,CBC,Well Child,10,0,Normal,Rx Started,Review
+17779,601,2025-06-24,Peds Primary Care,NP Miller,A1C,Infectious,16,0,Normal,None,Review
+16444,602,2025-06-18,Peds Pulmonology,Dr. Shah,CBC,Cardiac,2,1,Normal,Routine Follow-up,Review
+38595,603,2025-07-18,Peds Cardiology,Dr. Shah,Urinalysis,Infectious,15,0,Normal,Referral,Review
+23479,604,2025-06-22,Peds GI,NP Miller,Chest X-ray,Well Child,8,0,Abnormal,None,Review
+49804,605,2025-07-23,Peds Cardiology,Dr. Rivera,Urinalysis,Cardiac,2,0,Normal,Routine Follow-up,Review
+35258,606,2025-06-24,Peds Cardiology,NP Miller,CBC,Neuro,13,0,Normal,Referral,Review
+22373,607,2025-07-30,Peds Neuro,Dr. Shah,Lipid Panel,Neuro,9,0,Missing,Routine Follow-up,Incomplete
+32411,608,2025-06-28,Peds Neuro,NP Miller,Lipid Panel,GI,3,0,Normal,Rx Started,Review
+13874,609,2025-06-01,Peds GI,PA Jordan,CBC,Endocrine,5,0,Normal,Phone Outreach,Review
+49159,610,2025-06-25,Peds Pulmonology,Dr. Shah,Lipid Panel,GI,13,0,Normal,None,Review
+27999,611,2025-06-07,Peds GI,Dr. Rivera,Lipid Panel,Well Child,17,0,Normal,None,Review
+21183,612,2025-06-02,Peds Pulmonology,Dr. Shah,A1C,Respiratory,15,1,Abnormal,Referral,Actionable
+37331,613,2025-06-19,Peds Pulmonology,NP Miller,Chest X-ray,Infectious,5,1,Abnormal,Rx Started,Actionable
+42939,614,2025-06-10,Peds Primary Care,NP Miller,CRP,Cardiac,9,0,Normal,Routine Follow-up,Review
+27187,615,2025-07-22,Peds GI,Dr. Shah,A1C,GI,2,0,Normal,Phone Outreach,Review
+30853,616,2025-07-26,Peds Cardiology,PA Jordan,Urinalysis,Cardiac,2,0,Abnormal,Phone Outreach,Actionable
+14789,617,2025-06-22,Peds Neuro,Dr. Rivera,Lipid Panel,GI,3,0,Normal,Routine Follow-up,Review
+23255,618,2025-06-17,Peds GI,Dr. Rivera,A1C,Respiratory,1,0,Normal,Rx Started,Review
+19020,619,2025-06-26,Peds Pulmonology,Dr. Rivera,Throat Culture,Endocrine,6,1,Normal,None,Non-actionable
+24641,620,2025-06-15,Peds Primary Care,PA Jordan,Lipid Panel,Respiratory,4,0,Normal,None,Review
+14796,621,2025-06-05,Peds GI,NP Miller,Throat Culture,Respiratory,11,0,Missing,Rx Started,Incomplete
+14533,622,2025-06-27,Peds Neuro,Dr. Shah,CRP,Infectious,3,0,Abnormal,Phone Outreach,Actionable
+44692,623,2025-06-05,Peds Cardiology,Dr. Kim,CRP,Well Child,6,0,Normal,Rx Started,Review
+14285,624,2025-06-30,Peds GI,Dr. Kim,CBC,Infectious,14,1,Normal,Urgent Visit,Review
+19747,625,2025-06-15,Peds Primary Care,Dr. Shah,Urinalysis,GI,12,0,Normal,None,Review
+45062,626,2025-07-25,Peds Pulmonology,Dr. Kim,CRP,Neuro,2,0,Normal,Urgent Visit,Review
+10296,627,2025-07-13,Peds Pulmonology,Dr. Rivera,CBC,GI,14,0,Abnormal,None,Review
+20691,628,2025-06-26,Peds Primary Care,PA Jordan,Urinalysis,Endocrine,15,0,Missing,Rx Started,Incomplete
+29290,629,2025-07-15,Peds Primary Care,PA Jordan,Chest X-ray,Cardiac,14,0,Normal,Rx Started,Review
+14047,630,2025-07-01,Peds Cardiology,Dr. Kim,A1C,Neuro,5,0,Normal,None,Review
+43373,631,2025-07-19,Peds Cardiology,Dr. Shah,Urinalysis,Neuro,6,0,Normal,Routine Follow-up,Review
+35791,632,2025-06-11,Peds Neuro,Dr. Kim,Chest X-ray,Respiratory,10,0,Normal,Referral,Review
+22214,633,2025-06-06,Peds Pulmonology,PA Jordan,Throat Culture,Infectious,11,0,Normal,None,Review
+47219,634,2025-07-06,Peds Cardiology,Dr. Rivera,Throat Culture,GI,12,0,Normal,None,Review
+40056,635,2025-07-03,Peds Neuro,Dr. Shah,CRP,Neuro,7,0,Normal,Referral,Review
+10627,636,2025-06-21,Peds Primary Care,Dr. Rivera,Throat Culture,Endocrine,7,0,Normal,None,Review
+15578,637,2025-06-04,Peds Pulmonology,Dr. Rivera,A1C,Infectious,1,0,Normal,Referral,Review
+34465,638,2025-07-25,Peds Primary Care,Dr. Shah,CRP,Respiratory,1,0,Normal,None,Review
+45878,639,2025-07-17,Peds GI,Dr. Kim,Chest X-ray,GI,5,0,Normal,Referral,Review
+46125,640,2025-07-05,Peds Pulmonology,Dr. Rivera,Throat Culture,Infectious,9,0,Abnormal,Phone Outreach,Actionable
+10615,641,2025-07-27,Peds Cardiology,Dr. Rivera,CBC,Well Child,3,0,Missing,None,Incomplete
+16370,642,2025-06-09,Peds Primary Care,NP Miller,CBC,Well Child,11,0,Abnormal,Routine Follow-up,Actionable
+28714,643,2025-06-30,Peds Neuro,NP Miller,Urinalysis,GI,4,0,Normal,Routine Follow-up,Review
+48096,644,2025-07-21,Peds GI,Dr. Rivera,CBC,Respiratory,14,1,Normal,None,Non-actionable
+23676,645,2025-07-23,Peds Neuro,Dr. Shah,Urinalysis,GI,5,0,Missing,None,Incomplete
+34682,646,2025-06-06,Peds Pulmonology,Dr. Shah,Urinalysis,Well Child,4,0,Normal,None,Review
+20030,647,2025-06-05,Peds Neuro,Dr. Rivera,Throat Culture,Infectious,4,0,Abnormal,None,Review
+23089,648,2025-07-15,Peds GI,Dr. Shah,CRP,Well Child,12,0,Normal,None,Review
+45004,649,2025-06-02,Peds Primary Care,PA Jordan,Chest X-ray,GI,5,0,Missing,Phone Outreach,Incomplete
+33546,650,2025-07-05,Peds GI,Dr. Rivera,Urinalysis,Neuro,9,0,Normal,None,Review
+39666,651,2025-06-12,Peds Pulmonology,PA Jordan,Throat Culture,GI,7,0,Normal,None,Review
+15141,652,2025-06-24,Peds Cardiology,Dr. Kim,CBC,GI,11,0,Abnormal,Phone Outreach,Actionable
+21819,653,2025-07-29,Peds Neuro,Dr. Kim,A1C,Neuro,12,0,Normal,None,Review
+27929,654,2025-07-15,Peds GI,PA Jordan,CRP,Respiratory,17,0,Normal,Rx Started,Review
+12173,655,2025-06-01,Peds Neuro,Dr. Rivera,Throat Culture,Endocrine,16,0,Normal,None,Review
+27051,656,2025-06-13,Peds Neuro,Dr. Rivera,Lipid Panel,Neuro,9,0,Normal,Routine Follow-up,Review
+20038,657,2025-06-29,Peds Primary Care,Dr. Rivera,Lipid Panel,Infectious,16,1,Normal,Routine Follow-up,Review
+12016,658,2025-07-20,Peds Pulmonology,Dr. Shah,Chest X-ray,Neuro,15,0,Normal,Rx Started,Review
+21214,659,2025-07-27,Peds GI,Dr. Shah,Chest X-ray,Infectious,16,0,Abnormal,Phone Outreach,Actionable
+19652,660,2025-07-04,Peds Neuro,Dr. Shah,Throat Culture,Neuro,12,0,Abnormal,None,Review
+43050,661,2025-07-09,Peds Neuro,Dr. Rivera,A1C,Neuro,5,0,Normal,Rx Started,Review
+33315,662,2025-07-24,Peds Pulmonology,Dr. Rivera,Chest X-ray,Well Child,8,0,Normal,Phone Outreach,Review
+38927,663,2025-06-11,Peds Primary Care,Dr. Rivera,Throat Culture,Well Child,8,0,Missing,Routine Follow-up,Incomplete
+47936,664,2025-07-09,Peds GI,NP Miller,Chest X-ray,Well Child,9,0,Normal,Routine Follow-up,Review
+40826,665,2025-07-09,Peds Neuro,Dr. Kim,CRP,Cardiac,16,1,Abnormal,Routine Follow-up,Actionable
+38563,666,2025-06-06,Peds Primary Care,Dr. Rivera,CBC,GI,7,1,Normal,Phone Outreach,Review
+31154,667,2025-06-24,Peds Neuro,Dr. Rivera,Throat Culture,Respiratory,13,0,Normal,Routine Follow-up,Review
+22928,668,2025-07-23,Peds Cardiology,Dr. Kim,CBC,Well Child,3,0,Normal,Rx Started,Review
+35817,669,2025-07-14,Peds GI,PA Jordan,Chest X-ray,Well Child,16,0,Normal,Rx Started,Review
+15664,670,2025-06-24,Peds Pulmonology,PA Jordan,Throat Culture,Respiratory,11,0,Normal,Rx Started,Review
+38087,671,2025-06-09,Peds Primary Care,NP Miller,CRP,Respiratory,6,0,Abnormal,Phone Outreach,Actionable
+19168,672,2025-07-23,Peds Neuro,Dr. Shah,A1C,Cardiac,8,1,Normal,None,Non-actionable
+22852,673,2025-07-26,Peds Primary Care,PA Jordan,Urinalysis,Respiratory,11,0,Abnormal,None,Review
+13061,674,2025-07-23,Peds GI,Dr. Rivera,CRP,Endocrine,5,0,Normal,Rx Started,Review
+49673,675,2025-06-11,Peds Neuro,PA Jordan,Lipid Panel,Infectious,6,0,Normal,Referral,Review
+17388,676,2025-06-01,Peds GI,PA Jordan,CRP,Respiratory,2,1,Normal,Routine Follow-up,Review
+49197,677,2025-07-30,Peds Cardiology,NP Miller,Urinalysis,GI,9,0,Normal,None,Review
+20154,678,2025-07-22,Peds GI,Dr. Rivera,CRP,Well Child,2,1,Normal,Referral,Review
+19706,679,2025-07-25,Peds Neuro,PA Jordan,Throat Culture,Cardiac,15,0,Missing,Phone Outreach,Incomplete
+30619,680,2025-06-28,Peds Primary Care,NP Miller,A1C,Cardiac,2,0,Abnormal,None,Review
+41545,681,2025-06-17,Peds Neuro,Dr. Rivera,CBC,Well Child,16,0,Normal,Routine Follow-up,Review
+29018,682,2025-06-21,Peds Primary Care,PA Jordan,Throat Culture,GI,1,0,Normal,Routine Follow-up,Review
+18238,683,2025-06-23,Peds Neuro,Dr. Shah,CBC,Neuro,8,0,Normal,Rx Started,Review
+47117,684,2025-06-02,Peds Cardiology,Dr. Rivera,Throat Culture,Cardiac,12,0,Abnormal,Phone Outreach,Actionable
+27542,685,2025-07-13,Peds Pulmonology,PA Jordan,Urinalysis,Well Child,4,0,Abnormal,Rx Started,Actionable
+40017,686,2025-06-22,Peds Primary Care,Dr. Shah,Throat Culture,Cardiac,12,0,Normal,Routine Follow-up,Review
+47056,687,2025-06-23,Peds GI,Dr. Kim,CBC,Well Child,17,0,Missing,Routine Follow-up,Incomplete
+36499,688,2025-07-21,Peds Neuro,Dr. Kim,CRP,GI,9,0,Missing,None,Incomplete
+18468,689,2025-07-12,Peds GI,Dr. Rivera,Urinalysis,Respiratory,3,0,Abnormal,Phone Outreach,Actionable
+24310,690,2025-07-02,Peds Neuro,NP Miller,CRP,Well Child,7,0,Normal,Routine Follow-up,Review
+32388,691,2025-06-27,Peds Pulmonology,Dr. Rivera,Throat Culture,Well Child,10,0,Normal,Routine Follow-up,Review
+21455,692,2025-06-25,Peds GI,NP Miller,Throat Culture,Well Child,9,0,Normal,None,Review
+24432,693,2025-07-05,Peds Cardiology,NP Miller,Urinalysis,Respiratory,13,0,Normal,Rx Started,Review
+27882,694,2025-07-18,Peds Cardiology,Dr. Rivera,Throat Culture,Respiratory,6,1,Normal,Routine Follow-up,Review
+15747,695,2025-06-25,Peds Neuro,Dr. Shah,CBC,Neuro,9,0,Missing,None,Incomplete
+10179,696,2025-06-22,Peds Pulmonology,Dr. Kim,CRP,Cardiac,9,1,Normal,Routine Follow-up,Review
+11404,697,2025-07-04,Peds Primary Care,NP Miller,Urinalysis,Endocrine,14,0,Normal,Routine Follow-up,Review
+28725,698,2025-06-06,Peds Primary Care,Dr. Shah,Urinalysis,Well Child,7,0,Abnormal,None,Review
+47562,699,2025-06-22,Peds Primary Care,Dr. Shah,Urinalysis,Neuro,16,0,Normal,Rx Started,Review
+25528,700,2025-06-17,Peds Pulmonology,Dr. Kim,Urinalysis,Well Child,14,1,Abnormal,Routine Follow-up,Actionable

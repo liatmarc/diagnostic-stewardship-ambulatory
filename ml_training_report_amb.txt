@@ -1,0 +1,10 @@
+                precision    recall  f1-score   support
+
+    Actionable      1.000     1.000     1.000        75
+    Incomplete      1.000     1.000     1.000        49
+Non-actionable      1.000     1.000     1.000        38
+        Review      1.000     1.000     1.000       338
+
+      accuracy                          1.000       500
+     macro avg      1.000     1.000     1.000       500
+  weighted avg      1.000     1.000     1.000       500

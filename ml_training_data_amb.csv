@@ -1,0 +1,2501 @@
+department,test_ordered,diagnosis_group,test_result,follow_up_action,age,outside_guideline,label
+Peds Neuro,Lipid Panel,Respiratory,Normal,None,7,0,Review
+Peds Neuro,Chest X-ray,GI,Abnormal,Phone Outreach,3,0,Actionable
+Peds Primary Care,Lipid Panel,Well Child,Normal,Phone Outreach,5,1,Review
+Peds Pulmonology,A1C,Cardiac,Normal,Routine Follow-up,4,0,Review
+Peds Primary Care,CBC,Neuro,Missing,Routine Follow-up,17,0,Incomplete
+Peds Neuro,A1C,Well Child,Normal,Routine Follow-up,3,0,Review
+Peds Neuro,Lipid Panel,Well Child,Normal,None,5,0,Review
+Peds Pulmonology,CBC,Respiratory,Abnormal,Routine Follow-up,9,0,Actionable
+Peds GI,Throat Culture,Endocrine,Normal,Routine Follow-up,14,0,Review
+Peds Primary Care,Chest X-ray,Well Child,Normal,Rx Started,4,0,Review
+Peds Pulmonology,Chest X-ray,GI,Abnormal,Referral,10,1,Actionable
+Peds Neuro,Urinalysis,Infectious,Normal,None,14,0,Review
+Peds Primary Care,Urinalysis,Well Child,Missing,Phone Outreach,16,0,Incomplete
+Peds Cardiology,Urinalysis,GI,Missing,Referral,15,1,Incomplete
+Peds Primary Care,Throat Culture,Cardiac,Abnormal,Phone Outreach,10,0,Actionable
+Peds GI,CRP,Respiratory,Normal,Rx Started,14,0,Review
+Peds Pulmonology,Lipid Panel,GI,Normal,Rx Started,13,1,Review
+Peds Pulmonology,Lipid Panel,Infectious,Normal,Routine Follow-up,14,1,Review
+Peds GI,Throat Culture,Cardiac,Abnormal,None,8,0,Review
+Peds Primary Care,CBC,Neuro,Normal,None,5,0,Review
+Peds Primary Care,Urinalysis,Endocrine,Missing,Routine Follow-up,11,0,Incomplete
+Peds Neuro,CRP,Endocrine,Missing,Rx Started,10,0,Incomplete
+Peds Primary Care,Urinalysis,GI,Normal,Referral,12,0,Review
+Peds Cardiology,Chest X-ray,Cardiac,Normal,Rx Started,1,0,Review
+Peds GI,A1C,Endocrine,Normal,Urgent Visit,10,0,Review
+Peds Neuro,Lipid Panel,Well Child,Normal,Phone Outreach,16,0,Review
+Peds Pulmonology,Chest X-ray,Well Child,Normal,Routine Follow-up,7,0,Review
+Peds GI,Throat Culture,Infectious,Normal,Rx Started,13,0,Review
+Peds Pulmonology,CRP,Endocrine,Normal,None,14,0,Review
+Peds GI,CRP,Respiratory,Abnormal,Routine Follow-up,1,0,Actionable
+Peds Pulmonology,Lipid Panel,Respiratory,Normal,Routine Follow-up,12,0,Review
+Peds Pulmonology,Urinalysis,GI,Normal,Phone Outreach,4,1,Review
+Peds Neuro,CBC,Infectious,Normal,None,14,0,Review
+Peds Primary Care,Throat Culture,Cardiac,Normal,Referral,6,0,Review
+Peds Primary Care,CRP,Well Child,Normal,Phone Outreach,12,0,Review
+Peds GI,Lipid Panel,Cardiac,Abnormal,None,8,0,Review
+Peds Neuro,CBC,Cardiac,Normal,Rx Started,11,1,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,Phone Outreach,5,0,Review
+Peds Pulmonology,CBC,Infectious,Normal,Phone Outreach,10,1,Review
+Peds GI,CRP,Endocrine,Abnormal,None,4,0,Review
+Peds Primary Care,Throat Culture,Respiratory,Normal,None,8,0,Review
+Peds Cardiology,Lipid Panel,Neuro,Normal,None,4,0,Review
+Peds Primary Care,CRP,Endocrine,Normal,None,6,1,Non-actionable
+Peds Pulmonology,A1C,Cardiac,Normal,None,1,0,Review
+Peds Neuro,Chest X-ray,Neuro,Normal,None,4,1,Non-actionable
+Peds GI,Throat Culture,GI,Normal,None,1,0,Review
+Peds Pulmonology,Urinalysis,Endocrine,Abnormal,Referral,5,0,Actionable
+Peds Pulmonology,A1C,Well Child,Normal,None,15,1,Non-actionable
+Peds Cardiology,CBC,Respiratory,Normal,Referral,14,1,Review
+Peds Pulmonology,CBC,Endocrine,Abnormal,Rx Started,10,1,Actionable
+Peds Cardiology,Chest X-ray,Infectious,Normal,Routine Follow-up,1,1,Review
+Peds Pulmonology,CBC,Cardiac,Normal,None,5,0,Review
+Peds Primary Care,Lipid Panel,GI,Normal,Routine Follow-up,9,0,Review
+Peds GI,Urinalysis,Respiratory,Normal,Routine Follow-up,4,0,Review
+Peds Neuro,Urinalysis,Infectious,Normal,Rx Started,6,1,Review
+Peds Cardiology,Lipid Panel,Respiratory,Normal,Phone Outreach,16,0,Review
+Peds Neuro,Urinalysis,Cardiac,Normal,Routine Follow-up,13,0,Review
+Peds GI,A1C,Cardiac,Abnormal,Phone Outreach,2,1,Actionable
+Peds Cardiology,CBC,Well Child,Normal,Phone Outreach,1,1,Review
+Peds Pulmonology,Lipid Panel,Infectious,Normal,None,15,1,Non-actionable
+Peds Cardiology,Lipid Panel,Respiratory,Abnormal,Routine Follow-up,5,0,Actionable
+Peds Neuro,Lipid Panel,GI,Normal,Referral,1,0,Review
+Peds GI,Lipid Panel,GI,Abnormal,None,1,1,Review
+Peds Pulmonology,CBC,Cardiac,Normal,Rx Started,15,1,Review
+Peds Primary Care,Urinalysis,Infectious,Abnormal,Phone Outreach,4,0,Actionable
+Peds Pulmonology,Lipid Panel,Well Child,Normal,Phone Outreach,6,0,Review
+Peds Pulmonology,Throat Culture,Endocrine,Normal,None,9,0,Review
+Peds Primary Care,CBC,Respiratory,Normal,Routine Follow-up,17,0,Review
+Peds Pulmonology,CBC,Cardiac,Normal,Phone Outreach,13,1,Review
+Peds Pulmonology,Urinalysis,Neuro,Normal,None,8,0,Review
+Peds Neuro,Urinalysis,Cardiac,Abnormal,None,13,0,Review
+Peds Primary Care,CRP,GI,Normal,Routine Follow-up,1,0,Review
+Peds Cardiology,Lipid Panel,Infectious,Normal,None,8,0,Review
+Peds Pulmonology,Urinalysis,GI,Normal,None,13,1,Non-actionable
+Peds Pulmonology,CRP,GI,Normal,Rx Started,5,0,Review
+Peds Neuro,A1C,GI,Normal,Referral,10,0,Review
+Peds Pulmonology,Urinalysis,Respiratory,Normal,Phone Outreach,10,0,Review
+Peds Neuro,Urinalysis,Respiratory,Abnormal,Phone Outreach,3,0,Actionable
+Peds Neuro,CRP,Infectious,Abnormal,Routine Follow-up,6,0,Actionable
+Peds Pulmonology,Lipid Panel,Cardiac,Abnormal,Phone Outreach,6,0,Actionable
+Peds Pulmonology,Lipid Panel,GI,Abnormal,Urgent Visit,8,0,Actionable
+Peds Pulmonology,CBC,Infectious,Normal,None,6,0,Review
+Peds Primary Care,A1C,GI,Abnormal,Rx Started,7,0,Actionable
+Peds GI,CBC,Infectious,Normal,Rx Started,15,0,Review
+Peds GI,A1C,Infectious,Normal,Rx Started,11,0,Review
+Peds Neuro,A1C,Well Child,Normal,None,15,1,Non-actionable
+Peds Primary Care,Lipid Panel,Endocrine,Normal,Routine Follow-up,4,0,Review
+Peds Primary Care,CRP,GI,Normal,Rx Started,12,1,Review
+Peds Cardiology,Chest X-ray,Infectious,Abnormal,Rx Started,14,0,Actionable
+Peds Cardiology,Chest X-ray,Cardiac,Normal,Phone Outreach,12,1,Review
+Peds GI,A1C,Endocrine,Normal,None,3,0,Review
+Peds Primary Care,Lipid Panel,Infectious,Normal,Routine Follow-up,1,0,Review
+Peds Pulmonology,A1C,Cardiac,Normal,None,15,0,Review
+Peds Neuro,CBC,Cardiac,Normal,Phone Outreach,9,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Normal,Routine Follow-up,4,1,Review
+Peds Pulmonology,CRP,Well Child,Normal,Rx Started,2,0,Review
+Peds Neuro,Chest X-ray,Endocrine,Abnormal,Routine Follow-up,4,0,Actionable
+Peds Primary Care,Lipid Panel,Cardiac,Abnormal,Referral,6,1,Actionable
+Peds Cardiology,Lipid Panel,Neuro,Normal,None,12,0,Review
+Peds Cardiology,CBC,Endocrine,Normal,None,5,1,Non-actionable
+Peds GI,CBC,Neuro,Normal,Routine Follow-up,4,0,Review
+Peds Cardiology,Throat Culture,Respiratory,Normal,None,15,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,Rx Started,16,0,Review
+Peds GI,Urinalysis,Cardiac,Normal,None,5,0,Review
+Peds Neuro,CBC,Cardiac,Normal,Rx Started,10,0,Review
+Peds Cardiology,A1C,GI,Normal,Rx Started,15,0,Review
+Peds GI,Urinalysis,Endocrine,Abnormal,Phone Outreach,17,0,Actionable
+Peds Primary Care,Urinalysis,Well Child,Normal,None,10,0,Review
+Peds Primary Care,Lipid Panel,GI,Normal,Phone Outreach,4,0,Review
+Peds Pulmonology,CRP,Cardiac,Normal,None,8,0,Review
+Peds GI,Lipid Panel,Infectious,Normal,Routine Follow-up,14,0,Review
+Peds Neuro,CBC,Well Child,Abnormal,Routine Follow-up,4,0,Actionable
+Peds Primary Care,CBC,Infectious,Abnormal,None,8,0,Review
+Peds Primary Care,Throat Culture,GI,Normal,None,2,0,Review
+Peds Pulmonology,CRP,Well Child,Normal,Routine Follow-up,5,1,Review
+Peds GI,Lipid Panel,Cardiac,Missing,Phone Outreach,6,0,Incomplete
+Peds Neuro,A1C,Endocrine,Abnormal,Phone Outreach,11,1,Actionable
+Peds Cardiology,Urinalysis,Cardiac,Normal,Referral,3,0,Review
+Peds Pulmonology,CRP,Well Child,Abnormal,None,1,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,Rx Started,12,0,Review
+Peds Cardiology,Lipid Panel,Infectious,Normal,Routine Follow-up,11,0,Review
+Peds GI,A1C,GI,Missing,Rx Started,17,0,Incomplete
+Peds Pulmonology,Lipid Panel,GI,Normal,Referral,5,0,Review
+Peds Neuro,CRP,GI,Abnormal,None,17,0,Review
+Peds Primary Care,Throat Culture,Endocrine,Normal,None,5,0,Review
+Peds Primary Care,CRP,Endocrine,Abnormal,None,15,0,Review
+Peds Neuro,A1C,Respiratory,Normal,Referral,7,0,Review
+Peds Primary Care,Lipid Panel,Neuro,Normal,None,14,0,Review
+Peds Cardiology,CBC,Endocrine,Normal,Phone Outreach,7,0,Review
+Peds GI,Throat Culture,GI,Normal,None,16,0,Review
+Peds Primary Care,CBC,Endocrine,Normal,None,11,0,Review
+Peds Pulmonology,Throat Culture,Endocrine,Normal,Routine Follow-up,15,0,Review
+Peds Cardiology,A1C,Well Child,Abnormal,Rx Started,11,0,Actionable
+Peds Pulmonology,A1C,Endocrine,Normal,Routine Follow-up,6,1,Review
+Peds GI,A1C,Infectious,Normal,Phone Outreach,12,0,Review
+Peds GI,A1C,GI,Normal,None,4,0,Review
+Peds Primary Care,Chest X-ray,Neuro,Missing,Referral,5,0,Incomplete
+Peds Primary Care,A1C,Cardiac,Abnormal,Phone Outreach,3,0,Actionable
+Peds Primary Care,CRP,Endocrine,Abnormal,None,9,0,Review
+Peds Cardiology,A1C,Cardiac,Normal,Rx Started,15,1,Review
+Peds Pulmonology,CBC,Respiratory,Abnormal,None,10,0,Review
+Peds Neuro,A1C,Respiratory,Normal,Phone Outreach,13,0,Review
+Peds Cardiology,A1C,GI,Missing,Referral,2,0,Incomplete
+Peds Neuro,Throat Culture,Respiratory,Normal,None,1,1,Non-actionable
+Peds Neuro,CBC,Well Child,Normal,Routine Follow-up,15,0,Review
+Peds Neuro,CRP,Infectious,Normal,Urgent Visit,10,0,Review
+Peds Primary Care,Chest X-ray,Neuro,Normal,Phone Outreach,9,0,Review
+Peds Neuro,Chest X-ray,Cardiac,Normal,None,1,0,Review
+Peds Pulmonology,CBC,GI,Normal,None,3,0,Review
+Peds Primary Care,CBC,Endocrine,Normal,Phone Outreach,15,0,Review
+Peds Pulmonology,Lipid Panel,Respiratory,Normal,Routine Follow-up,8,0,Review
+Peds GI,CBC,Neuro,Abnormal,None,8,0,Review
+Peds Pulmonology,Throat Culture,GI,Abnormal,Phone Outreach,11,0,Actionable
+Peds Neuro,Urinalysis,Well Child,Normal,None,2,1,Non-actionable
+Peds GI,Chest X-ray,Neuro,Normal,None,3,0,Review
+Peds Neuro,Throat Culture,Cardiac,Normal,Phone Outreach,7,0,Review
+Peds Cardiology,CRP,Well Child,Normal,Routine Follow-up,11,0,Review
+Peds Neuro,A1C,GI,Normal,None,2,1,Non-actionable
+Peds GI,CBC,Cardiac,Normal,Phone Outreach,16,1,Review
+Peds Neuro,CBC,Respiratory,Normal,Referral,7,0,Review
+Peds GI,CRP,Well Child,Normal,None,8,0,Review
+Peds Cardiology,Lipid Panel,Endocrine,Normal,Rx Started,16,0,Review
+Peds Neuro,CRP,Respiratory,Normal,Routine Follow-up,15,0,Review
+Peds GI,CRP,Cardiac,Normal,Referral,8,0,Review
+Peds GI,CBC,Well Child,Normal,None,10,1,Non-actionable
+Peds GI,Urinalysis,GI,Normal,None,11,0,Review
+Peds GI,Throat Culture,Well Child,Abnormal,Phone Outreach,2,0,Actionable
+Peds Neuro,A1C,Infectious,Normal,None,3,0,Review
+Peds Primary Care,Throat Culture,Neuro,Abnormal,None,17,0,Review
+Peds Pulmonology,Throat Culture,Endocrine,Normal,None,10,1,Non-actionable
+Peds GI,Lipid Panel,Respiratory,Normal,Rx Started,2,0,Review
+Peds Primary Care,Lipid Panel,GI,Normal,Routine Follow-up,14,1,Review
+Peds Neuro,Throat Culture,Well Child,Missing,None,13,0,Incomplete
+Peds Cardiology,Lipid Panel,Respiratory,Abnormal,Routine Follow-up,7,1,Actionable
+Peds GI,A1C,Well Child,Normal,Referral,4,1,Review
+Peds Primary Care,A1C,Infectious,Abnormal,Phone Outreach,1,0,Actionable
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Routine Follow-up,2,1,Review
+Peds Cardiology,Throat Culture,Well Child,Abnormal,Routine Follow-up,5,1,Actionable
+Peds Primary Care,Lipid Panel,Cardiac,Abnormal,Routine Follow-up,4,0,Actionable
+Peds Primary Care,CRP,Respiratory,Normal,None,12,0,Review
+Peds Pulmonology,Chest X-ray,Respiratory,Normal,None,1,0,Review
+Peds Neuro,A1C,Cardiac,Abnormal,Phone Outreach,11,0,Actionable
+Peds Cardiology,Chest X-ray,Infectious,Normal,Phone Outreach,16,0,Review
+Peds GI,CRP,Infectious,Normal,Phone Outreach,10,0,Review
+Peds Pulmonology,Urinalysis,Cardiac,Abnormal,Phone Outreach,17,0,Actionable
+Peds GI,Chest X-ray,Respiratory,Missing,Routine Follow-up,13,0,Incomplete
+Peds Pulmonology,Urinalysis,GI,Abnormal,Routine Follow-up,11,1,Actionable
+Peds Primary Care,Lipid Panel,Well Child,Normal,Referral,17,0,Review
+Peds Cardiology,Lipid Panel,Neuro,Normal,None,12,1,Non-actionable
+Peds Pulmonology,CRP,Neuro,Normal,Urgent Visit,14,0,Review
+Peds Primary Care,A1C,Neuro,Missing,Rx Started,15,0,Incomplete
+Peds Pulmonology,CRP,Well Child,Normal,None,8,1,Non-actionable
+Peds Neuro,CBC,Respiratory,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Cardiology,Chest X-ray,Well Child,Normal,None,7,0,Review
+Peds Neuro,A1C,Respiratory,Normal,None,14,0,Review
+Peds GI,A1C,Cardiac,Normal,Rx Started,5,0,Review
+Peds Neuro,A1C,Neuro,Normal,None,1,0,Review
+Peds Primary Care,CRP,Respiratory,Missing,Phone Outreach,4,0,Incomplete
+Peds GI,CRP,Neuro,Normal,Rx Started,1,0,Review
+Peds GI,Chest X-ray,Well Child,Normal,Phone Outreach,7,1,Review
+Peds GI,A1C,Well Child,Abnormal,Phone Outreach,11,0,Actionable
+Peds Cardiology,Throat Culture,Neuro,Normal,Phone Outreach,16,0,Review
+Peds GI,Lipid Panel,Endocrine,Normal,Urgent Visit,14,1,Review
+Peds Neuro,Lipid Panel,Infectious,Abnormal,Phone Outreach,6,1,Actionable
+Peds GI,Lipid Panel,Well Child,Normal,Urgent Visit,9,1,Review
+Peds Cardiology,Throat Culture,Cardiac,Normal,Routine Follow-up,11,0,Review
+Peds Pulmonology,Chest X-ray,Well Child,Normal,Phone Outreach,17,0,Review
+Peds Cardiology,Lipid Panel,Infectious,Normal,None,7,0,Review
+Peds Cardiology,Chest X-ray,Well Child,Normal,Routine Follow-up,17,0,Review
+Peds Neuro,Urinalysis,GI,Normal,Routine Follow-up,12,0,Review
+Peds Pulmonology,CRP,Well Child,Abnormal,Referral,3,1,Actionable
+Peds Primary Care,Lipid Panel,Infectious,Normal,Routine Follow-up,6,1,Review
+Peds GI,Chest X-ray,Cardiac,Normal,Routine Follow-up,8,0,Review
+Peds GI,Chest X-ray,Endocrine,Missing,None,12,0,Incomplete
+Peds Neuro,Chest X-ray,Neuro,Normal,Routine Follow-up,11,0,Review
+Peds Primary Care,CRP,Cardiac,Normal,None,10,0,Review
+Peds Pulmonology,CRP,Cardiac,Abnormal,None,11,0,Review
+Peds Cardiology,A1C,Neuro,Normal,None,9,1,Non-actionable
+Peds GI,Lipid Panel,Neuro,Normal,None,5,0,Review
+Peds Pulmonology,CBC,Cardiac,Normal,Referral,10,0,Review
+Peds Neuro,Throat Culture,Neuro,Normal,Routine Follow-up,11,0,Review
+Peds Cardiology,A1C,Infectious,Normal,Phone Outreach,11,0,Review
+Peds Neuro,Chest X-ray,Infectious,Normal,None,15,1,Non-actionable
+Peds Cardiology,Lipid Panel,Well Child,Abnormal,Rx Started,16,0,Actionable
+Peds Cardiology,CBC,Well Child,Normal,Routine Follow-up,10,0,Review
+Peds GI,Throat Culture,Respiratory,Normal,None,14,1,Non-actionable
+Peds Neuro,Chest X-ray,Well Child,Missing,Rx Started,7,0,Incomplete
+Peds Pulmonology,Chest X-ray,GI,Normal,Routine Follow-up,9,1,Review
+Peds Pulmonology,Throat Culture,GI,Abnormal,Routine Follow-up,5,0,Actionable
+Peds GI,Urinalysis,Well Child,Normal,Rx Started,3,0,Review
+Peds Primary Care,Urinalysis,Neuro,Normal,Rx Started,4,0,Review
+Peds Cardiology,Throat Culture,Well Child,Abnormal,None,1,0,Review
+Peds Cardiology,CBC,GI,Normal,Phone Outreach,13,0,Review
+Peds Pulmonology,CBC,Respiratory,Normal,Urgent Visit,6,0,Review
+Peds Pulmonology,Chest X-ray,Respiratory,Normal,Routine Follow-up,6,0,Review
+Peds Primary Care,Urinalysis,Well Child,Abnormal,None,6,1,Review
+Peds Neuro,Lipid Panel,Infectious,Abnormal,Rx Started,3,0,Actionable
+Peds Primary Care,CRP,Endocrine,Normal,Phone Outreach,12,0,Review
+Peds Neuro,Throat Culture,Respiratory,Abnormal,Rx Started,6,0,Actionable
+Peds Neuro,Chest X-ray,Well Child,Normal,Urgent Visit,3,0,Review
+Peds GI,CRP,Respiratory,Normal,None,5,0,Review
+Peds GI,Chest X-ray,GI,Normal,Referral,16,0,Review
+Peds Neuro,CRP,Infectious,Normal,None,8,0,Review
+Peds Neuro,CRP,GI,Normal,Rx Started,6,1,Review
+Peds Neuro,Throat Culture,Neuro,Normal,None,7,0,Review
+Peds Primary Care,Throat Culture,GI,Normal,None,4,1,Non-actionable
+Peds GI,Throat Culture,Well Child,Missing,Urgent Visit,9,0,Incomplete
+Peds Primary Care,Lipid Panel,Well Child,Missing,None,5,0,Incomplete
+Peds GI,A1C,Neuro,Normal,None,13,0,Review
+Peds Cardiology,CRP,GI,Normal,Referral,11,0,Review
+Peds Cardiology,CBC,Neuro,Normal,Routine Follow-up,3,0,Review
+Peds Pulmonology,Throat Culture,Neuro,Abnormal,Routine Follow-up,8,0,Actionable
+Peds GI,CRP,Cardiac,Missing,Routine Follow-up,1,1,Incomplete
+Peds GI,Lipid Panel,Endocrine,Abnormal,None,7,0,Review
+Peds Neuro,CBC,Cardiac,Normal,Referral,14,0,Review
+Peds Pulmonology,CRP,Infectious,Abnormal,None,13,0,Review
+Peds Cardiology,Throat Culture,GI,Abnormal,Rx Started,6,1,Actionable
+Peds Cardiology,A1C,Cardiac,Abnormal,Urgent Visit,7,0,Actionable
+Peds Primary Care,CRP,Endocrine,Normal,None,15,0,Review
+Peds Cardiology,Urinalysis,Endocrine,Normal,Referral,16,0,Review
+Peds Primary Care,CRP,Endocrine,Abnormal,Routine Follow-up,6,0,Actionable
+Peds Primary Care,CBC,Endocrine,Abnormal,None,8,0,Review
+Peds Primary Care,Urinalysis,Cardiac,Normal,Referral,5,0,Review
+Peds Cardiology,A1C,Well Child,Abnormal,Phone Outreach,7,0,Actionable
+Peds GI,Urinalysis,Respiratory,Abnormal,Rx Started,13,0,Actionable
+Peds Neuro,A1C,GI,Normal,None,17,0,Review
+Peds Neuro,Urinalysis,GI,Normal,Phone Outreach,9,1,Review
+Peds Primary Care,CRP,Endocrine,Normal,Referral,2,1,Review
+Peds GI,Lipid Panel,Endocrine,Normal,Routine Follow-up,7,0,Review
+Peds Pulmonology,A1C,Endocrine,Normal,Referral,15,1,Review
+Peds Cardiology,CBC,Neuro,Normal,Rx Started,1,1,Review
+Peds Cardiology,CRP,Well Child,Normal,Rx Started,7,0,Review
+Peds Neuro,A1C,Neuro,Normal,Rx Started,11,0,Review
+Peds Primary Care,A1C,Endocrine,Abnormal,None,13,0,Review
+Peds GI,Throat Culture,GI,Missing,Phone Outreach,13,0,Incomplete
+Peds GI,Lipid Panel,Endocrine,Normal,Rx Started,8,0,Review
+Peds Cardiology,Chest X-ray,Cardiac,Abnormal,Referral,17,1,Actionable
+Peds GI,CBC,Cardiac,Normal,Rx Started,4,1,Review
+Peds GI,Lipid Panel,Neuro,Normal,Rx Started,3,0,Review
+Peds Cardiology,CBC,Infectious,Normal,None,6,0,Review
+Peds GI,Throat Culture,GI,Abnormal,None,7,1,Review
+Peds GI,Lipid Panel,Respiratory,Normal,Rx Started,17,0,Review
+Peds Neuro,Throat Culture,Neuro,Abnormal,None,17,0,Review
+Peds Cardiology,Chest X-ray,Cardiac,Normal,Phone Outreach,12,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,None,5,0,Review
+Peds Primary Care,CRP,Cardiac,Abnormal,Rx Started,1,1,Actionable
+Peds Neuro,Lipid Panel,Cardiac,Normal,Routine Follow-up,1,0,Review
+Peds Cardiology,Throat Culture,Neuro,Normal,None,9,0,Review
+Peds Neuro,Urinalysis,Neuro,Abnormal,Rx Started,7,0,Actionable
+Peds Primary Care,CBC,GI,Normal,Phone Outreach,15,0,Review
+Peds Cardiology,CRP,Infectious,Normal,Routine Follow-up,11,1,Review
+Peds Cardiology,Throat Culture,Respiratory,Abnormal,None,1,0,Review
+Peds Neuro,CBC,Endocrine,Normal,Referral,1,0,Review
+Peds Cardiology,Throat Culture,Neuro,Normal,None,3,0,Review
+Peds Cardiology,Chest X-ray,Cardiac,Normal,Referral,1,0,Review
+Peds GI,A1C,GI,Normal,None,12,0,Review
+Peds Primary Care,Throat Culture,Endocrine,Normal,Rx Started,3,1,Review
+Peds Pulmonology,Urinalysis,GI,Abnormal,Rx Started,17,1,Actionable
+Peds Neuro,CRP,Respiratory,Abnormal,None,1,0,Review
+Peds GI,Lipid Panel,Respiratory,Normal,Referral,13,1,Review
+Peds Cardiology,Throat Culture,Neuro,Normal,None,9,1,Non-actionable
+Peds Pulmonology,A1C,Well Child,Abnormal,Phone Outreach,8,1,Actionable
+Peds Cardiology,A1C,Well Child,Normal,Phone Outreach,17,0,Review
+Peds Pulmonology,CRP,Neuro,Abnormal,None,11,0,Review
+Peds Neuro,Urinalysis,Infectious,Normal,Rx Started,17,0,Review
+Peds Neuro,Chest X-ray,Cardiac,Normal,None,4,0,Review
+Peds Cardiology,CBC,Endocrine,Missing,Referral,4,0,Incomplete
+Peds Primary Care,Throat Culture,Cardiac,Normal,Rx Started,4,0,Review
+Peds Cardiology,Urinalysis,Well Child,Normal,Referral,4,0,Review
+Peds Pulmonology,CBC,Well Child,Normal,Phone Outreach,14,0,Review
+Peds GI,Urinalysis,Neuro,Normal,Phone Outreach,17,0,Review
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Rx Started,10,0,Review
+Peds Pulmonology,CRP,GI,Normal,None,4,0,Review
+Peds Primary Care,CBC,Well Child,Abnormal,Phone Outreach,14,0,Actionable
+Peds Primary Care,A1C,Infectious,Normal,Phone Outreach,11,0,Review
+Peds Neuro,Throat Culture,Endocrine,Normal,None,6,0,Review
+Peds Primary Care,CRP,Well Child,Normal,Referral,8,0,Review
+Peds Neuro,Throat Culture,GI,Normal,None,15,1,Non-actionable
+Peds GI,Throat Culture,Respiratory,Abnormal,None,7,0,Review
+Peds Primary Care,Urinalysis,Endocrine,Abnormal,Urgent Visit,17,0,Actionable
+Peds GI,Throat Culture,Endocrine,Normal,Phone Outreach,3,0,Review
+Peds Cardiology,Lipid Panel,Cardiac,Normal,None,4,0,Review
+Peds Primary Care,CRP,Respiratory,Missing,None,11,0,Incomplete
+Peds Primary Care,Throat Culture,Well Child,Abnormal,Rx Started,3,0,Actionable
+Peds Pulmonology,A1C,Endocrine,Abnormal,Phone Outreach,8,1,Actionable
+Peds Cardiology,Lipid Panel,Endocrine,Normal,Routine Follow-up,10,0,Review
+Peds Primary Care,Throat Culture,Infectious,Normal,Routine Follow-up,16,0,Review
+Peds Cardiology,CBC,GI,Normal,None,8,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Normal,None,8,0,Review
+Peds Neuro,CBC,GI,Normal,Referral,9,1,Review
+Peds Primary Care,Lipid Panel,GI,Abnormal,None,14,0,Review
+Peds Pulmonology,Throat Culture,GI,Normal,Routine Follow-up,5,0,Review
+Peds GI,CBC,GI,Abnormal,None,7,1,Review
+Peds Primary Care,A1C,Cardiac,Abnormal,None,5,0,Review
+Peds Neuro,A1C,Well Child,Normal,Rx Started,1,0,Review
+Peds Cardiology,A1C,Neuro,Missing,None,4,0,Incomplete
+Peds Primary Care,A1C,Endocrine,Missing,None,7,0,Incomplete
+Peds Pulmonology,A1C,Infectious,Normal,None,1,0,Review
+Peds GI,CBC,Endocrine,Normal,None,10,0,Review
+Peds Neuro,Urinalysis,Neuro,Normal,None,10,0,Review
+Peds Primary Care,A1C,Cardiac,Normal,Routine Follow-up,9,0,Review
+Peds Primary Care,A1C,Well Child,Normal,Rx Started,17,0,Review
+Peds Primary Care,A1C,Infectious,Normal,Phone Outreach,13,0,Review
+Peds Primary Care,Lipid Panel,Neuro,Normal,None,2,1,Non-actionable
+Peds Cardiology,Throat Culture,Respiratory,Normal,Routine Follow-up,12,0,Review
+Peds Primary Care,CBC,Cardiac,Abnormal,Urgent Visit,11,1,Actionable
+Peds Cardiology,Lipid Panel,Neuro,Normal,Routine Follow-up,10,1,Review
+Peds Neuro,CBC,Well Child,Normal,Routine Follow-up,6,0,Review
+Peds Neuro,CBC,Cardiac,Normal,Phone Outreach,5,0,Review
+Peds Primary Care,CRP,Infectious,Normal,Phone Outreach,7,0,Review
+Peds Cardiology,CRP,Respiratory,Normal,Referral,4,0,Review
+Peds Cardiology,Lipid Panel,GI,Normal,Referral,13,0,Review
+Peds Cardiology,Throat Culture,Well Child,Normal,None,15,0,Review
+Peds Neuro,Throat Culture,Infectious,Normal,None,3,0,Review
+Peds Neuro,Chest X-ray,Cardiac,Normal,Routine Follow-up,2,0,Review
+Peds GI,Urinalysis,Infectious,Abnormal,Phone Outreach,9,0,Actionable
+Peds Neuro,Chest X-ray,GI,Abnormal,Rx Started,2,0,Actionable
+Peds Pulmonology,Urinalysis,Infectious,Normal,None,7,0,Review
+Peds Primary Care,A1C,Infectious,Abnormal,None,6,0,Review
+Peds Primary Care,Throat Culture,Well Child,Normal,None,5,0,Review
+Peds Neuro,A1C,GI,Normal,Referral,7,0,Review
+Peds Cardiology,CBC,Respiratory,Normal,Phone Outreach,16,0,Review
+Peds Primary Care,A1C,Cardiac,Normal,Referral,11,0,Review
+Peds Neuro,Throat Culture,Neuro,Normal,None,11,1,Non-actionable
+Peds GI,CBC,Endocrine,Normal,None,10,0,Review
+Peds Pulmonology,Lipid Panel,Infectious,Normal,None,17,0,Review
+Peds Pulmonology,Chest X-ray,Respiratory,Normal,Routine Follow-up,9,0,Review
+Peds GI,CBC,Infectious,Normal,Routine Follow-up,10,0,Review
+Peds Neuro,Urinalysis,Well Child,Normal,Rx Started,2,1,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,Phone Outreach,7,0,Review
+Peds Neuro,CRP,Respiratory,Normal,Referral,9,0,Review
+Peds Neuro,A1C,Infectious,Normal,None,15,0,Review
+Peds Pulmonology,Lipid Panel,GI,Normal,None,16,0,Review
+Peds GI,A1C,Infectious,Missing,Routine Follow-up,1,0,Incomplete
+Peds Pulmonology,A1C,Well Child,Abnormal,Rx Started,2,0,Actionable
+Peds Cardiology,CBC,Well Child,Normal,Routine Follow-up,5,0,Review
+Peds Pulmonology,Urinalysis,Endocrine,Normal,None,16,0,Review
+Peds Neuro,Chest X-ray,Well Child,Missing,None,10,0,Incomplete
+Peds GI,Urinalysis,Respiratory,Abnormal,Routine Follow-up,4,0,Actionable
+Peds GI,Urinalysis,Well Child,Missing,Routine Follow-up,9,0,Incomplete
+Peds Primary Care,Throat Culture,GI,Normal,Referral,5,0,Review
+Peds Cardiology,Urinalysis,Neuro,Abnormal,None,10,0,Review
+Peds Cardiology,A1C,Well Child,Normal,Rx Started,13,0,Review
+Peds Cardiology,A1C,Cardiac,Abnormal,None,9,0,Review
+Peds Neuro,A1C,Infectious,Normal,None,5,0,Review
+Peds Primary Care,CRP,Endocrine,Normal,Phone Outreach,12,0,Review
+Peds Cardiology,A1C,Endocrine,Abnormal,None,8,0,Review
+Peds Primary Care,Urinalysis,GI,Normal,Routine Follow-up,14,0,Review
+Peds Pulmonology,A1C,Respiratory,Missing,None,2,0,Incomplete
+Peds Cardiology,CBC,Neuro,Abnormal,None,15,1,Review
+Peds Pulmonology,A1C,Infectious,Abnormal,Referral,8,1,Actionable
+Peds Primary Care,Throat Culture,Endocrine,Normal,Routine Follow-up,15,1,Review
+Peds GI,Lipid Panel,Endocrine,Normal,Rx Started,10,0,Review
+Peds GI,Urinalysis,GI,Missing,Phone Outreach,12,0,Incomplete
+Peds GI,A1C,Infectious,Normal,Rx Started,12,0,Review
+Peds Pulmonology,Throat Culture,GI,Abnormal,None,8,0,Review
+Peds Neuro,Chest X-ray,Respiratory,Normal,None,15,0,Review
+Peds GI,CRP,Respiratory,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Neuro,CRP,Infectious,Missing,Routine Follow-up,11,1,Incomplete
+Peds GI,Throat Culture,Well Child,Normal,Urgent Visit,7,1,Review
+Peds Pulmonology,Chest X-ray,Cardiac,Abnormal,Rx Started,2,0,Actionable
+Peds Pulmonology,Lipid Panel,Infectious,Normal,Phone Outreach,6,0,Review
+Peds Cardiology,CRP,Neuro,Abnormal,None,5,1,Review
+Peds Pulmonology,A1C,Well Child,Abnormal,Routine Follow-up,9,0,Actionable
+Peds Pulmonology,Urinalysis,Endocrine,Normal,Rx Started,12,0,Review
+Peds Cardiology,CBC,Neuro,Normal,None,13,0,Review
+Peds GI,Chest X-ray,Neuro,Abnormal,None,8,0,Review
+Peds Pulmonology,CRP,Endocrine,Normal,None,15,0,Review
+Peds Pulmonology,Lipid Panel,GI,Normal,None,2,0,Review
+Peds Neuro,CRP,Respiratory,Abnormal,Routine Follow-up,11,1,Actionable
+Peds Primary Care,Lipid Panel,Neuro,Normal,None,5,0,Review
+Peds Pulmonology,Throat Culture,Well Child,Normal,Routine Follow-up,8,0,Review
+Peds Primary Care,CBC,Well Child,Normal,Rx Started,12,0,Review
+Peds GI,Lipid Panel,Well Child,Abnormal,Routine Follow-up,17,0,Actionable
+Peds Cardiology,Lipid Panel,Endocrine,Normal,Phone Outreach,11,0,Review
+Peds GI,Chest X-ray,Respiratory,Normal,None,8,0,Review
+Peds Neuro,Urinalysis,Respiratory,Normal,None,11,0,Review
+Peds Pulmonology,Chest X-ray,Neuro,Abnormal,Rx Started,2,0,Actionable
+Peds GI,Lipid Panel,Infectious,Missing,Rx Started,8,0,Incomplete
+Peds Cardiology,Throat Culture,Endocrine,Abnormal,Phone Outreach,14,1,Actionable
+Peds Primary Care,Urinalysis,GI,Normal,Rx Started,16,0,Review
+Peds GI,A1C,Well Child,Missing,Routine Follow-up,1,0,Incomplete
+Peds Neuro,Chest X-ray,Respiratory,Normal,Routine Follow-up,14,0,Review
+Peds Pulmonology,CBC,Endocrine,Normal,None,6,1,Non-actionable
+Peds Pulmonology,Urinalysis,Endocrine,Normal,Referral,15,0,Review
+Peds Neuro,Chest X-ray,GI,Normal,None,13,0,Review
+Peds Neuro,Urinalysis,Cardiac,Normal,Routine Follow-up,6,0,Review
+Peds Primary Care,Throat Culture,Well Child,Abnormal,Routine Follow-up,4,0,Actionable
+Peds Pulmonology,Urinalysis,GI,Missing,None,10,0,Incomplete
+Peds Primary Care,Lipid Panel,GI,Normal,Routine Follow-up,4,0,Review
+Peds Primary Care,Lipid Panel,Neuro,Abnormal,Phone Outreach,17,1,Actionable
+Peds GI,CRP,Well Child,Normal,Phone Outreach,8,0,Review
+Peds Cardiology,Chest X-ray,Respiratory,Normal,Phone Outreach,5,0,Review
+Peds Cardiology,CBC,Cardiac,Normal,Phone Outreach,3,0,Review
+Peds GI,CRP,Well Child,Normal,None,4,1,Non-actionable
+Peds Primary Care,Urinalysis,Respiratory,Normal,Routine Follow-up,10,0,Review
+Peds GI,Lipid Panel,Cardiac,Normal,None,16,0,Review
+Peds Cardiology,Urinalysis,Cardiac,Normal,Routine Follow-up,15,0,Review
+Peds GI,Throat Culture,Endocrine,Normal,None,6,0,Review
+Peds Pulmonology,A1C,Respiratory,Normal,Rx Started,10,0,Review
+Peds GI,A1C,Respiratory,Abnormal,None,8,0,Review
+Peds Primary Care,CBC,Respiratory,Abnormal,Rx Started,9,0,Actionable
+Peds Primary Care,Urinalysis,Respiratory,Normal,None,17,0,Review
+Peds Primary Care,Urinalysis,Respiratory,Normal,None,11,0,Review
+Peds Primary Care,CBC,Endocrine,Abnormal,None,15,0,Review
+Peds Neuro,Urinalysis,Infectious,Normal,None,3,1,Non-actionable
+Peds Pulmonology,CBC,Endocrine,Normal,Rx Started,6,0,Review
+Peds GI,CRP,Respiratory,Missing,Routine Follow-up,4,0,Incomplete
+Peds GI,CRP,Neuro,Normal,Routine Follow-up,15,0,Review
+Peds Pulmonology,Throat Culture,Neuro,Normal,Urgent Visit,9,0,Review
+Peds GI,A1C,Respiratory,Abnormal,None,16,0,Review
+Peds Cardiology,Chest X-ray,Respiratory,Abnormal,Phone Outreach,13,0,Actionable
+Peds GI,Urinalysis,GI,Missing,None,2,0,Incomplete
+Peds Cardiology,A1C,Infectious,Normal,Referral,6,0,Review
+Peds Pulmonology,Urinalysis,Infectious,Normal,None,9,0,Review
+Peds Neuro,Urinalysis,GI,Normal,None,14,0,Review
+Peds Cardiology,A1C,Neuro,Normal,None,17,1,Non-actionable
+Peds GI,CBC,Endocrine,Abnormal,Rx Started,17,0,Actionable
+Peds GI,A1C,GI,Normal,None,6,0,Review
+Peds Cardiology,Urinalysis,Endocrine,Normal,Phone Outreach,10,0,Review
+Peds GI,CBC,Endocrine,Abnormal,Phone Outreach,10,1,Actionable
+Peds Neuro,Chest X-ray,Cardiac,Normal,None,16,0,Review
+Peds Neuro,CRP,GI,Abnormal,Phone Outreach,17,1,Actionable
+Peds Pulmonology,CBC,Respiratory,Normal,Routine Follow-up,13,0,Review
+Peds Primary Care,Chest X-ray,GI,Normal,Phone Outreach,12,0,Review
+Peds Neuro,CRP,Well Child,Normal,None,14,0,Review
+Peds Cardiology,Throat Culture,GI,Abnormal,Referral,14,0,Actionable
+Peds GI,Lipid Panel,Neuro,Abnormal,Phone Outreach,8,0,Actionable
+Peds Primary Care,CBC,Infectious,Missing,Phone Outreach,11,0,Incomplete
+Peds Cardiology,CRP,Respiratory,Normal,Routine Follow-up,4,1,Review
+Peds Primary Care,CRP,Endocrine,Abnormal,Routine Follow-up,17,0,Actionable
+Peds Primary Care,Chest X-ray,Cardiac,Normal,None,3,0,Review
+Peds Primary Care,Chest X-ray,Infectious,Normal,Routine Follow-up,5,0,Review
+Peds Neuro,Chest X-ray,Cardiac,Abnormal,Phone Outreach,11,0,Actionable
+Peds GI,Chest X-ray,Endocrine,Abnormal,Phone Outreach,11,0,Actionable
+Peds Primary Care,Throat Culture,Respiratory,Normal,None,10,0,Review
+Peds Primary Care,A1C,Neuro,Normal,Urgent Visit,11,0,Review
+Peds Pulmonology,CBC,GI,Abnormal,None,2,0,Review
+Peds GI,A1C,Neuro,Normal,Rx Started,4,0,Review
+Peds Neuro,Lipid Panel,Cardiac,Normal,Phone Outreach,3,0,Review
+Peds GI,Urinalysis,Cardiac,Abnormal,Phone Outreach,5,0,Actionable
+Peds Neuro,Urinalysis,Endocrine,Normal,Urgent Visit,17,0,Review
+Peds Primary Care,A1C,Cardiac,Normal,Phone Outreach,1,0,Review
+Peds GI,Urinalysis,Cardiac,Normal,Phone Outreach,1,0,Review
+Peds Neuro,Urinalysis,Well Child,Normal,Urgent Visit,4,1,Review
+Peds GI,CBC,Neuro,Normal,None,15,1,Non-actionable
+Peds Cardiology,Chest X-ray,Neuro,Normal,Rx Started,3,1,Review
+Peds GI,Lipid Panel,Neuro,Normal,Routine Follow-up,9,0,Review
+Peds Pulmonology,Lipid Panel,GI,Abnormal,Phone Outreach,10,0,Actionable
+Peds Pulmonology,CBC,Neuro,Normal,None,9,0,Review
+Peds Neuro,Urinalysis,Infectious,Normal,None,4,1,Non-actionable
+Peds Pulmonology,CRP,Infectious,Normal,Referral,8,0,Review
+Peds Neuro,Throat Culture,Well Child,Normal,Urgent Visit,6,0,Review
+Peds Primary Care,A1C,Neuro,Normal,Referral,3,0,Review
+Peds Neuro,Urinalysis,Respiratory,Normal,Rx Started,4,0,Review
+Peds GI,Lipid Panel,Infectious,Abnormal,Referral,12,0,Actionable
+Peds GI,CRP,GI,Normal,Urgent Visit,8,0,Review
+Peds Cardiology,CRP,Respiratory,Normal,Rx Started,1,0,Review
+Peds Primary Care,Urinalysis,Neuro,Missing,None,16,1,Incomplete
+Peds Pulmonology,A1C,Endocrine,Missing,None,10,0,Incomplete
+Peds Pulmonology,Chest X-ray,Respiratory,Normal,Routine Follow-up,17,0,Review
+Peds Primary Care,Lipid Panel,Neuro,Normal,None,11,1,Non-actionable
+Peds GI,Throat Culture,GI,Normal,Phone Outreach,11,0,Review
+Peds Neuro,Chest X-ray,Neuro,Missing,Phone Outreach,12,0,Incomplete
+Peds Cardiology,Urinalysis,Cardiac,Missing,None,13,0,Incomplete
+Peds GI,CBC,Endocrine,Abnormal,Routine Follow-up,11,0,Actionable
+Peds GI,Throat Culture,Neuro,Abnormal,Referral,1,0,Actionable
+Peds Neuro,Urinalysis,Well Child,Normal,None,2,1,Non-actionable
+Peds Primary Care,Chest X-ray,Respiratory,Normal,None,8,0,Review
+Peds Neuro,Chest X-ray,Respiratory,Abnormal,Rx Started,7,0,Actionable
+Peds GI,CRP,GI,Normal,None,5,1,Non-actionable
+Peds GI,Chest X-ray,Respiratory,Normal,Routine Follow-up,5,0,Review
+Peds GI,Chest X-ray,Well Child,Normal,None,3,0,Review
+Peds Neuro,Lipid Panel,Neuro,Normal,Routine Follow-up,13,1,Review
+Peds GI,Lipid Panel,Infectious,Abnormal,None,2,0,Review
+Peds GI,A1C,GI,Normal,Routine Follow-up,13,0,Review
+Peds Cardiology,Chest X-ray,Respiratory,Normal,Referral,13,1,Review
+Peds Cardiology,Lipid Panel,Infectious,Abnormal,Routine Follow-up,2,1,Actionable
+Peds GI,Chest X-ray,GI,Normal,Rx Started,15,0,Review
+Peds Cardiology,Urinalysis,Infectious,Abnormal,Referral,9,1,Actionable
+Peds Cardiology,Chest X-ray,Respiratory,Normal,Rx Started,11,1,Review
+Peds Primary Care,CBC,Endocrine,Normal,Phone Outreach,11,1,Review
+Peds Primary Care,Urinalysis,Well Child,Normal,None,16,1,Non-actionable
+Peds Pulmonology,A1C,Well Child,Abnormal,Routine Follow-up,1,0,Actionable
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Urgent Visit,12,1,Review
+Peds Neuro,Urinalysis,Infectious,Abnormal,Phone Outreach,2,1,Actionable
+Peds Cardiology,A1C,Infectious,Abnormal,Phone Outreach,4,1,Actionable
+Peds Pulmonology,Urinalysis,Well Child,Abnormal,Phone Outreach,14,1,Actionable
+Peds Cardiology,A1C,Well Child,Normal,Referral,4,1,Review
+Peds Pulmonology,A1C,Cardiac,Normal,None,10,0,Review
+Peds GI,A1C,Infectious,Normal,None,15,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,None,10,0,Review
+Peds Pulmonology,Urinalysis,Well Child,Normal,None,3,0,Review
+Peds Cardiology,CRP,Respiratory,Normal,None,14,1,Non-actionable
+Peds Pulmonology,A1C,Well Child,Normal,Rx Started,9,0,Review
+Peds Cardiology,CRP,Endocrine,Normal,Phone Outreach,2,0,Review
+Peds Neuro,CBC,Infectious,Normal,Phone Outreach,8,1,Review
+Peds Neuro,Urinalysis,Infectious,Normal,None,11,0,Review
+Peds Cardiology,Lipid Panel,Neuro,Normal,Routine Follow-up,8,0,Review
+Peds Neuro,Chest X-ray,Neuro,Normal,Routine Follow-up,4,1,Review
+Peds Pulmonology,A1C,Infectious,Normal,Routine Follow-up,7,0,Review
+Peds Pulmonology,CBC,Well Child,Normal,Routine Follow-up,9,0,Review
+Peds Neuro,CBC,GI,Normal,None,8,0,Review
+Peds Primary Care,Urinalysis,Neuro,Normal,None,2,0,Review
+Peds Primary Care,CBC,Infectious,Normal,Phone Outreach,16,0,Review
+Peds Pulmonology,Chest X-ray,Cardiac,Abnormal,None,11,0,Review
+Peds Cardiology,A1C,Respiratory,Normal,None,9,0,Review
+Peds Primary Care,Chest X-ray,Infectious,Normal,Referral,3,0,Review
+Peds Pulmonology,Urinalysis,GI,Normal,Routine Follow-up,4,0,Review
+Peds Neuro,A1C,Cardiac,Abnormal,Referral,5,0,Actionable
+Peds Neuro,Throat Culture,Neuro,Normal,Urgent Visit,11,0,Review
+Peds Cardiology,Throat Culture,Cardiac,Abnormal,Rx Started,7,0,Actionable
+Peds GI,Chest X-ray,Neuro,Normal,Rx Started,10,1,Review
+Peds Pulmonology,Urinalysis,Cardiac,Abnormal,None,15,1,Review
+Peds Neuro,Chest X-ray,Respiratory,Abnormal,None,14,0,Review
+Peds GI,A1C,GI,Normal,Referral,17,0,Review
+Peds Pulmonology,Urinalysis,Respiratory,Normal,Rx Started,17,0,Review
+Peds Cardiology,Lipid Panel,Infectious,Missing,Urgent Visit,2,1,Incomplete
+Peds Primary Care,A1C,Infectious,Missing,Routine Follow-up,12,0,Incomplete
+Peds GI,Chest X-ray,Infectious,Normal,Rx Started,4,0,Review
+Peds GI,A1C,Respiratory,Abnormal,None,6,0,Review
+Peds GI,A1C,Cardiac,Normal,Urgent Visit,6,0,Review
+Peds Primary Care,CRP,Cardiac,Normal,None,1,0,Review
+Peds Primary Care,CRP,Neuro,Normal,None,6,1,Non-actionable
+Peds Primary Care,Throat Culture,GI,Normal,Phone Outreach,14,0,Review
+Peds Neuro,A1C,GI,Normal,None,9,0,Review
+Peds Cardiology,Lipid Panel,Endocrine,Normal,None,6,0,Review
+Peds Neuro,Lipid Panel,Respiratory,Abnormal,Routine Follow-up,7,0,Actionable
+Peds Primary Care,A1C,Neuro,Normal,Rx Started,4,0,Review
+Peds Pulmonology,CBC,Respiratory,Abnormal,None,9,1,Review
+Peds Cardiology,Lipid Panel,Neuro,Normal,None,9,0,Review
+Peds Neuro,Lipid Panel,Cardiac,Normal,None,12,0,Review
+Peds GI,Lipid Panel,Respiratory,Abnormal,Rx Started,15,0,Actionable
+Peds Cardiology,A1C,Cardiac,Abnormal,Routine Follow-up,13,0,Actionable
+Peds Cardiology,Throat Culture,Neuro,Normal,None,15,1,Non-actionable
+Peds Cardiology,Lipid Panel,GI,Normal,Phone Outreach,14,0,Review
+Peds Neuro,Chest X-ray,Infectious,Normal,Routine Follow-up,2,0,Review
+Peds GI,CRP,Endocrine,Abnormal,Rx Started,3,0,Actionable
+Peds GI,CRP,Cardiac,Normal,Routine Follow-up,1,0,Review
+Peds Neuro,A1C,Respiratory,Normal,None,3,1,Non-actionable
+Peds Cardiology,Chest X-ray,Cardiac,Missing,Routine Follow-up,6,0,Incomplete
+Peds GI,Lipid Panel,GI,Normal,None,1,0,Review
+Peds Neuro,CRP,Endocrine,Normal,Routine Follow-up,9,0,Review
+Peds GI,Urinalysis,GI,Abnormal,None,8,0,Review
+Peds Cardiology,Chest X-ray,Cardiac,Normal,Phone Outreach,12,0,Review
+Peds Neuro,Urinalysis,Well Child,Abnormal,None,1,0,Review
+Peds Neuro,Urinalysis,Endocrine,Normal,Rx Started,17,1,Review
+Peds Neuro,Lipid Panel,Well Child,Abnormal,None,8,0,Review
+Peds Pulmonology,CBC,Endocrine,Normal,Routine Follow-up,1,0,Review
+Peds GI,Urinalysis,Neuro,Normal,Phone Outreach,13,0,Review
+Peds GI,A1C,Infectious,Missing,Referral,5,0,Incomplete
+Peds Primary Care,Chest X-ray,Respiratory,Normal,None,13,0,Review
+Peds GI,A1C,Cardiac,Missing,Routine Follow-up,13,0,Incomplete
+Peds Neuro,CBC,Infectious,Abnormal,Rx Started,2,0,Actionable
+Peds Neuro,Chest X-ray,Cardiac,Normal,Rx Started,2,0,Review
+Peds Neuro,A1C,GI,Normal,Rx Started,9,0,Review
+Peds Neuro,A1C,GI,Abnormal,None,10,0,Review
+Peds Primary Care,Urinalysis,Well Child,Normal,None,13,0,Review
+Peds GI,A1C,Well Child,Normal,Routine Follow-up,3,0,Review
+Peds GI,CRP,Neuro,Normal,Referral,5,1,Review
+Peds Pulmonology,Throat Culture,Endocrine,Normal,None,6,1,Non-actionable
+Peds GI,CBC,Neuro,Normal,Routine Follow-up,2,0,Review
+Peds Pulmonology,Urinalysis,Well Child,Normal,None,4,0,Review
+Peds Cardiology,Urinalysis,Infectious,Normal,Routine Follow-up,8,1,Review
+Peds Neuro,CRP,Neuro,Normal,None,9,0,Review
+Peds GI,Lipid Panel,Well Child,Abnormal,None,1,0,Review
+Peds Pulmonology,A1C,Infectious,Abnormal,None,16,1,Review
+Peds GI,CRP,Infectious,Normal,Routine Follow-up,4,0,Review
+Peds GI,Lipid Panel,Cardiac,Normal,Urgent Visit,17,1,Review
+Peds Cardiology,Chest X-ray,Respiratory,Abnormal,None,12,1,Review
+Peds GI,Lipid Panel,Endocrine,Abnormal,Rx Started,16,0,Actionable
+Peds Cardiology,A1C,Respiratory,Normal,Routine Follow-up,11,0,Review
+Peds Cardiology,Chest X-ray,Neuro,Abnormal,Rx Started,16,0,Actionable
+Peds Neuro,A1C,GI,Normal,None,3,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Missing,None,15,1,Incomplete
+Peds Pulmonology,Throat Culture,Well Child,Normal,Phone Outreach,3,0,Review
+Peds Pulmonology,A1C,Infectious,Normal,Phone Outreach,1,1,Review
+Peds Cardiology,Urinalysis,Infectious,Normal,Referral,8,0,Review
+Peds Primary Care,Lipid Panel,Infectious,Abnormal,Routine Follow-up,12,1,Actionable
+Peds Cardiology,Chest X-ray,Infectious,Normal,None,4,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,Referral,2,0,Review
+Peds GI,Urinalysis,Respiratory,Abnormal,Rx Started,13,0,Actionable
+Peds Primary Care,Urinalysis,Infectious,Normal,None,1,1,Non-actionable
+Peds Pulmonology,A1C,GI,Normal,Routine Follow-up,9,1,Review
+Peds Pulmonology,Urinalysis,Endocrine,Normal,Referral,7,1,Review
+Peds Cardiology,CRP,Cardiac,Normal,Routine Follow-up,5,1,Review
+Peds Primary Care,Lipid Panel,Infectious,Normal,None,13,0,Review
+Peds Cardiology,A1C,Endocrine,Normal,Routine Follow-up,2,0,Review
+Peds Cardiology,CBC,Respiratory,Abnormal,None,17,0,Review
+Peds Cardiology,CBC,Endocrine,Abnormal,None,12,1,Review
+Peds Cardiology,Throat Culture,Respiratory,Normal,Phone Outreach,16,0,Review
+Peds Pulmonology,Urinalysis,Well Child,Normal,Rx Started,1,0,Review
+Peds GI,CBC,GI,Normal,None,2,0,Review
+Peds Pulmonology,CBC,Endocrine,Abnormal,Phone Outreach,14,0,Actionable
+Peds Pulmonology,CRP,Endocrine,Normal,Routine Follow-up,4,0,Review
+Peds Pulmonology,CRP,Cardiac,Missing,Routine Follow-up,16,0,Incomplete
+Peds Neuro,CRP,Neuro,Normal,Urgent Visit,3,1,Review
+Peds Cardiology,A1C,Respiratory,Normal,Routine Follow-up,16,1,Review
+Peds Cardiology,Urinalysis,Cardiac,Abnormal,Phone Outreach,8,0,Actionable
+Peds Neuro,A1C,Neuro,Normal,None,6,0,Review
+Peds GI,Urinalysis,Neuro,Normal,Rx Started,12,0,Review
+Peds Pulmonology,A1C,Neuro,Normal,Routine Follow-up,6,0,Review
+Peds Primary Care,A1C,Well Child,Normal,None,14,0,Review
+Peds Cardiology,Urinalysis,GI,Normal,Routine Follow-up,1,0,Review
+Peds Primary Care,CRP,Respiratory,Normal,Phone Outreach,13,0,Review
+Peds Pulmonology,Lipid Panel,Well Child,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Primary Care,CRP,GI,Normal,Phone Outreach,4,1,Review
+Peds Cardiology,Lipid Panel,Infectious,Abnormal,Referral,10,0,Actionable
+Peds Pulmonology,Urinalysis,Infectious,Abnormal,Referral,5,0,Actionable
+Peds Cardiology,Chest X-ray,Endocrine,Normal,Phone Outreach,9,0,Review
+Peds Pulmonology,Throat Culture,Well Child,Normal,None,6,0,Review
+Peds Pulmonology,A1C,Cardiac,Missing,None,11,1,Incomplete
+Peds GI,Chest X-ray,GI,Abnormal,Referral,7,1,Actionable
+Peds Pulmonology,Throat Culture,Cardiac,Abnormal,None,7,0,Review
+Peds GI,A1C,Infectious,Normal,None,6,0,Review
+Peds Pulmonology,A1C,Cardiac,Normal,Urgent Visit,12,0,Review
+Peds Cardiology,Lipid Panel,Cardiac,Abnormal,Routine Follow-up,9,0,Actionable
+Peds Neuro,CBC,Neuro,Normal,None,1,0,Review
+Peds Pulmonology,Urinalysis,Infectious,Abnormal,Urgent Visit,8,1,Actionable
+Peds GI,Chest X-ray,Endocrine,Normal,Rx Started,6,1,Review
+Peds Cardiology,Urinalysis,GI,Normal,Referral,14,0,Review
+Peds Pulmonology,CRP,Endocrine,Normal,None,16,0,Review
+Peds Neuro,Chest X-ray,Respiratory,Normal,Phone Outreach,2,0,Review
+Peds Pulmonology,CRP,Well Child,Normal,None,3,0,Review
+Peds Neuro,CBC,Well Child,Abnormal,Routine Follow-up,3,0,Actionable
+Peds Cardiology,Urinalysis,Neuro,Normal,Routine Follow-up,4,1,Review
+Peds Pulmonology,Lipid Panel,Respiratory,Normal,None,13,0,Review
+Peds Neuro,Lipid Panel,Well Child,Normal,None,14,0,Review
+Peds Primary Care,Throat Culture,Infectious,Abnormal,Routine Follow-up,10,1,Actionable
+Peds Pulmonology,CRP,Infectious,Missing,Phone Outreach,17,1,Incomplete
+Peds Pulmonology,CBC,Neuro,Normal,Referral,16,1,Review
+Peds Neuro,Urinalysis,Cardiac,Normal,None,12,0,Review
+Peds Neuro,Chest X-ray,GI,Normal,Referral,5,0,Review
+Peds Cardiology,A1C,Cardiac,Normal,Routine Follow-up,13,0,Review
+Peds Neuro,Lipid Panel,Respiratory,Normal,None,10,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Missing,None,17,0,Incomplete
+Peds Primary Care,Throat Culture,Endocrine,Normal,Referral,11,0,Review
+Peds Cardiology,CRP,Neuro,Normal,Phone Outreach,1,0,Review
+Peds Cardiology,Urinalysis,Cardiac,Normal,Referral,4,0,Review
+Peds Neuro,Throat Culture,Endocrine,Abnormal,Routine Follow-up,1,0,Actionable
+Peds Cardiology,Chest X-ray,Neuro,Missing,Referral,8,0,Incomplete
+Peds Primary Care,Urinalysis,Well Child,Normal,Routine Follow-up,9,0,Review
+Peds Neuro,CBC,Well Child,Abnormal,Referral,3,0,Actionable
+Peds GI,CBC,Neuro,Normal,Phone Outreach,7,0,Review
+Peds Primary Care,Lipid Panel,Infectious,Normal,None,12,0,Review
+Peds Pulmonology,CBC,Infectious,Normal,None,5,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Abnormal,None,9,1,Review
+Peds Cardiology,Lipid Panel,Well Child,Normal,Routine Follow-up,6,1,Review
+Peds Neuro,Lipid Panel,Endocrine,Normal,None,16,0,Review
+Peds Primary Care,Throat Culture,Respiratory,Normal,Phone Outreach,14,0,Review
+Peds Pulmonology,Lipid Panel,Endocrine,Normal,Phone Outreach,17,0,Review
+Peds Cardiology,Throat Culture,Neuro,Normal,None,7,0,Review
+Peds Pulmonology,Urinalysis,Neuro,Normal,None,5,1,Non-actionable
+Peds Cardiology,A1C,Endocrine,Normal,Rx Started,17,0,Review
+Peds Pulmonology,Urinalysis,Respiratory,Normal,None,11,1,Non-actionable
+Peds Pulmonology,Lipid Panel,Neuro,Normal,Phone Outreach,6,0,Review
+Peds GI,Urinalysis,Endocrine,Missing,Phone Outreach,16,0,Incomplete
+Peds Primary Care,CRP,Well Child,Normal,Routine Follow-up,16,0,Review
+Peds Pulmonology,Urinalysis,Respiratory,Normal,Routine Follow-up,7,1,Review
+Peds Primary Care,Chest X-ray,Cardiac,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Neuro,Lipid Panel,Infectious,Normal,Phone Outreach,1,0,Review
+Peds Pulmonology,CRP,Endocrine,Normal,None,8,0,Review
+Peds Pulmonology,Urinalysis,Cardiac,Abnormal,None,1,0,Review
+Peds Neuro,Lipid Panel,Infectious,Normal,None,1,1,Non-actionable
+Peds Primary Care,CBC,Endocrine,Abnormal,None,10,1,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,Routine Follow-up,7,0,Review
+Peds Primary Care,CRP,Infectious,Abnormal,None,7,1,Review
+Peds Pulmonology,A1C,Infectious,Normal,Referral,7,0,Review
+Peds Cardiology,CRP,Well Child,Normal,Referral,6,0,Review
+Peds GI,Throat Culture,Neuro,Missing,None,4,0,Incomplete
+Peds GI,Chest X-ray,Endocrine,Abnormal,Routine Follow-up,15,0,Actionable
+Peds GI,Throat Culture,Infectious,Missing,None,13,0,Incomplete
+Peds Pulmonology,CBC,Respiratory,Missing,None,15,0,Incomplete
+Peds Neuro,Chest X-ray,Infectious,Abnormal,Phone Outreach,9,0,Actionable
+Peds Pulmonology,Throat Culture,Neuro,Normal,None,12,0,Review
+Peds GI,Lipid Panel,Well Child,Missing,None,3,0,Incomplete
+Peds Pulmonology,CRP,Endocrine,Normal,Routine Follow-up,11,0,Review
+Peds Primary Care,CRP,Endocrine,Normal,Referral,11,0,Review
+Peds Neuro,Chest X-ray,GI,Abnormal,None,16,1,Review
+Peds Neuro,CBC,Endocrine,Normal,None,6,0,Review
+Peds Cardiology,CRP,Neuro,Normal,Routine Follow-up,3,1,Review
+Peds Primary Care,CBC,Respiratory,Normal,Referral,9,0,Review
+Peds GI,Throat Culture,Cardiac,Normal,Urgent Visit,13,1,Review
+Peds Cardiology,A1C,Respiratory,Abnormal,Routine Follow-up,12,0,Actionable
+Peds Pulmonology,A1C,Endocrine,Abnormal,Rx Started,9,0,Actionable
+Peds Cardiology,Chest X-ray,Cardiac,Normal,Rx Started,7,1,Review
+Peds GI,CBC,Respiratory,Missing,None,15,1,Incomplete
+Peds GI,CBC,Infectious,Normal,Referral,9,1,Review
+Peds Neuro,CBC,Neuro,Normal,None,15,0,Review
+Peds Neuro,Throat Culture,GI,Normal,None,12,1,Non-actionable
+Peds Primary Care,CBC,Cardiac,Missing,None,5,1,Incomplete
+Peds Primary Care,Lipid Panel,Endocrine,Abnormal,Phone Outreach,15,0,Actionable
+Peds Cardiology,Chest X-ray,Cardiac,Normal,Urgent Visit,11,0,Review
+Peds Primary Care,Lipid Panel,GI,Normal,Routine Follow-up,16,0,Review
+Peds Neuro,Throat Culture,Neuro,Abnormal,None,15,1,Review
+Peds Primary Care,CBC,Well Child,Normal,Routine Follow-up,9,0,Review
+Peds Primary Care,Lipid Panel,GI,Abnormal,Routine Follow-up,17,0,Actionable
+Peds Neuro,CBC,Respiratory,Abnormal,Rx Started,5,0,Actionable
+Peds Primary Care,Throat Culture,Endocrine,Abnormal,Rx Started,5,0,Actionable
+Peds Pulmonology,Chest X-ray,Cardiac,Normal,Routine Follow-up,7,0,Review
+Peds Neuro,CBC,Cardiac,Abnormal,Routine Follow-up,1,1,Actionable
+Peds Pulmonology,Urinalysis,Cardiac,Normal,None,8,0,Review
+Peds Neuro,Throat Culture,Respiratory,Normal,None,11,0,Review
+Peds Pulmonology,Chest X-ray,Cardiac,Abnormal,None,6,0,Review
+Peds Cardiology,Throat Culture,Well Child,Abnormal,Phone Outreach,5,1,Actionable
+Peds Neuro,CRP,GI,Abnormal,None,5,0,Review
+Peds Primary Care,CBC,GI,Normal,Routine Follow-up,7,1,Review
+Peds GI,Urinalysis,Endocrine,Normal,Routine Follow-up,5,0,Review
+Peds Pulmonology,Urinalysis,Cardiac,Normal,Referral,10,0,Review
+Peds Neuro,A1C,Well Child,Normal,None,17,0,Review
+Peds Pulmonology,Throat Culture,Infectious,Normal,None,14,1,Non-actionable
+Peds Cardiology,CBC,Infectious,Missing,None,17,0,Incomplete
+Peds Pulmonology,Urinalysis,Endocrine,Abnormal,Routine Follow-up,17,0,Actionable
+Peds Cardiology,CRP,Neuro,Abnormal,None,15,1,Review
+Peds Cardiology,Urinalysis,Cardiac,Normal,Routine Follow-up,1,1,Review
+Peds Primary Care,Throat Culture,Respiratory,Normal,Routine Follow-up,1,1,Review
+Peds Pulmonology,A1C,Respiratory,Normal,Routine Follow-up,7,0,Review
+Peds GI,Lipid Panel,GI,Abnormal,None,16,0,Review
+Peds Neuro,CRP,Cardiac,Normal,Phone Outreach,14,0,Review
+Peds Cardiology,Chest X-ray,Respiratory,Normal,None,5,0,Review
+Peds Primary Care,Chest X-ray,Endocrine,Missing,Phone Outreach,10,1,Incomplete
+Peds Pulmonology,Urinalysis,Respiratory,Normal,Referral,8,0,Review
+Peds GI,Chest X-ray,Well Child,Normal,None,10,1,Non-actionable
+Peds Cardiology,Urinalysis,Infectious,Normal,Routine Follow-up,17,0,Review
+Peds Neuro,CRP,Endocrine,Abnormal,None,17,0,Review
+Peds Pulmonology,A1C,Cardiac,Normal,Rx Started,17,0,Review
+Peds Pulmonology,CRP,Respiratory,Normal,Routine Follow-up,10,0,Review
+Peds Pulmonology,CRP,Infectious,Abnormal,Referral,7,0,Actionable
+Peds Primary Care,Chest X-ray,Cardiac,Normal,None,1,0,Review
+Peds Cardiology,CBC,Neuro,Normal,Rx Started,3,0,Review
+Peds Neuro,CBC,Infectious,Normal,None,4,0,Review
+Peds Neuro,Urinalysis,Neuro,Abnormal,None,16,0,Review
+Peds GI,Urinalysis,Cardiac,Normal,Phone Outreach,17,0,Review
+Peds Primary Care,CRP,Cardiac,Normal,Routine Follow-up,3,1,Review
+Peds Primary Care,A1C,Neuro,Abnormal,Rx Started,6,0,Actionable
+Peds GI,CRP,Infectious,Normal,Phone Outreach,4,0,Review
+Peds Cardiology,Urinalysis,Endocrine,Normal,Routine Follow-up,7,0,Review
+Peds Primary Care,CRP,Respiratory,Normal,None,15,1,Non-actionable
+Peds Primary Care,Lipid Panel,Respiratory,Normal,Routine Follow-up,12,0,Review
+Peds GI,Chest X-ray,Cardiac,Normal,Rx Started,10,0,Review
+Peds Pulmonology,A1C,Well Child,Normal,Phone Outreach,2,0,Review
+Peds Pulmonology,Chest X-ray,Cardiac,Normal,None,2,0,Review
+Peds Neuro,Urinalysis,Infectious,Missing,Routine Follow-up,5,0,Incomplete
+Peds GI,Lipid Panel,Neuro,Missing,None,12,0,Incomplete
+Peds Pulmonology,CRP,Endocrine,Abnormal,None,12,0,Review
+Peds Pulmonology,A1C,Endocrine,Normal,Phone Outreach,9,0,Review
+Peds Pulmonology,Throat Culture,Cardiac,Normal,Routine Follow-up,16,1,Review
+Peds Primary Care,CBC,Respiratory,Missing,None,12,0,Incomplete
+Peds Neuro,CBC,Infectious,Abnormal,Referral,16,0,Actionable
+Peds Cardiology,Throat Culture,Endocrine,Abnormal,Phone Outreach,2,0,Actionable
+Peds GI,CRP,Well Child,Normal,None,14,0,Review
+Peds Cardiology,CBC,Endocrine,Normal,Urgent Visit,11,0,Review
+Peds Primary Care,CRP,Respiratory,Abnormal,None,4,0,Review
+Peds Pulmonology,A1C,Respiratory,Normal,None,6,1,Non-actionable
+Peds Neuro,CRP,Infectious,Normal,None,1,0,Review
+Peds Cardiology,CRP,Infectious,Normal,None,15,1,Non-actionable
+Peds Cardiology,A1C,Endocrine,Abnormal,Urgent Visit,14,0,Actionable
+Peds Primary Care,Chest X-ray,Respiratory,Abnormal,Phone Outreach,15,0,Actionable
+Peds Pulmonology,Chest X-ray,Neuro,Abnormal,Phone Outreach,7,0,Actionable
+Peds Cardiology,CBC,Infectious,Normal,Routine Follow-up,8,1,Review
+Peds Cardiology,CBC,Endocrine,Normal,None,7,1,Non-actionable
+Peds Cardiology,CBC,Neuro,Normal,Routine Follow-up,4,0,Review
+Peds Primary Care,A1C,Well Child,Normal,Routine Follow-up,5,1,Review
+Peds GI,Urinalysis,Cardiac,Missing,Routine Follow-up,9,0,Incomplete
+Peds Pulmonology,CRP,GI,Abnormal,None,9,1,Review
+Peds Neuro,Urinalysis,Respiratory,Abnormal,Phone Outreach,8,0,Actionable
+Peds Primary Care,Lipid Panel,Well Child,Normal,None,4,0,Review
+Peds Primary Care,Throat Culture,Neuro,Normal,None,15,0,Review
+Peds Cardiology,A1C,Well Child,Normal,None,9,0,Review
+Peds Pulmonology,CRP,GI,Normal,None,16,1,Non-actionable
+Peds Neuro,CRP,Respiratory,Normal,Routine Follow-up,2,0,Review
+Peds Pulmonology,Lipid Panel,Neuro,Normal,Urgent Visit,17,0,Review
+Peds Primary Care,Lipid Panel,Infectious,Abnormal,Urgent Visit,4,1,Actionable
+Peds Primary Care,CBC,GI,Abnormal,Referral,16,0,Actionable
+Peds Pulmonology,Chest X-ray,Cardiac,Normal,Rx Started,5,0,Review
+Peds Primary Care,Urinalysis,Infectious,Normal,Routine Follow-up,1,1,Review
+Peds GI,Lipid Panel,Respiratory,Normal,Routine Follow-up,5,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Abnormal,Urgent Visit,6,1,Actionable
+Peds Pulmonology,CBC,Neuro,Normal,Referral,13,0,Review
+Peds Primary Care,CBC,Neuro,Normal,None,5,0,Review
+Peds Pulmonology,CRP,Neuro,Normal,None,17,0,Review
+Peds Primary Care,A1C,GI,Normal,Referral,1,0,Review
+Peds Neuro,Chest X-ray,Infectious,Abnormal,Phone Outreach,2,0,Actionable
+Peds Cardiology,Chest X-ray,Endocrine,Normal,None,4,1,Non-actionable
+Peds Pulmonology,Chest X-ray,Endocrine,Missing,Routine Follow-up,3,1,Incomplete
+Peds Pulmonology,CBC,GI,Normal,None,13,0,Review
+Peds Pulmonology,Throat Culture,Infectious,Normal,None,3,0,Review
+Peds Pulmonology,CBC,Endocrine,Normal,Routine Follow-up,6,0,Review
+Peds Neuro,Lipid Panel,Endocrine,Abnormal,None,3,0,Review
+Peds Primary Care,CRP,Cardiac,Abnormal,Referral,1,0,Actionable
+Peds Pulmonology,A1C,Neuro,Abnormal,Routine Follow-up,15,0,Actionable
+Peds GI,CRP,Respiratory,Normal,Phone Outreach,11,0,Review
+Peds Pulmonology,CBC,Neuro,Normal,Phone Outreach,14,0,Review
+Peds GI,Urinalysis,GI,Normal,Phone Outreach,2,0,Review
+Peds GI,CBC,Endocrine,Normal,None,1,0,Review
+Peds Primary Care,CBC,Well Child,Abnormal,Urgent Visit,16,0,Actionable
+Peds Pulmonology,Urinalysis,Infectious,Abnormal,Referral,5,1,Actionable
+Peds Cardiology,Lipid Panel,Cardiac,Normal,Phone Outreach,9,0,Review
+Peds Primary Care,CRP,Respiratory,Abnormal,Routine Follow-up,14,0,Actionable
+Peds Neuro,A1C,Cardiac,Normal,Routine Follow-up,4,1,Review
+Peds GI,A1C,Neuro,Abnormal,Referral,15,1,Actionable
+Peds Pulmonology,Urinalysis,GI,Normal,Phone Outreach,9,0,Review
+Peds GI,A1C,Well Child,Normal,Phone Outreach,3,0,Review
+Peds Cardiology,Throat Culture,Well Child,Normal,Urgent Visit,3,1,Review
+Peds Neuro,CRP,Endocrine,Normal,Rx Started,13,1,Review
+Peds Pulmonology,CRP,Neuro,Normal,None,2,0,Review
+Peds Pulmonology,CBC,Neuro,Missing,None,13,0,Incomplete
+Peds Cardiology,CBC,Respiratory,Abnormal,None,10,0,Review
+Peds GI,Urinalysis,Infectious,Abnormal,None,12,1,Review
+Peds Pulmonology,Lipid Panel,GI,Abnormal,Routine Follow-up,10,0,Actionable
+Peds Primary Care,A1C,Respiratory,Normal,Urgent Visit,15,0,Review
+Peds GI,CRP,Neuro,Normal,Routine Follow-up,10,0,Review
+Peds Primary Care,Urinalysis,Neuro,Normal,None,15,0,Review
+Peds Neuro,Urinalysis,GI,Normal,Routine Follow-up,2,0,Review
+Peds Neuro,Chest X-ray,Endocrine,Normal,None,15,1,Non-actionable
+Peds GI,Throat Culture,Respiratory,Abnormal,Referral,1,0,Actionable
+Peds GI,CBC,GI,Missing,None,13,0,Incomplete
+Peds Primary Care,Throat Culture,Respiratory,Normal,Phone Outreach,9,0,Review
+Peds Primary Care,Throat Culture,Endocrine,Normal,Rx Started,9,0,Review
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Phone Outreach,4,1,Review
+Peds Primary Care,Lipid Panel,GI,Normal,Urgent Visit,2,0,Review
+Peds Neuro,Urinalysis,Neuro,Abnormal,None,12,0,Review
+Peds Cardiology,A1C,Respiratory,Normal,Rx Started,16,0,Review
+Peds Neuro,CRP,Cardiac,Normal,None,16,0,Review
+Peds Pulmonology,CBC,Infectious,Missing,None,17,0,Incomplete
+Peds Neuro,Throat Culture,Infectious,Normal,None,10,0,Review
+Peds Neuro,Chest X-ray,Infectious,Normal,Phone Outreach,11,0,Review
+Peds Neuro,CBC,GI,Normal,None,11,0,Review
+Peds Neuro,Lipid Panel,Respiratory,Normal,None,14,0,Review
+Peds GI,A1C,Infectious,Missing,Urgent Visit,4,0,Incomplete
+Peds Neuro,CRP,Well Child,Normal,Phone Outreach,13,1,Review
+Peds Pulmonology,CBC,Neuro,Abnormal,Referral,6,1,Actionable
+Peds GI,A1C,Infectious,Missing,Routine Follow-up,11,0,Incomplete
+Peds GI,CBC,Respiratory,Abnormal,Routine Follow-up,7,0,Actionable
+Peds GI,A1C,Neuro,Normal,None,5,0,Review
+Peds Pulmonology,Urinalysis,Respiratory,Abnormal,None,9,0,Review
+Peds GI,CBC,GI,Normal,None,13,1,Non-actionable
+Peds Neuro,Chest X-ray,Cardiac,Abnormal,Rx Started,13,0,Actionable
+Peds Cardiology,CBC,Endocrine,Normal,Referral,9,0,Review
+Peds Pulmonology,Chest X-ray,Infectious,Normal,None,4,1,Non-actionable
+Peds Neuro,Lipid Panel,GI,Abnormal,Urgent Visit,3,0,Actionable
+Peds Primary Care,CBC,Cardiac,Normal,Referral,14,0,Review
+Peds GI,A1C,Cardiac,Abnormal,None,3,1,Review
+Peds Cardiology,Throat Culture,Neuro,Missing,Referral,15,0,Incomplete
+Peds Primary Care,Lipid Panel,Respiratory,Normal,Routine Follow-up,15,1,Review
+Peds Primary Care,CRP,Cardiac,Missing,Phone Outreach,5,0,Incomplete
+Peds Primary Care,CRP,Cardiac,Missing,Rx Started,9,0,Incomplete
+Peds Primary Care,Throat Culture,Cardiac,Abnormal,Phone Outreach,17,0,Actionable
+Peds Primary Care,Throat Culture,Infectious,Normal,Phone Outreach,9,0,Review
+Peds Primary Care,CRP,Respiratory,Normal,Routine Follow-up,3,0,Review
+Peds Primary Care,CRP,Cardiac,Normal,None,1,0,Review
+Peds GI,Lipid Panel,Neuro,Normal,None,12,0,Review
+Peds Cardiology,Urinalysis,Neuro,Missing,Phone Outreach,7,0,Incomplete
+Peds Primary Care,Urinalysis,Respiratory,Normal,None,16,0,Review
+Peds Primary Care,Urinalysis,GI,Normal,Urgent Visit,3,0,Review
+Peds GI,Chest X-ray,Respiratory,Normal,None,4,0,Review
+Peds GI,CBC,Neuro,Normal,None,11,0,Review
+Peds GI,Throat Culture,GI,Normal,Routine Follow-up,5,1,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,None,3,0,Review
+Peds Cardiology,CBC,GI,Normal,Routine Follow-up,17,0,Review
+Peds GI,A1C,Respiratory,Normal,Routine Follow-up,10,1,Review
+Peds Cardiology,CRP,Infectious,Normal,Routine Follow-up,14,0,Review
+Peds GI,Chest X-ray,Neuro,Normal,None,17,0,Review
+Peds Pulmonology,Lipid Panel,Infectious,Normal,Phone Outreach,1,0,Review
+Peds Cardiology,Urinalysis,Infectious,Abnormal,None,5,0,Review
+Peds Primary Care,Throat Culture,Endocrine,Abnormal,Phone Outreach,2,1,Actionable
+Peds GI,CRP,Neuro,Abnormal,Rx Started,15,0,Actionable
+Peds Pulmonology,CBC,Endocrine,Normal,None,16,0,Review
+Peds GI,A1C,Cardiac,Normal,Phone Outreach,1,0,Review
+Peds Neuro,CRP,GI,Normal,None,10,0,Review
+Peds Pulmonology,Lipid Panel,Endocrine,Normal,None,16,1,Non-actionable
+Peds Pulmonology,CRP,GI,Abnormal,Phone Outreach,8,1,Actionable
+Peds Pulmonology,Urinalysis,Infectious,Abnormal,Rx Started,11,0,Actionable
+Peds Neuro,Chest X-ray,Cardiac,Normal,None,7,0,Review
+Peds Pulmonology,Urinalysis,Neuro,Normal,Referral,9,1,Review
+Peds GI,Lipid Panel,Well Child,Normal,None,14,0,Review
+Peds Neuro,Chest X-ray,Infectious,Abnormal,None,7,1,Review
+Peds GI,CBC,Well Child,Normal,Routine Follow-up,17,0,Review
+Peds Neuro,A1C,Cardiac,Abnormal,Phone Outreach,5,0,Actionable
+Peds Pulmonology,Chest X-ray,Endocrine,Normal,Referral,6,0,Review
+Peds Neuro,Throat Culture,Cardiac,Normal,None,14,1,Non-actionable
+Peds Primary Care,Lipid Panel,Respiratory,Normal,None,2,0,Review
+Peds Pulmonology,CBC,GI,Missing,Urgent Visit,6,0,Incomplete
+Peds Pulmonology,CBC,Endocrine,Missing,Phone Outreach,16,0,Incomplete
+Peds GI,Chest X-ray,GI,Abnormal,None,13,0,Review
+Peds Primary Care,Throat Culture,Well Child,Normal,Phone Outreach,11,0,Review
+Peds Cardiology,CBC,Respiratory,Normal,None,2,0,Review
+Peds Pulmonology,CBC,Well Child,Normal,Phone Outreach,12,0,Review
+Peds Pulmonology,CRP,GI,Normal,None,8,0,Review
+Peds Primary Care,CRP,GI,Abnormal,Routine Follow-up,9,0,Actionable
+Peds Cardiology,Chest X-ray,Infectious,Normal,Urgent Visit,9,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Abnormal,Rx Started,3,1,Actionable
+Peds Pulmonology,Chest X-ray,Neuro,Abnormal,Phone Outreach,1,0,Actionable
+Peds Neuro,Urinalysis,Respiratory,Abnormal,Phone Outreach,13,0,Actionable
+Peds Neuro,Urinalysis,Respiratory,Abnormal,Routine Follow-up,16,1,Actionable
+Peds GI,Lipid Panel,Respiratory,Normal,Rx Started,15,0,Review
+Peds GI,A1C,Infectious,Normal,Rx Started,14,0,Review
+Peds Primary Care,Chest X-ray,GI,Normal,Routine Follow-up,4,0,Review
+Peds Neuro,Chest X-ray,Neuro,Normal,Rx Started,7,0,Review
+Peds GI,Chest X-ray,Well Child,Normal,Rx Started,5,0,Review
+Peds Pulmonology,Lipid Panel,Neuro,Abnormal,None,1,0,Review
+Peds Cardiology,Lipid Panel,Infectious,Normal,None,17,0,Review
+Peds Pulmonology,Throat Culture,Neuro,Normal,None,10,0,Review
+Peds Cardiology,CRP,Well Child,Missing,None,11,0,Incomplete
+Peds GI,CBC,Endocrine,Abnormal,None,6,0,Review
+Peds Primary Care,A1C,Endocrine,Normal,Phone Outreach,9,1,Review
+Peds Primary Care,Throat Culture,Respiratory,Normal,Routine Follow-up,8,0,Review
+Peds Cardiology,CBC,Cardiac,Normal,Phone Outreach,15,0,Review
+Peds GI,Urinalysis,Cardiac,Missing,Routine Follow-up,9,0,Incomplete
+Peds Cardiology,Throat Culture,Well Child,Normal,Urgent Visit,7,1,Review
+Peds Pulmonology,CRP,Respiratory,Missing,Referral,16,0,Incomplete
+Peds Primary Care,Lipid Panel,Neuro,Abnormal,Routine Follow-up,9,1,Actionable
+Peds GI,Chest X-ray,Cardiac,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Pulmonology,Urinalysis,Endocrine,Normal,None,14,1,Non-actionable
+Peds Cardiology,Throat Culture,Well Child,Normal,Phone Outreach,2,0,Review
+Peds Primary Care,A1C,Neuro,Normal,Routine Follow-up,3,0,Review
+Peds GI,A1C,Well Child,Missing,None,15,0,Incomplete
+Peds Pulmonology,Urinalysis,GI,Abnormal,Phone Outreach,12,0,Actionable
+Peds Cardiology,CBC,Neuro,Normal,Referral,14,0,Review
+Peds Primary Care,A1C,Infectious,Abnormal,None,16,0,Review
+Peds Neuro,Lipid Panel,Respiratory,Normal,Rx Started,5,1,Review
+Peds Pulmonology,A1C,Neuro,Normal,Referral,11,0,Review
+Peds Neuro,Throat Culture,GI,Normal,Referral,11,1,Review
+Peds Primary Care,Urinalysis,Neuro,Abnormal,Rx Started,6,1,Actionable
+Peds Primary Care,A1C,GI,Abnormal,None,5,0,Review
+Peds Primary Care,Throat Culture,Well Child,Normal,Phone Outreach,16,0,Review
+Peds Pulmonology,CRP,Cardiac,Normal,None,13,0,Review
+Peds Primary Care,Throat Culture,Well Child,Normal,Rx Started,14,0,Review
+Peds GI,Chest X-ray,GI,Abnormal,Routine Follow-up,7,0,Actionable
+Peds Primary Care,Lipid Panel,GI,Normal,None,4,0,Review
+Peds GI,CBC,Cardiac,Normal,Phone Outreach,8,0,Review
+Peds Neuro,CRP,Respiratory,Abnormal,None,7,0,Review
+Peds GI,Throat Culture,Well Child,Abnormal,None,9,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Normal,None,6,0,Review
+Peds Primary Care,A1C,Endocrine,Normal,None,6,0,Review
+Peds Cardiology,A1C,Cardiac,Normal,Routine Follow-up,11,0,Review
+Peds GI,CBC,Endocrine,Normal,Referral,3,0,Review
+Peds Cardiology,Lipid Panel,Endocrine,Normal,Phone Outreach,6,0,Review
+Peds Cardiology,Lipid Panel,Respiratory,Normal,None,6,0,Review
+Peds Pulmonology,CRP,Neuro,Abnormal,Routine Follow-up,14,0,Actionable
+Peds Pulmonology,Throat Culture,Infectious,Normal,None,16,0,Review
+Peds GI,Urinalysis,Respiratory,Missing,Rx Started,5,0,Incomplete
+Peds GI,Throat Culture,Cardiac,Normal,Routine Follow-up,6,0,Review
+Peds Primary Care,Lipid Panel,GI,Normal,Routine Follow-up,8,0,Review
+Peds Neuro,Lipid Panel,GI,Missing,Rx Started,8,0,Incomplete
+Peds GI,Lipid Panel,Respiratory,Normal,Urgent Visit,10,1,Review
+Peds Cardiology,CRP,Respiratory,Normal,Rx Started,7,0,Review
+Peds GI,Urinalysis,Well Child,Normal,None,12,1,Non-actionable
+Peds Primary Care,CBC,Respiratory,Normal,None,15,0,Review
+Peds Cardiology,CRP,Respiratory,Normal,Rx Started,7,1,Review
+Peds Cardiology,CBC,Neuro,Normal,Routine Follow-up,3,0,Review
+Peds Cardiology,CRP,Infectious,Normal,Phone Outreach,5,0,Review
+Peds GI,A1C,Infectious,Normal,None,7,0,Review
+Peds GI,CBC,Well Child,Normal,Routine Follow-up,7,0,Review
+Peds Primary Care,Lipid Panel,Respiratory,Abnormal,None,8,0,Review
+Peds Pulmonology,CRP,Well Child,Normal,Referral,15,0,Review
+Peds Neuro,Lipid Panel,Infectious,Normal,None,1,0,Review
+Peds Primary Care,Throat Culture,Well Child,Normal,None,1,0,Review
+Peds Neuro,CBC,Neuro,Normal,Phone Outreach,16,0,Review
+Peds Cardiology,Lipid Panel,Infectious,Normal,Phone Outreach,3,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Abnormal,Routine Follow-up,2,0,Actionable
+Peds Pulmonology,CBC,Well Child,Normal,Phone Outreach,5,0,Review
+Peds GI,Chest X-ray,Respiratory,Normal,Phone Outreach,8,0,Review
+Peds Cardiology,A1C,Well Child,Missing,Phone Outreach,13,0,Incomplete
+Peds Neuro,Throat Culture,Endocrine,Normal,Referral,5,1,Review
+Peds Cardiology,CBC,Cardiac,Abnormal,Routine Follow-up,8,0,Actionable
+Peds Cardiology,A1C,Well Child,Normal,Referral,6,0,Review
+Peds Primary Care,Lipid Panel,Infectious,Normal,None,10,0,Review
+Peds GI,Lipid Panel,Neuro,Normal,Phone Outreach,10,0,Review
+Peds Primary Care,Throat Culture,Well Child,Normal,Routine Follow-up,5,1,Review
+Peds GI,CRP,Infectious,Normal,None,12,1,Non-actionable
+Peds Primary Care,Chest X-ray,Infectious,Normal,None,11,0,Review
+Peds GI,A1C,Infectious,Abnormal,None,9,0,Review
+Peds Pulmonology,Urinalysis,Well Child,Normal,Rx Started,10,0,Review
+Peds GI,CRP,Infectious,Abnormal,None,17,0,Review
+Peds Pulmonology,A1C,Neuro,Normal,Rx Started,13,0,Review
+Peds Primary Care,CRP,Respiratory,Normal,None,8,1,Non-actionable
+Peds GI,Chest X-ray,Cardiac,Abnormal,Routine Follow-up,8,0,Actionable
+Peds Pulmonology,Lipid Panel,Infectious,Normal,None,13,1,Non-actionable
+Peds Neuro,Throat Culture,Cardiac,Normal,None,2,0,Review
+Peds Pulmonology,CBC,Neuro,Normal,Referral,15,0,Review
+Peds Pulmonology,Urinalysis,Infectious,Normal,Routine Follow-up,8,0,Review
+Peds Primary Care,Throat Culture,Cardiac,Abnormal,Referral,3,0,Actionable
+Peds Cardiology,CRP,GI,Missing,Referral,7,1,Incomplete
+Peds Pulmonology,Lipid Panel,Cardiac,Normal,None,5,1,Non-actionable
+Peds GI,CBC,Well Child,Normal,None,10,0,Review
+Peds Primary Care,Urinalysis,Respiratory,Abnormal,Phone Outreach,11,0,Actionable
+Peds GI,CBC,Cardiac,Normal,Routine Follow-up,10,1,Review
+Peds Pulmonology,CBC,Infectious,Normal,Phone Outreach,14,0,Review
+Peds Primary Care,CBC,GI,Missing,Routine Follow-up,11,0,Incomplete
+Peds Cardiology,CBC,Cardiac,Missing,Referral,9,1,Incomplete
+Peds Cardiology,A1C,Well Child,Normal,None,10,0,Review
+Peds GI,A1C,Cardiac,Abnormal,None,5,1,Review
+Peds Primary Care,Lipid Panel,GI,Missing,None,8,0,Incomplete
+Peds GI,Lipid Panel,GI,Normal,None,10,1,Non-actionable
+Peds Cardiology,Lipid Panel,Neuro,Normal,None,5,0,Review
+Peds GI,Throat Culture,Infectious,Normal,Routine Follow-up,17,0,Review
+Peds Neuro,Throat Culture,GI,Missing,None,7,0,Incomplete
+Peds Pulmonology,CRP,Cardiac,Normal,Phone Outreach,3,0,Review
+Peds Cardiology,CBC,Cardiac,Normal,Phone Outreach,12,1,Review
+Peds Neuro,CBC,Endocrine,Abnormal,Phone Outreach,7,0,Actionable
+Peds Cardiology,A1C,Cardiac,Normal,Rx Started,15,1,Review
+Peds Pulmonology,CBC,Cardiac,Normal,Rx Started,11,0,Review
+Peds Cardiology,Urinalysis,Well Child,Normal,Phone Outreach,9,1,Review
+Peds Cardiology,A1C,Infectious,Abnormal,Routine Follow-up,1,0,Actionable
+Peds Primary Care,Lipid Panel,Neuro,Abnormal,Routine Follow-up,12,0,Actionable
+Peds Neuro,Throat Culture,Cardiac,Normal,Phone Outreach,12,0,Review
+Peds GI,Throat Culture,Infectious,Normal,Urgent Visit,8,1,Review
+Peds Cardiology,CRP,Cardiac,Missing,None,14,0,Incomplete
+Peds Pulmonology,A1C,GI,Abnormal,Routine Follow-up,3,0,Actionable
+Peds Cardiology,Urinalysis,Endocrine,Missing,Rx Started,17,0,Incomplete
+Peds Pulmonology,Chest X-ray,Respiratory,Normal,None,14,0,Review
+Peds Neuro,CRP,Respiratory,Normal,Routine Follow-up,12,0,Review
+Peds GI,A1C,Endocrine,Normal,None,13,1,Non-actionable
+Peds Cardiology,A1C,Well Child,Missing,Referral,16,0,Incomplete
+Peds GI,Chest X-ray,Infectious,Normal,Routine Follow-up,16,1,Review
+Peds GI,Urinalysis,Well Child,Normal,Phone Outreach,13,0,Review
+Peds Pulmonology,A1C,Infectious,Abnormal,Phone Outreach,8,0,Actionable
+Peds Cardiology,Lipid Panel,Neuro,Abnormal,None,3,0,Review
+Peds Primary Care,Chest X-ray,Well Child,Normal,Referral,7,0,Review
+Peds Cardiology,Lipid Panel,Neuro,Normal,Urgent Visit,2,1,Review
+Peds Primary Care,Urinalysis,Neuro,Normal,None,14,0,Review
+Peds Primary Care,Urinalysis,Well Child,Normal,Routine Follow-up,11,0,Review
+Peds Neuro,Chest X-ray,Infectious,Abnormal,Rx Started,7,0,Actionable
+Peds Neuro,Chest X-ray,Endocrine,Abnormal,Phone Outreach,8,1,Actionable
+Peds Primary Care,Throat Culture,Infectious,Normal,None,11,0,Review
+Peds Cardiology,CRP,Infectious,Normal,Routine Follow-up,7,1,Review
+Peds Neuro,Lipid Panel,Neuro,Normal,Rx Started,15,0,Review
+Peds Neuro,Lipid Panel,Neuro,Normal,None,7,0,Review
+Peds Neuro,A1C,Infectious,Missing,None,15,0,Incomplete
+Peds Pulmonology,A1C,Infectious,Abnormal,Phone Outreach,4,1,Actionable
+Peds Primary Care,CRP,Cardiac,Normal,None,5,0,Review
+Peds Cardiology,Lipid Panel,Endocrine,Normal,None,3,1,Non-actionable
+Peds Neuro,Urinalysis,Cardiac,Normal,Routine Follow-up,15,0,Review
+Peds Pulmonology,CRP,Respiratory,Normal,None,12,0,Review
+Peds Cardiology,Chest X-ray,Infectious,Abnormal,None,16,0,Review
+Peds Cardiology,CBC,Respiratory,Abnormal,None,15,1,Review
+Peds Cardiology,Urinalysis,Endocrine,Normal,Rx Started,15,0,Review
+Peds Cardiology,A1C,Respiratory,Normal,None,8,0,Review
+Peds Cardiology,Throat Culture,Well Child,Normal,None,1,0,Review
+Peds Neuro,Urinalysis,Endocrine,Normal,Referral,7,0,Review
+Peds Pulmonology,A1C,Cardiac,Normal,None,8,0,Review
+Peds Cardiology,Chest X-ray,Respiratory,Normal,None,3,0,Review
+Peds Cardiology,CRP,Endocrine,Normal,Rx Started,13,0,Review
+Peds Primary Care,A1C,Cardiac,Normal,None,10,0,Review
+Peds GI,CBC,Respiratory,Normal,Urgent Visit,13,0,Review
+Peds Cardiology,Throat Culture,Well Child,Normal,Phone Outreach,11,0,Review
+Peds Pulmonology,CBC,Cardiac,Normal,None,7,0,Review
+Peds Primary Care,Lipid Panel,Neuro,Missing,None,10,0,Incomplete
+Peds Cardiology,Throat Culture,Well Child,Normal,Referral,14,1,Review
+Peds GI,Throat Culture,GI,Normal,Rx Started,6,0,Review
+Peds GI,Chest X-ray,Neuro,Normal,None,4,0,Review
+Peds GI,Lipid Panel,Infectious,Normal,Phone Outreach,5,0,Review
+Peds Primary Care,CBC,Endocrine,Abnormal,None,17,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,Routine Follow-up,9,1,Review
+Peds Pulmonology,Throat Culture,Endocrine,Normal,Phone Outreach,1,0,Review
+Peds Primary Care,Lipid Panel,GI,Normal,Routine Follow-up,9,0,Review
+Peds Pulmonology,CBC,Endocrine,Normal,Rx Started,8,0,Review
+Peds GI,Urinalysis,Well Child,Normal,Phone Outreach,16,1,Review
+Peds Neuro,Urinalysis,GI,Abnormal,Referral,16,0,Actionable
+Peds GI,Lipid Panel,Neuro,Normal,Routine Follow-up,16,0,Review
+Peds Primary Care,CRP,Infectious,Normal,None,17,0,Review
+Peds Cardiology,Chest X-ray,Well Child,Normal,Phone Outreach,12,1,Review
+Peds Primary Care,Lipid Panel,Neuro,Missing,None,5,1,Incomplete
+Peds Pulmonology,Urinalysis,Endocrine,Missing,Referral,11,1,Incomplete
+Peds Neuro,Urinalysis,Infectious,Abnormal,Referral,2,0,Actionable
+Peds Primary Care,CRP,Well Child,Abnormal,Routine Follow-up,8,1,Actionable
+Peds Primary Care,Lipid Panel,Endocrine,Normal,None,3,0,Review
+Peds Cardiology,A1C,Well Child,Abnormal,Phone Outreach,3,0,Actionable
+Peds GI,A1C,GI,Normal,Urgent Visit,15,0,Review
+Peds Pulmonology,A1C,Respiratory,Abnormal,Routine Follow-up,8,0,Actionable
+Peds Pulmonology,Throat Culture,Endocrine,Normal,Phone Outreach,2,0,Review
+Peds Pulmonology,Throat Culture,Cardiac,Normal,Phone Outreach,2,0,Review
+Peds GI,CBC,Respiratory,Abnormal,Phone Outreach,2,0,Actionable
+Peds Primary Care,CBC,Cardiac,Normal,Urgent Visit,15,0,Review
+Peds Neuro,Throat Culture,Respiratory,Normal,Referral,12,1,Review
+Peds Neuro,CRP,Infectious,Normal,Routine Follow-up,7,0,Review
+Peds Cardiology,Urinalysis,Infectious,Normal,None,9,0,Review
+Peds Pulmonology,Urinalysis,Respiratory,Normal,Phone Outreach,14,0,Review
+Peds Primary Care,CBC,Neuro,Normal,Phone Outreach,7,0,Review
+Peds Cardiology,CBC,Cardiac,Abnormal,Referral,10,0,Actionable
+Peds GI,CRP,Respiratory,Missing,None,10,0,Incomplete
+Peds GI,Lipid Panel,Cardiac,Normal,Urgent Visit,6,1,Review
+Peds Cardiology,Urinalysis,Endocrine,Abnormal,None,13,1,Review
+Peds Cardiology,CRP,Well Child,Normal,Routine Follow-up,5,0,Review
+Peds GI,CRP,Endocrine,Normal,Referral,2,0,Review
+Peds Neuro,Urinalysis,GI,Normal,None,3,1,Non-actionable
+Peds Neuro,Throat Culture,Cardiac,Abnormal,Routine Follow-up,5,0,Actionable
+Peds Pulmonology,CRP,GI,Normal,Rx Started,2,0,Review
+Peds Neuro,Throat Culture,Infectious,Missing,Routine Follow-up,16,0,Incomplete
+Peds GI,CRP,GI,Normal,None,16,0,Review
+Peds Pulmonology,CRP,GI,Abnormal,None,11,0,Review
+Peds Cardiology,Throat Culture,Endocrine,Abnormal,Referral,14,0,Actionable
+Peds Pulmonology,CBC,Endocrine,Normal,Phone Outreach,12,1,Review
+Peds Pulmonology,Chest X-ray,Infectious,Abnormal,Rx Started,3,0,Actionable
+Peds Neuro,Chest X-ray,Neuro,Normal,None,12,0,Review
+Peds GI,Urinalysis,Infectious,Missing,None,4,1,Incomplete
+Peds Primary Care,Chest X-ray,Neuro,Normal,None,10,0,Review
+Peds Cardiology,Throat Culture,Cardiac,Normal,None,3,0,Review
+Peds GI,Urinalysis,Infectious,Abnormal,Phone Outreach,5,0,Actionable
+Peds Pulmonology,Lipid Panel,Infectious,Normal,None,10,0,Review
+Peds Neuro,A1C,Endocrine,Missing,Rx Started,10,0,Incomplete
+Peds Pulmonology,CRP,Well Child,Normal,Phone Outreach,15,0,Review
+Peds Pulmonology,CBC,Well Child,Missing,Referral,17,0,Incomplete
+Peds Neuro,A1C,Infectious,Normal,Phone Outreach,10,1,Review
+Peds Pulmonology,CBC,Neuro,Normal,Referral,10,0,Review
+Peds Neuro,Throat Culture,Cardiac,Normal,None,11,1,Non-actionable
+Peds Primary Care,Urinalysis,Infectious,Normal,None,4,0,Review
+Peds Cardiology,A1C,GI,Normal,Urgent Visit,4,1,Review
+Peds Pulmonology,Lipid Panel,Endocrine,Normal,Rx Started,16,0,Review
+Peds Cardiology,Throat Culture,Well Child,Normal,None,8,0,Review
+Peds Cardiology,Urinalysis,Neuro,Normal,Routine Follow-up,13,0,Review
+Peds Primary Care,Urinalysis,Respiratory,Normal,Routine Follow-up,17,0,Review
+Peds Cardiology,Chest X-ray,GI,Normal,None,1,0,Review
+Peds GI,A1C,Respiratory,Abnormal,Referral,13,1,Actionable
+Peds Primary Care,CRP,Endocrine,Abnormal,Rx Started,8,0,Actionable
+Peds Neuro,CRP,Endocrine,Abnormal,None,14,0,Review
+Peds Neuro,Lipid Panel,Respiratory,Normal,Routine Follow-up,4,0,Review
+Peds Pulmonology,Throat Culture,Cardiac,Normal,Rx Started,11,0,Review
+Peds GI,Urinalysis,Well Child,Normal,Phone Outreach,17,0,Review
+Peds Primary Care,Throat Culture,GI,Normal,Phone Outreach,11,1,Review
+Peds GI,Urinalysis,Infectious,Abnormal,Routine Follow-up,5,1,Actionable
+Peds Primary Care,CBC,Neuro,Normal,Routine Follow-up,13,0,Review
+Peds Neuro,CRP,GI,Normal,Referral,9,1,Review
+Peds Cardiology,Urinalysis,Cardiac,Normal,None,15,0,Review
+Peds GI,Lipid Panel,Cardiac,Abnormal,Phone Outreach,8,0,Actionable
+Peds Pulmonology,Chest X-ray,Cardiac,Missing,None,10,0,Incomplete
+Peds GI,Chest X-ray,GI,Abnormal,None,4,1,Review
+Peds Primary Care,Throat Culture,Respiratory,Normal,None,16,0,Review
+Peds Neuro,CRP,Endocrine,Normal,Routine Follow-up,14,1,Review
+Peds Pulmonology,CBC,Neuro,Abnormal,Rx Started,8,0,Actionable
+Peds Pulmonology,Lipid Panel,Well Child,Normal,Routine Follow-up,7,0,Review
+Peds Pulmonology,Urinalysis,Well Child,Normal,Phone Outreach,3,0,Review
+Peds GI,CRP,Respiratory,Normal,None,13,0,Review
+Peds GI,CBC,Well Child,Normal,Rx Started,8,0,Review
+Peds Primary Care,Throat Culture,Respiratory,Normal,Phone Outreach,3,0,Review
+Peds Cardiology,Lipid Panel,GI,Normal,Rx Started,3,0,Review
+Peds Pulmonology,Throat Culture,GI,Missing,Referral,6,0,Incomplete
+Peds Pulmonology,A1C,Infectious,Normal,None,17,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Normal,Urgent Visit,11,1,Review
+Peds Neuro,CRP,GI,Normal,Phone Outreach,7,0,Review
+Peds GI,CBC,Respiratory,Normal,Routine Follow-up,10,0,Review
+Peds Pulmonology,Lipid Panel,Respiratory,Abnormal,Referral,9,0,Actionable
+Peds Primary Care,CRP,Cardiac,Normal,None,5,0,Review
+Peds GI,Urinalysis,GI,Normal,None,3,0,Review
+Peds Pulmonology,CRP,Well Child,Normal,Routine Follow-up,16,0,Review
+Peds Cardiology,Urinalysis,Well Child,Normal,None,9,0,Review
+Peds Primary Care,CRP,Well Child,Normal,Routine Follow-up,6,1,Review
+Peds Primary Care,Urinalysis,GI,Normal,Phone Outreach,14,1,Review
+Peds GI,A1C,GI,Normal,None,7,0,Review
+Peds Pulmonology,A1C,Infectious,Normal,Phone Outreach,13,0,Review
+Peds Pulmonology,CRP,Neuro,Normal,None,13,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,Routine Follow-up,7,0,Review
+Peds Cardiology,Throat Culture,Neuro,Normal,Phone Outreach,10,0,Review
+Peds Pulmonology,Throat Culture,Infectious,Normal,Routine Follow-up,17,0,Review
+Peds Cardiology,Throat Culture,Neuro,Abnormal,Rx Started,11,0,Actionable
+Peds Cardiology,Throat Culture,Infectious,Normal,Rx Started,11,0,Review
+Peds Pulmonology,Urinalysis,Endocrine,Normal,None,9,0,Review
+Peds Cardiology,A1C,Respiratory,Normal,Rx Started,6,0,Review
+Peds GI,CRP,Well Child,Normal,None,5,1,Non-actionable
+Peds Pulmonology,Throat Culture,Infectious,Abnormal,Rx Started,7,0,Actionable
+Peds Pulmonology,Lipid Panel,Neuro,Normal,Phone Outreach,4,0,Review
+Peds Neuro,A1C,Infectious,Normal,Routine Follow-up,7,0,Review
+Peds Pulmonology,Throat Culture,Cardiac,Normal,None,8,1,Non-actionable
+Peds Primary Care,CRP,Endocrine,Normal,Phone Outreach,3,1,Review
+Peds Primary Care,Throat Culture,Cardiac,Missing,Referral,13,1,Incomplete
+Peds Cardiology,Lipid Panel,Neuro,Normal,Routine Follow-up,5,1,Review
+Peds Pulmonology,A1C,Cardiac,Missing,Urgent Visit,3,1,Incomplete
+Peds Pulmonology,A1C,GI,Normal,Phone Outreach,1,0,Review
+Peds GI,CRP,Neuro,Normal,Referral,8,0,Review
+Peds GI,A1C,GI,Normal,Routine Follow-up,12,0,Review
+Peds Pulmonology,Urinalysis,Cardiac,Normal,Routine Follow-up,13,1,Review
+Peds Neuro,CBC,Infectious,Missing,Phone Outreach,1,1,Incomplete
+Peds Cardiology,Urinalysis,Cardiac,Normal,Rx Started,8,0,Review
+Peds Primary Care,A1C,Neuro,Abnormal,Referral,10,0,Actionable
+Peds GI,Chest X-ray,Respiratory,Normal,Phone Outreach,17,0,Review
+Peds GI,A1C,GI,Abnormal,Routine Follow-up,6,0,Actionable
+Peds Cardiology,Chest X-ray,Infectious,Normal,Routine Follow-up,12,0,Review
+Peds Primary Care,A1C,Neuro,Normal,Urgent Visit,13,0,Review
+Peds Cardiology,Urinalysis,Endocrine,Normal,Phone Outreach,4,0,Review
+Peds Primary Care,Urinalysis,Neuro,Normal,Phone Outreach,9,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,None,7,0,Review
+Peds Primary Care,Chest X-ray,GI,Normal,Phone Outreach,10,0,Review
+Peds Pulmonology,CBC,Neuro,Normal,Referral,2,0,Review
+Peds Primary Care,Urinalysis,Infectious,Normal,Referral,8,1,Review
+Peds Pulmonology,A1C,Respiratory,Normal,None,8,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Missing,None,14,0,Incomplete
+Peds Neuro,A1C,Infectious,Normal,None,10,0,Review
+Peds GI,Chest X-ray,Neuro,Normal,Urgent Visit,7,0,Review
+Peds Neuro,Urinalysis,Respiratory,Normal,None,12,0,Review
+Peds Primary Care,Throat Culture,Endocrine,Normal,None,6,0,Review
+Peds Pulmonology,Lipid Panel,Neuro,Normal,Rx Started,9,0,Review
+Peds Cardiology,Urinalysis,GI,Normal,None,13,0,Review
+Peds Pulmonology,Urinalysis,GI,Normal,None,14,0,Review
+Peds Primary Care,Chest X-ray,Neuro,Normal,Rx Started,2,0,Review
+Peds Neuro,CBC,Well Child,Normal,Phone Outreach,8,0,Review
+Peds Pulmonology,CBC,Infectious,Abnormal,Referral,10,0,Actionable
+Peds Neuro,A1C,Endocrine,Normal,Urgent Visit,1,0,Review
+Peds Pulmonology,Lipid Panel,GI,Normal,None,11,0,Review
+Peds Cardiology,CRP,Neuro,Abnormal,Referral,13,0,Actionable
+Peds Primary Care,Lipid Panel,Infectious,Normal,None,6,0,Review
+Peds GI,Chest X-ray,GI,Normal,Rx Started,5,0,Review
+Peds GI,Chest X-ray,Respiratory,Normal,Referral,8,0,Review
+Peds Primary Care,CBC,Neuro,Normal,Routine Follow-up,15,0,Review
+Peds Primary Care,Lipid Panel,Neuro,Normal,None,7,0,Review
+Peds Pulmonology,CBC,Infectious,Normal,None,2,0,Review
+Peds Neuro,Throat Culture,GI,Normal,Phone Outreach,13,0,Review
+Peds Primary Care,Urinalysis,Respiratory,Normal,None,9,1,Non-actionable
+Peds Neuro,CRP,Respiratory,Normal,Rx Started,15,1,Review
+Peds GI,Lipid Panel,Endocrine,Abnormal,Rx Started,9,0,Actionable
+Peds GI,CRP,Cardiac,Normal,Routine Follow-up,8,1,Review
+Peds Primary Care,CRP,Infectious,Normal,None,2,1,Non-actionable
+Peds Pulmonology,CRP,Infectious,Normal,Routine Follow-up,16,1,Review
+Peds Primary Care,Lipid Panel,Cardiac,Abnormal,Routine Follow-up,9,0,Actionable
+Peds Cardiology,CRP,Cardiac,Normal,Urgent Visit,5,0,Review
+Peds Neuro,CRP,Well Child,Normal,Routine Follow-up,13,0,Review
+Peds Pulmonology,Lipid Panel,Infectious,Normal,Routine Follow-up,12,0,Review
+Peds Pulmonology,CRP,Infectious,Normal,None,11,0,Review
+Peds Pulmonology,CBC,Infectious,Normal,Urgent Visit,6,0,Review
+Peds Pulmonology,CRP,Endocrine,Abnormal,Phone Outreach,14,1,Actionable
+Peds Pulmonology,Throat Culture,Well Child,Normal,None,9,0,Review
+Peds Cardiology,A1C,Neuro,Normal,Referral,10,0,Review
+Peds Pulmonology,A1C,Neuro,Abnormal,None,16,1,Review
+Peds GI,Urinalysis,Endocrine,Abnormal,Urgent Visit,14,0,Actionable
+Peds GI,CBC,Well Child,Abnormal,Phone Outreach,8,0,Actionable
+Peds Neuro,Chest X-ray,Infectious,Normal,Routine Follow-up,15,0,Review
+Peds Primary Care,Lipid Panel,Respiratory,Missing,None,4,0,Incomplete
+Peds Neuro,Urinalysis,Neuro,Normal,Routine Follow-up,13,0,Review
+Peds GI,Lipid Panel,Neuro,Abnormal,Routine Follow-up,13,0,Actionable
+Peds Cardiology,Chest X-ray,Respiratory,Normal,None,4,0,Review
+Peds Primary Care,CRP,Infectious,Normal,Referral,6,0,Review
+Peds Cardiology,Lipid Panel,Endocrine,Normal,None,10,0,Review
+Peds Cardiology,CRP,Endocrine,Normal,Phone Outreach,17,0,Review
+Peds Primary Care,Chest X-ray,Cardiac,Abnormal,Rx Started,12,0,Actionable
+Peds GI,A1C,Respiratory,Abnormal,Routine Follow-up,6,0,Actionable
+Peds Pulmonology,CRP,Neuro,Normal,Referral,16,0,Review
+Peds Neuro,CBC,Neuro,Abnormal,Urgent Visit,8,0,Actionable
+Peds GI,Chest X-ray,Respiratory,Abnormal,Referral,1,0,Actionable
+Peds Cardiology,Urinalysis,Infectious,Abnormal,None,12,1,Review
+Peds GI,Chest X-ray,Well Child,Normal,Phone Outreach,7,1,Review
+Peds GI,CBC,Cardiac,Abnormal,None,6,0,Review
+Peds Neuro,CRP,Neuro,Normal,None,11,0,Review
+Peds GI,Urinalysis,Infectious,Normal,Referral,17,0,Review
+Peds Cardiology,Chest X-ray,Neuro,Abnormal,None,5,0,Review
+Peds Pulmonology,A1C,Endocrine,Abnormal,Phone Outreach,15,1,Actionable
+Peds Neuro,Chest X-ray,Neuro,Normal,Phone Outreach,16,1,Review
+Peds Primary Care,CRP,Infectious,Normal,Routine Follow-up,12,1,Review
+Peds Primary Care,Urinalysis,Respiratory,Normal,Rx Started,9,1,Review
+Peds GI,Chest X-ray,GI,Abnormal,Routine Follow-up,3,0,Actionable
+Peds GI,CBC,GI,Abnormal,Phone Outreach,16,0,Actionable
+Peds GI,Throat Culture,Respiratory,Missing,Routine Follow-up,8,1,Incomplete
+Peds Neuro,Throat Culture,Endocrine,Abnormal,Phone Outreach,8,0,Actionable
+Peds GI,CBC,Endocrine,Missing,Routine Follow-up,15,0,Incomplete
+Peds GI,Throat Culture,GI,Abnormal,Phone Outreach,10,0,Actionable
+Peds Primary Care,Throat Culture,Well Child,Normal,None,1,1,Non-actionable
+Peds Primary Care,CRP,Cardiac,Normal,None,12,0,Review
+Peds Neuro,CRP,Respiratory,Normal,None,10,1,Non-actionable
+Peds Neuro,CBC,GI,Abnormal,Rx Started,1,0,Actionable
+Peds Pulmonology,CBC,Respiratory,Missing,Urgent Visit,3,0,Incomplete
+Peds GI,Chest X-ray,GI,Normal,None,8,0,Review
+Peds Pulmonology,CBC,GI,Normal,Routine Follow-up,12,0,Review
+Peds Primary Care,CBC,GI,Normal,None,15,0,Review
+Peds Pulmonology,CRP,Cardiac,Normal,Routine Follow-up,14,1,Review
+Peds Neuro,Lipid Panel,Neuro,Normal,None,4,0,Review
+Peds Primary Care,Chest X-ray,Respiratory,Abnormal,None,13,0,Review
+Peds Primary Care,Urinalysis,Respiratory,Normal,Phone Outreach,17,1,Review
+Peds Cardiology,CBC,GI,Normal,Routine Follow-up,14,0,Review
+Peds Primary Care,CRP,Respiratory,Abnormal,Routine Follow-up,3,0,Actionable
+Peds Pulmonology,CBC,Respiratory,Abnormal,Referral,4,0,Actionable
+Peds Cardiology,Chest X-ray,Endocrine,Normal,Routine Follow-up,14,0,Review
+Peds Primary Care,Chest X-ray,Infectious,Abnormal,Referral,4,1,Actionable
+Peds Pulmonology,Chest X-ray,GI,Normal,None,4,0,Review
+Peds GI,CBC,Well Child,Normal,Rx Started,16,1,Review
+Peds Neuro,CBC,Endocrine,Normal,None,1,1,Non-actionable
+Peds GI,A1C,Well Child,Abnormal,None,5,0,Review
+Peds Cardiology,Chest X-ray,Infectious,Normal,Rx Started,12,0,Review
+Peds Pulmonology,A1C,Well Child,Normal,Phone Outreach,1,0,Review
+Peds Primary Care,Lipid Panel,Infectious,Normal,Routine Follow-up,10,0,Review
+Peds Cardiology,A1C,Infectious,Abnormal,Routine Follow-up,15,0,Actionable
+Peds Neuro,Chest X-ray,Neuro,Normal,None,17,1,Non-actionable
+Peds Pulmonology,Urinalysis,GI,Normal,Routine Follow-up,5,1,Review
+Peds Pulmonology,Chest X-ray,Endocrine,Normal,Phone Outreach,11,0,Review
+Peds Neuro,Urinalysis,Well Child,Normal,None,5,0,Review
+Peds Neuro,Chest X-ray,Infectious,Normal,None,6,0,Review
+Peds GI,Chest X-ray,Endocrine,Abnormal,None,17,0,Review
+Peds Primary Care,CRP,Cardiac,Normal,None,17,0,Review
+Peds Primary Care,CBC,Well Child,Abnormal,Routine Follow-up,16,1,Actionable
+Peds Cardiology,Throat Culture,Neuro,Normal,Phone Outreach,12,0,Review
+Peds Primary Care,CRP,Endocrine,Abnormal,Routine Follow-up,1,0,Actionable
+Peds Pulmonology,CBC,Cardiac,Abnormal,Rx Started,14,1,Actionable
+Peds Primary Care,CRP,Cardiac,Normal,Referral,10,1,Review
+Peds Primary Care,Chest X-ray,Neuro,Abnormal,Rx Started,3,0,Actionable
+Peds Primary Care,Lipid Panel,Respiratory,Abnormal,Routine Follow-up,15,1,Actionable
+Peds Cardiology,CBC,Respiratory,Normal,Routine Follow-up,6,0,Review
+Peds Pulmonology,Chest X-ray,Well Child,Abnormal,None,9,0,Review
+Peds Neuro,CBC,Endocrine,Abnormal,Routine Follow-up,8,0,Actionable
+Peds Neuro,CBC,GI,Abnormal,Urgent Visit,17,1,Actionable
+Peds Pulmonology,Throat Culture,Respiratory,Normal,Phone Outreach,15,0,Review
+Peds GI,Lipid Panel,Respiratory,Normal,Urgent Visit,15,0,Review
+Peds Primary Care,CRP,Neuro,Normal,Phone Outreach,5,0,Review
+Peds GI,Throat Culture,Infectious,Normal,Routine Follow-up,15,1,Review
+Peds Primary Care,Chest X-ray,Respiratory,Normal,Routine Follow-up,4,0,Review
+Peds GI,Urinalysis,Cardiac,Normal,None,12,0,Review
+Peds Pulmonology,Throat Culture,GI,Normal,Phone Outreach,15,1,Review
+Peds Cardiology,Urinalysis,Infectious,Abnormal,Rx Started,14,0,Actionable
+Peds Cardiology,CBC,Infectious,Normal,None,17,0,Review
+Peds Neuro,Lipid Panel,Respiratory,Normal,Referral,8,0,Review
+Peds GI,A1C,Well Child,Normal,Referral,17,0,Review
+Peds Neuro,CRP,Well Child,Normal,None,4,1,Non-actionable
+Peds Primary Care,Throat Culture,Cardiac,Normal,None,11,1,Non-actionable
+Peds Neuro,Throat Culture,Infectious,Normal,None,2,0,Review
+Peds GI,CBC,Respiratory,Normal,None,3,0,Review
+Peds GI,Urinalysis,Cardiac,Normal,None,9,0,Review
+Peds GI,CRP,Cardiac,Missing,None,2,1,Incomplete
+Peds Primary Care,A1C,Respiratory,Normal,Phone Outreach,1,0,Review
+Peds Neuro,Throat Culture,Neuro,Abnormal,None,10,0,Review
+Peds Neuro,CBC,GI,Normal,Routine Follow-up,11,0,Review
+Peds Neuro,Throat Culture,GI,Normal,Rx Started,10,0,Review
+Peds Neuro,CBC,Respiratory,Abnormal,None,6,0,Review
+Peds Neuro,CBC,Endocrine,Abnormal,None,15,0,Review
+Peds Pulmonology,Lipid Panel,Respiratory,Abnormal,Routine Follow-up,12,0,Actionable
+Peds Pulmonology,Throat Culture,Infectious,Normal,Routine Follow-up,6,0,Review
+Peds Neuro,CRP,Respiratory,Normal,None,3,0,Review
+Peds GI,Urinalysis,Well Child,Normal,Routine Follow-up,3,0,Review
+Peds Cardiology,Throat Culture,Neuro,Normal,Referral,12,1,Review
+Peds Cardiology,CBC,Infectious,Missing,Referral,14,0,Incomplete
+Peds Pulmonology,CRP,Cardiac,Normal,None,3,1,Non-actionable
+Peds Primary Care,Urinalysis,Neuro,Normal,Routine Follow-up,6,0,Review
+Peds Primary Care,Urinalysis,Respiratory,Normal,Phone Outreach,1,0,Review
+Peds Pulmonology,Throat Culture,GI,Normal,None,3,0,Review
+Peds GI,Urinalysis,Well Child,Normal,Referral,13,0,Review
+Peds Primary Care,Chest X-ray,Well Child,Normal,Rx Started,3,0,Review
+Peds GI,Chest X-ray,Endocrine,Normal,Routine Follow-up,9,0,Review
+Peds Neuro,CRP,Respiratory,Normal,Routine Follow-up,10,0,Review
+Peds Pulmonology,A1C,Neuro,Normal,Phone Outreach,13,0,Review
+Peds Cardiology,Urinalysis,Endocrine,Normal,None,9,1,Non-actionable
+Peds Pulmonology,Chest X-ray,Neuro,Normal,None,7,0,Review
+Peds Neuro,Throat Culture,Cardiac,Normal,Routine Follow-up,11,0,Review
+Peds Primary Care,CBC,Cardiac,Normal,Routine Follow-up,1,0,Review
+Peds Neuro,CRP,GI,Normal,None,13,1,Non-actionable
+Peds Neuro,CBC,Well Child,Abnormal,None,10,0,Review
+Peds GI,A1C,Well Child,Abnormal,None,5,0,Review
+Peds GI,Throat Culture,Respiratory,Normal,Routine Follow-up,12,1,Review
+Peds Cardiology,Throat Culture,GI,Normal,Phone Outreach,12,0,Review
+Peds Primary Care,A1C,Neuro,Missing,Phone Outreach,11,0,Incomplete
+Peds Cardiology,CBC,Well Child,Missing,Routine Follow-up,12,0,Incomplete
+Peds Cardiology,Chest X-ray,GI,Normal,None,4,0,Review
+Peds GI,Lipid Panel,Neuro,Normal,Phone Outreach,16,1,Review
+Peds Cardiology,Throat Culture,Endocrine,Normal,Routine Follow-up,5,0,Review
+Peds Cardiology,Lipid Panel,Cardiac,Normal,Routine Follow-up,5,0,Review
+Peds GI,CBC,Well Child,Normal,Rx Started,2,1,Review
+Peds Neuro,Urinalysis,Well Child,Normal,Phone Outreach,5,0,Review
+Peds Neuro,Urinalysis,Endocrine,Normal,Referral,9,0,Review
+Peds GI,Throat Culture,GI,Normal,Rx Started,7,0,Review
+Peds Pulmonology,Throat Culture,Well Child,Normal,Routine Follow-up,2,0,Review
+Peds Neuro,Lipid Panel,Infectious,Normal,Phone Outreach,3,0,Review
+Peds Primary Care,A1C,GI,Abnormal,None,15,1,Review
+Peds GI,CBC,Endocrine,Normal,None,7,0,Review
+Peds Pulmonology,A1C,Respiratory,Missing,Rx Started,17,0,Incomplete
+Peds Cardiology,CBC,Well Child,Normal,Routine Follow-up,6,0,Review
+Peds Cardiology,A1C,Cardiac,Missing,None,4,0,Incomplete
+Peds GI,A1C,Well Child,Normal,Rx Started,2,0,Review
+Peds Cardiology,CRP,Endocrine,Abnormal,Routine Follow-up,4,1,Actionable
+Peds GI,A1C,Neuro,Normal,Referral,8,0,Review
+Peds Primary Care,Chest X-ray,Infectious,Missing,Routine Follow-up,14,0,Incomplete
+Peds Cardiology,Lipid Panel,Neuro,Abnormal,Routine Follow-up,13,0,Actionable
+Peds Primary Care,Lipid Panel,GI,Normal,Phone Outreach,15,0,Review
+Peds GI,Urinalysis,Endocrine,Abnormal,Routine Follow-up,3,1,Actionable
+Peds Cardiology,Lipid Panel,Infectious,Normal,Rx Started,6,0,Review
+Peds Neuro,CBC,Neuro,Normal,Rx Started,3,0,Review
+Peds GI,CBC,Cardiac,Normal,Urgent Visit,16,0,Review
+Peds Primary Care,CBC,Well Child,Abnormal,Phone Outreach,11,1,Actionable
+Peds Cardiology,Throat Culture,Respiratory,Normal,None,2,0,Review
+Peds Neuro,Urinalysis,Well Child,Normal,Rx Started,4,1,Review
+Peds Pulmonology,Chest X-ray,Well Child,Normal,None,8,0,Review
+Peds GI,Throat Culture,GI,Normal,None,13,1,Non-actionable
+Peds GI,Lipid Panel,Well Child,Normal,Rx Started,5,0,Review
+Peds GI,A1C,Well Child,Normal,Referral,1,1,Review
+Peds Cardiology,Chest X-ray,Infectious,Normal,Urgent Visit,5,0,Review
+Peds GI,Throat Culture,Endocrine,Normal,None,9,0,Review
+Peds Neuro,Throat Culture,Neuro,Normal,Phone Outreach,6,0,Review
+Peds Neuro,Throat Culture,Well Child,Normal,Routine Follow-up,9,0,Review
+Peds GI,Throat Culture,Infectious,Normal,Routine Follow-up,10,0,Review
+Peds GI,Urinalysis,GI,Normal,None,1,0,Review
+Peds Pulmonology,Lipid Panel,Cardiac,Normal,Routine Follow-up,4,0,Review
+Peds Cardiology,Throat Culture,Endocrine,Normal,None,2,0,Review
+Peds Primary Care,CRP,Infectious,Normal,Routine Follow-up,2,0,Review
+Peds GI,Urinalysis,Well Child,Normal,Referral,14,0,Review
+Peds Primary Care,CBC,Neuro,Normal,Rx Started,15,0,Review
+Peds Primary Care,Throat Culture,Respiratory,Normal,Routine Follow-up,6,0,Review
+Peds GI,CRP,Respiratory,Normal,None,2,0,Review
+Peds Primary Care,Urinalysis,Neuro,Abnormal,Routine Follow-up,14,0,Actionable
+Peds Neuro,CRP,Respiratory,Abnormal,Routine Follow-up,2,0,Actionable
+Peds Pulmonology,CBC,GI,Normal,Rx Started,10,0,Review
+Peds Cardiology,A1C,Infectious,Normal,Rx Started,11,0,Review
+Peds Pulmonology,Chest X-ray,Infectious,Normal,Routine Follow-up,14,0,Review
+Peds Neuro,Throat Culture,Respiratory,Normal,None,1,0,Review
+Peds Pulmonology,A1C,Cardiac,Abnormal,None,5,1,Review
+Peds Primary Care,Chest X-ray,GI,Normal,Routine Follow-up,8,0,Review
+Peds Primary Care,Urinalysis,Cardiac,Abnormal,Routine Follow-up,3,0,Actionable
+Peds Primary Care,Urinalysis,GI,Missing,None,10,0,Incomplete
+Peds Pulmonology,Throat Culture,GI,Abnormal,Rx Started,2,1,Actionable
+Peds Pulmonology,Urinalysis,Infectious,Normal,Routine Follow-up,15,0,Review
+Peds Primary Care,A1C,Cardiac,Normal,None,13,0,Review
+Peds Neuro,Urinalysis,Endocrine,Normal,None,12,0,Review
+Peds GI,CRP,Well Child,Normal,None,6,1,Non-actionable
+Peds Cardiology,CBC,Infectious,Abnormal,None,6,0,Review
+Peds Neuro,Throat Culture,Respiratory,Abnormal,Rx Started,8,0,Actionable
+Peds Primary Care,A1C,Infectious,Normal,None,13,1,Non-actionable
+Peds Neuro,Urinalysis,Cardiac,Normal,None,10,1,Non-actionable
+Peds Neuro,A1C,GI,Normal,Routine Follow-up,14,0,Review
+Peds Pulmonology,Lipid Panel,Respiratory,Normal,Phone Outreach,8,0,Review
+Peds GI,CRP,Respiratory,Normal,None,13,1,Non-actionable
+Peds GI,Throat Culture,Infectious,Normal,Phone Outreach,5,0,Review
+Peds Cardiology,Throat Culture,Well Child,Normal,None,9,0,Review
+Peds Pulmonology,A1C,Cardiac,Abnormal,None,13,0,Review
+Peds GI,CRP,Infectious,Normal,Referral,2,0,Review
+Peds GI,Chest X-ray,GI,Normal,Phone Outreach,4,0,Review
+Peds Cardiology,Throat Culture,Endocrine,Normal,None,6,0,Review
+Peds Cardiology,Throat Culture,Well Child,Normal,Routine Follow-up,11,0,Review
+Peds Neuro,Throat Culture,Neuro,Normal,Routine Follow-up,7,0,Review
+Peds GI,CRP,Infectious,Abnormal,Referral,7,0,Actionable
+Peds Pulmonology,Urinalysis,Respiratory,Normal,Routine Follow-up,4,0,Review
+Peds Neuro,Lipid Panel,GI,Normal,Phone Outreach,3,0,Review
+Peds Primary Care,CRP,Neuro,Normal,Rx Started,6,0,Review
+Peds Neuro,A1C,GI,Abnormal,None,12,0,Review
+Peds GI,CBC,Endocrine,Normal,Phone Outreach,7,0,Review
+Peds Cardiology,Urinalysis,Endocrine,Normal,Phone Outreach,6,0,Review
+Peds Pulmonology,Urinalysis,Endocrine,Normal,Rx Started,7,0,Review
+Peds Cardiology,A1C,GI,Normal,None,10,0,Review
+Peds Primary Care,Urinalysis,Infectious,Normal,Phone Outreach,10,0,Review
+Peds Primary Care,CRP,Infectious,Normal,Rx Started,5,0,Review
+Peds Primary Care,CBC,Neuro,Normal,Routine Follow-up,1,0,Review
+Peds Pulmonology,Lipid Panel,Respiratory,Missing,None,6,0,Incomplete
+Peds GI,Urinalysis,Respiratory,Normal,None,13,0,Review
+Peds GI,Lipid Panel,Neuro,Missing,None,1,0,Incomplete
+Peds GI,Throat Culture,Respiratory,Missing,None,1,0,Incomplete
+Peds Primary Care,A1C,GI,Normal,None,10,0,Review
+Peds Cardiology,CBC,Infectious,Abnormal,Phone Outreach,14,0,Actionable
+Peds Cardiology,A1C,Infectious,Normal,None,2,0,Review
+Peds Neuro,Lipid Panel,Well Child,Normal,Routine Follow-up,14,1,Review
+Peds Cardiology,Chest X-ray,Respiratory,Normal,Phone Outreach,7,1,Review
+Peds Primary Care,A1C,Well Child,Abnormal,Phone Outreach,12,0,Actionable
+Peds Neuro,CRP,Infectious,Abnormal,Phone Outreach,9,1,Actionable
+Peds Neuro,Lipid Panel,Infectious,Abnormal,Rx Started,16,0,Actionable
+Peds Neuro,Lipid Panel,Cardiac,Normal,Routine Follow-up,1,1,Review
+Peds Cardiology,Chest X-ray,Cardiac,Normal,Routine Follow-up,2,1,Review
+Peds GI,Chest X-ray,Infectious,Normal,Routine Follow-up,11,1,Review
+Peds Pulmonology,CBC,Well Child,Abnormal,None,10,0,Review
+Peds GI,Throat Culture,Endocrine,Abnormal,Referral,16,0,Actionable
+Peds Cardiology,Lipid Panel,Endocrine,Normal,None,3,0,Review
+Peds GI,CBC,Neuro,Normal,Rx Started,12,1,Review
+Peds Cardiology,Chest X-ray,Neuro,Abnormal,Routine Follow-up,4,1,Actionable
+Peds Primary Care,A1C,Well Child,Missing,None,7,0,Incomplete
+Peds Neuro,A1C,Cardiac,Abnormal,None,8,0,Review
+Peds Pulmonology,Throat Culture,Cardiac,Normal,Phone Outreach,13,0,Review
+Peds GI,CBC,Cardiac,Normal,None,4,0,Review
+Peds GI,A1C,Infectious,Normal,Phone Outreach,10,0,Review
+Peds GI,Chest X-ray,Respiratory,Normal,Phone Outreach,8,0,Review
+Peds Neuro,CBC,Endocrine,Normal,None,7,0,Review
+Peds Pulmonology,Lipid Panel,Respiratory,Normal,Urgent Visit,15,0,Review
+Peds GI,Chest X-ray,GI,Normal,Referral,15,0,Review
+Peds Primary Care,CBC,Respiratory,Abnormal,Phone Outreach,1,0,Actionable
+Peds Pulmonology,Chest X-ray,GI,Abnormal,None,17,0,Review
+Peds Primary Care,Urinalysis,Neuro,Normal,Referral,4,0,Review
+Peds GI,Chest X-ray,Cardiac,Abnormal,Rx Started,2,0,Actionable
+Peds Primary Care,Chest X-ray,Neuro,Normal,None,8,0,Review
+Peds GI,CRP,Infectious,Normal,None,13,0,Review
+Peds Neuro,Urinalysis,Well Child,Normal,None,16,0,Review
+Peds Pulmonology,CBC,Endocrine,Abnormal,Routine Follow-up,2,0,Actionable
+Peds Neuro,CBC,Well Child,Missing,Phone Outreach,6,1,Incomplete
+Peds Cardiology,Lipid Panel,Cardiac,Normal,Phone Outreach,13,0,Review
+Peds Neuro,A1C,Respiratory,Normal,Routine Follow-up,8,0,Review
+Peds Cardiology,Throat Culture,Endocrine,Normal,Routine Follow-up,2,1,Review
+Peds Cardiology,Urinalysis,Respiratory,Abnormal,Referral,3,0,Actionable
+Peds Primary Care,CBC,Endocrine,Normal,None,16,0,Review
+Peds Neuro,Throat Culture,Endocrine,Normal,Phone Outreach,2,0,Review
+Peds Pulmonology,Urinalysis,Neuro,Abnormal,None,13,0,Review
+Peds Cardiology,Lipid Panel,Respiratory,Normal,Referral,12,0,Review
+Peds Pulmonology,Urinalysis,Well Child,Normal,Routine Follow-up,2,0,Review
+Peds Primary Care,CRP,Infectious,Normal,Referral,11,0,Review
+Peds GI,Throat Culture,Neuro,Normal,Routine Follow-up,9,0,Review
+Peds Cardiology,Chest X-ray,Cardiac,Normal,None,12,0,Review
+Peds GI,CRP,Well Child,Normal,Rx Started,15,0,Review
+Peds Primary Care,Urinalysis,Infectious,Abnormal,Phone Outreach,3,0,Actionable
+Peds Neuro,Throat Culture,Neuro,Normal,None,5,0,Review
+Peds Pulmonology,Lipid Panel,Well Child,Normal,Referral,3,0,Review
+Peds Cardiology,A1C,Respiratory,Abnormal,None,16,1,Review
+Peds Cardiology,Urinalysis,Neuro,Abnormal,Routine Follow-up,15,1,Actionable
+Peds Neuro,CBC,Neuro,Normal,Referral,10,0,Review
+Peds GI,CBC,Cardiac,Normal,Phone Outreach,6,0,Review
+Peds GI,Throat Culture,Endocrine,Normal,Referral,17,0,Review
+Peds Pulmonology,A1C,Cardiac,Normal,Referral,13,0,Review
+Peds Pulmonology,Throat Culture,GI,Normal,Routine Follow-up,2,0,Review
+Peds GI,Throat Culture,Neuro,Missing,Referral,3,0,Incomplete
+Peds Primary Care,CRP,GI,Normal,Routine Follow-up,17,0,Review
+Peds Cardiology,A1C,Respiratory,Normal,None,9,0,Review
+Peds Cardiology,Chest X-ray,Well Child,Normal,Urgent Visit,14,1,Review
+Peds Neuro,Throat Culture,Endocrine,Abnormal,Phone Outreach,15,0,Actionable
+Peds Neuro,CRP,GI,Normal,Routine Follow-up,1,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,Phone Outreach,9,0,Review
+Peds Cardiology,A1C,Cardiac,Missing,None,5,0,Incomplete
+Peds Neuro,Lipid Panel,Infectious,Abnormal,Phone Outreach,2,0,Actionable
+Peds Neuro,A1C,GI,Normal,None,10,0,Review
+Peds Primary Care,A1C,Cardiac,Normal,None,10,0,Review
+Peds Cardiology,A1C,Endocrine,Abnormal,Phone Outreach,8,1,Actionable
+Peds Primary Care,Lipid Panel,Cardiac,Abnormal,Referral,3,1,Actionable
+Peds Cardiology,CBC,Cardiac,Normal,Routine Follow-up,10,0,Review
+Peds Cardiology,Chest X-ray,Respiratory,Normal,Phone Outreach,8,1,Review
+Peds Neuro,CRP,GI,Normal,Routine Follow-up,9,0,Review
+Peds Neuro,Lipid Panel,Neuro,Normal,Referral,16,0,Review
+Peds Pulmonology,Throat Culture,Neuro,Normal,Rx Started,4,0,Review
+Peds Primary Care,CRP,Infectious,Normal,Routine Follow-up,10,1,Review
+Peds GI,Lipid Panel,Endocrine,Abnormal,Routine Follow-up,17,1,Actionable
+Peds GI,CBC,Cardiac,Abnormal,None,15,1,Review
+Peds Pulmonology,CBC,Neuro,Missing,Rx Started,1,0,Incomplete
+Peds Primary Care,Throat Culture,Neuro,Missing,Routine Follow-up,7,0,Incomplete
+Peds Cardiology,Urinalysis,Respiratory,Abnormal,Referral,1,0,Actionable
+Peds Neuro,CRP,GI,Normal,Routine Follow-up,6,1,Review
+Peds Primary Care,A1C,Infectious,Abnormal,None,12,0,Review
+Peds Neuro,Chest X-ray,Well Child,Abnormal,Routine Follow-up,5,0,Actionable
+Peds Cardiology,CBC,Endocrine,Normal,None,9,0,Review
+Peds Neuro,Chest X-ray,Infectious,Abnormal,Routine Follow-up,6,0,Actionable
+Peds GI,CBC,GI,Normal,None,12,0,Review
+Peds Primary Care,Chest X-ray,Endocrine,Missing,Routine Follow-up,1,1,Incomplete
+Peds Neuro,Throat Culture,GI,Normal,Routine Follow-up,5,0,Review
+Peds Pulmonology,Urinalysis,Infectious,Abnormal,Rx Started,14,0,Actionable
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Referral,6,0,Review
+Peds GI,Urinalysis,Endocrine,Missing,Urgent Visit,4,0,Incomplete
+Peds GI,A1C,Well Child,Normal,Rx Started,14,0,Review
+Peds GI,CBC,Well Child,Abnormal,Phone Outreach,16,0,Actionable
+Peds Primary Care,Urinalysis,Respiratory,Normal,None,2,1,Non-actionable
+Peds Neuro,CRP,Well Child,Normal,None,15,0,Review
+Peds Neuro,Urinalysis,Well Child,Normal,None,4,0,Review
+Peds Pulmonology,Lipid Panel,Well Child,Normal,None,9,0,Review
+Peds Cardiology,CRP,Well Child,Normal,Phone Outreach,8,0,Review
+Peds Pulmonology,Urinalysis,Endocrine,Normal,None,12,0,Review
+Peds Primary Care,CRP,Well Child,Abnormal,None,4,1,Review
+Peds Pulmonology,A1C,Well Child,Normal,Routine Follow-up,11,1,Review
+Peds Neuro,Throat Culture,Neuro,Normal,Referral,17,0,Review
+Peds Neuro,Chest X-ray,Respiratory,Missing,Routine Follow-up,7,0,Incomplete
+Peds Primary Care,CRP,Cardiac,Abnormal,Rx Started,14,1,Actionable
+Peds Neuro,A1C,Endocrine,Normal,None,5,1,Non-actionable
+Peds Cardiology,Urinalysis,Infectious,Normal,Routine Follow-up,13,0,Review
+Peds GI,Lipid Panel,Cardiac,Normal,Urgent Visit,12,1,Review
+Peds Pulmonology,CRP,Well Child,Missing,Rx Started,2,0,Incomplete
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Routine Follow-up,16,1,Review
+Peds Pulmonology,CRP,Infectious,Normal,Phone Outreach,3,1,Review
+Peds GI,Urinalysis,Respiratory,Normal,None,9,0,Review
+Peds Primary Care,Urinalysis,Infectious,Normal,Referral,3,0,Review
+Peds Neuro,Chest X-ray,Infectious,Abnormal,Rx Started,8,0,Actionable
+Peds GI,CRP,Well Child,Normal,None,15,0,Review
+Peds Neuro,Urinalysis,Infectious,Normal,Rx Started,9,0,Review
+Peds Neuro,Throat Culture,Respiratory,Normal,Phone Outreach,10,0,Review
+Peds Pulmonology,Urinalysis,Neuro,Normal,Routine Follow-up,9,0,Review
+Peds Cardiology,Urinalysis,Respiratory,Normal,None,2,1,Non-actionable
+Peds GI,Lipid Panel,Infectious,Normal,Phone Outreach,2,0,Review
+Peds Neuro,Throat Culture,Endocrine,Normal,Rx Started,3,1,Review
+Peds Neuro,CBC,Well Child,Normal,Routine Follow-up,5,0,Review
+Peds Primary Care,Throat Culture,Well Child,Abnormal,Referral,10,0,Actionable
+Peds Neuro,Throat Culture,Respiratory,Normal,None,9,0,Review
+Peds Cardiology,CRP,Endocrine,Abnormal,None,10,0,Review
+Peds GI,CBC,Well Child,Abnormal,Rx Started,4,0,Actionable
+Peds Neuro,Urinalysis,Cardiac,Normal,Routine Follow-up,16,0,Review
+Peds Primary Care,Chest X-ray,Infectious,Normal,Referral,16,1,Review
+Peds Primary Care,CBC,Endocrine,Abnormal,Referral,14,1,Actionable
+Peds Pulmonology,Throat Culture,Cardiac,Normal,Referral,13,0,Review
+Peds GI,A1C,GI,Normal,None,17,0,Review
+Peds Neuro,Chest X-ray,Infectious,Normal,Urgent Visit,12,0,Review
+Peds Neuro,Throat Culture,Endocrine,Normal,Routine Follow-up,15,0,Review
+Peds GI,CRP,Well Child,Abnormal,None,13,0,Review
+Peds Cardiology,Chest X-ray,Well Child,Normal,Phone Outreach,12,0,Review
+Peds GI,Urinalysis,Respiratory,Normal,Rx Started,15,0,Review
+Peds Pulmonology,Chest X-ray,GI,Normal,None,8,0,Review
+Peds Pulmonology,A1C,Endocrine,Normal,Referral,14,0,Review
+Peds Pulmonology,A1C,Neuro,Normal,Referral,11,0,Review
+Peds Pulmonology,Urinalysis,Neuro,Normal,Referral,1,1,Review
+Peds Neuro,CBC,Infectious,Normal,Phone Outreach,17,0,Review
+Peds Pulmonology,A1C,Infectious,Normal,Routine Follow-up,8,0,Review
+Peds Primary Care,Chest X-ray,Endocrine,Normal,Routine Follow-up,7,0,Review
+Peds GI,CBC,Respiratory,Abnormal,Urgent Visit,1,0,Actionable
+Peds Neuro,Throat Culture,Well Child,Missing,None,15,0,Incomplete
+Peds Pulmonology,Urinalysis,Cardiac,Normal,None,8,0,Review
+Peds Neuro,A1C,Infectious,Abnormal,Phone Outreach,12,0,Actionable
+Peds Primary Care,Urinalysis,Cardiac,Normal,None,6,1,Non-actionable
+Peds Neuro,Throat Culture,Respiratory,Abnormal,None,13,0,Review
+Peds GI,Throat Culture,Respiratory,Normal,Phone Outreach,3,1,Review
+Peds GI,Urinalysis,Respiratory,Normal,Phone Outreach,16,1,Review
+Peds Primary Care,Chest X-ray,Well Child,Abnormal,Phone Outreach,12,1,Actionable
+Peds Cardiology,CRP,Respiratory,Missing,None,16,0,Incomplete
+Peds Pulmonology,Lipid Panel,Well Child,Missing,None,13,0,Incomplete
+Peds Cardiology,Throat Culture,GI,Abnormal,None,12,0,Review
+Peds Primary Care,Chest X-ray,Endocrine,Normal,Referral,12,1,Review
+Peds Primary Care,Chest X-ray,Well Child,Normal,None,3,0,Review
+Peds Neuro,Throat Culture,Endocrine,Normal,Rx Started,2,1,Review
+Peds Neuro,CBC,Infectious,Abnormal,Routine Follow-up,15,1,Actionable
+Peds Cardiology,CRP,Infectious,Normal,Routine Follow-up,11,0,Review
+Peds Neuro,A1C,GI,Abnormal,Routine Follow-up,2,1,Actionable
+Peds GI,Chest X-ray,Endocrine,Normal,Referral,2,1,Review
+Peds Cardiology,Chest X-ray,Well Child,Abnormal,Routine Follow-up,14,0,Actionable
+Peds Neuro,Chest X-ray,Cardiac,Normal,Routine Follow-up,11,1,Review
+Peds GI,Chest X-ray,Endocrine,Normal,None,15,1,Non-actionable
+Peds Pulmonology,CBC,Neuro,Normal,None,1,0,Review
+Peds Cardiology,CRP,Endocrine,Normal,Routine Follow-up,13,1,Review
+Peds GI,Chest X-ray,Respiratory,Normal,None,3,0,Review
+Peds Cardiology,Throat Culture,Neuro,Normal,Referral,6,0,Review
+Peds Cardiology,CBC,GI,Normal,Phone Outreach,15,0,Review
+Peds GI,A1C,GI,Normal,None,15,0,Review
+Peds Primary Care,CBC,Well Child,Normal,Phone Outreach,14,1,Review
+Peds Pulmonology,Urinalysis,Infectious,Normal,Phone Outreach,17,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,Referral,14,0,Review
+Peds GI,Throat Culture,Neuro,Abnormal,Phone Outreach,11,1,Actionable
+Peds Neuro,CRP,Cardiac,Normal,None,9,0,Review
+Peds Cardiology,Chest X-ray,Cardiac,Normal,Rx Started,11,0,Review
+Peds Cardiology,A1C,Endocrine,Normal,Urgent Visit,6,0,Review
+Peds GI,Chest X-ray,Well Child,Normal,Routine Follow-up,14,0,Review
+Peds GI,Urinalysis,Cardiac,Abnormal,Phone Outreach,10,1,Actionable
+Peds GI,Throat Culture,Cardiac,Abnormal,Rx Started,13,0,Actionable
+Peds GI,A1C,Well Child,Normal,None,11,0,Review
+Peds Cardiology,Chest X-ray,Infectious,Normal,Rx Started,3,0,Review
+Peds Pulmonology,CRP,Well Child,Normal,Phone Outreach,13,0,Review
+Peds GI,Urinalysis,Neuro,Abnormal,Phone Outreach,3,0,Actionable
+Peds Primary Care,Lipid Panel,GI,Missing,Rx Started,16,0,Incomplete
+Peds GI,CBC,Well Child,Missing,Routine Follow-up,3,0,Incomplete
+Peds Cardiology,Chest X-ray,Cardiac,Abnormal,Rx Started,16,0,Actionable
+Peds GI,Lipid Panel,Cardiac,Normal,Rx Started,4,1,Review
+Peds Pulmonology,Chest X-ray,Respiratory,Normal,Routine Follow-up,4,1,Review
+Peds Cardiology,CBC,Well Child,Normal,Routine Follow-up,12,0,Review
+Peds Neuro,Throat Culture,Neuro,Abnormal,Routine Follow-up,6,1,Actionable
+Peds Cardiology,CBC,Infectious,Normal,None,3,0,Review
+Peds Primary Care,Chest X-ray,Infectious,Normal,None,6,1,Non-actionable
+Peds Neuro,Throat Culture,GI,Abnormal,Urgent Visit,17,1,Actionable
+Peds Primary Care,Urinalysis,GI,Missing,None,4,0,Incomplete
+Peds Neuro,CBC,GI,Abnormal,Rx Started,10,0,Actionable
+Peds Primary Care,Chest X-ray,Cardiac,Missing,Routine Follow-up,17,0,Incomplete
+Peds Pulmonology,CBC,GI,Normal,Referral,4,1,Review
+Peds Neuro,CRP,GI,Abnormal,Rx Started,16,1,Actionable
+Peds Neuro,CRP,Cardiac,Normal,Routine Follow-up,8,1,Review
+Peds Neuro,Urinalysis,Infectious,Missing,Routine Follow-up,15,1,Incomplete
+Peds Primary Care,CRP,Respiratory,Missing,Phone Outreach,2,1,Incomplete
+Peds Neuro,Throat Culture,Endocrine,Normal,Referral,9,0,Review
+Peds Neuro,Throat Culture,Well Child,Abnormal,Routine Follow-up,8,0,Actionable
+Peds Primary Care,Chest X-ray,Infectious,Normal,None,8,0,Review
+Peds Pulmonology,Throat Culture,Endocrine,Abnormal,None,9,0,Review
+Peds Cardiology,Throat Culture,Neuro,Missing,Phone Outreach,3,0,Incomplete
+Peds Neuro,CBC,Respiratory,Missing,None,8,1,Incomplete
+Peds Primary Care,Urinalysis,Respiratory,Abnormal,Referral,7,0,Actionable
+Peds GI,CRP,Endocrine,Normal,Routine Follow-up,12,0,Review
+Peds Pulmonology,Throat Culture,Endocrine,Normal,None,16,0,Review
+Peds Neuro,CBC,Endocrine,Normal,Rx Started,12,0,Review
+Peds Neuro,A1C,Cardiac,Normal,Referral,6,0,Review
+Peds Neuro,CRP,Neuro,Abnormal,None,17,1,Review
+Peds GI,Lipid Panel,Well Child,Normal,Routine Follow-up,9,0,Review
+Peds GI,A1C,GI,Normal,None,16,0,Review
+Peds Neuro,Urinalysis,GI,Normal,None,8,0,Review
+Peds Pulmonology,Urinalysis,Neuro,Normal,None,14,1,Non-actionable
+Peds Cardiology,Urinalysis,Respiratory,Normal,None,16,1,Non-actionable
+Peds GI,Chest X-ray,Endocrine,Normal,Routine Follow-up,11,0,Review
+Peds Neuro,Urinalysis,GI,Missing,Phone Outreach,17,0,Incomplete
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Routine Follow-up,8,0,Review
+Peds Neuro,CBC,Neuro,Normal,Referral,9,0,Review
+Peds Neuro,Throat Culture,Infectious,Normal,Referral,10,0,Review
+Peds Pulmonology,A1C,Respiratory,Normal,Routine Follow-up,3,0,Review
+Peds Cardiology,Throat Culture,Cardiac,Normal,Routine Follow-up,13,0,Review
+Peds GI,Throat Culture,Cardiac,Normal,Routine Follow-up,3,0,Review
+Peds Primary Care,Urinalysis,Endocrine,Abnormal,None,11,0,Review
+Peds Pulmonology,Lipid Panel,GI,Abnormal,Routine Follow-up,16,1,Actionable
+Peds Pulmonology,Chest X-ray,Neuro,Normal,Rx Started,15,1,Review
+Peds Pulmonology,Chest X-ray,Cardiac,Normal,Rx Started,17,0,Review
+Peds Pulmonology,A1C,Well Child,Normal,None,2,1,Non-actionable
+Peds Pulmonology,Lipid Panel,GI,Missing,Rx Started,11,0,Incomplete
+Peds Pulmonology,Urinalysis,Well Child,Normal,Referral,3,0,Review
+Peds Cardiology,Throat Culture,GI,Normal,Phone Outreach,7,1,Review
+Peds Cardiology,Throat Culture,Infectious,Missing,None,7,1,Incomplete
+Peds Primary Care,CBC,Endocrine,Normal,Routine Follow-up,15,0,Review
+Peds Pulmonology,Lipid Panel,Respiratory,Abnormal,Phone Outreach,4,0,Actionable
+Peds GI,CBC,Endocrine,Normal,Routine Follow-up,12,1,Review
+Peds Pulmonology,Chest X-ray,Neuro,Normal,Rx Started,12,0,Review
+Peds Primary Care,Chest X-ray,Cardiac,Abnormal,None,14,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,Urgent Visit,10,0,Review
+Peds Primary Care,Lipid Panel,Infectious,Normal,Routine Follow-up,13,0,Review
+Peds Primary Care,Chest X-ray,Well Child,Normal,Routine Follow-up,5,0,Review
+Peds GI,CRP,Infectious,Normal,Routine Follow-up,2,0,Review
+Peds Neuro,Chest X-ray,Cardiac,Normal,Routine Follow-up,17,0,Review
+Peds Cardiology,Chest X-ray,Infectious,Abnormal,Phone Outreach,5,1,Actionable
+Peds Primary Care,Chest X-ray,Respiratory,Missing,None,17,0,Incomplete
+Peds GI,A1C,Infectious,Normal,Routine Follow-up,1,1,Review
+Peds Cardiology,Chest X-ray,Respiratory,Abnormal,None,3,0,Review
+Peds Primary Care,Urinalysis,Infectious,Normal,None,6,0,Review
+Peds Pulmonology,Urinalysis,Cardiac,Normal,Routine Follow-up,14,0,Review
+Peds Primary Care,Chest X-ray,Well Child,Normal,Routine Follow-up,3,0,Review
+Peds Pulmonology,Urinalysis,Neuro,Normal,None,14,1,Non-actionable
+Peds Primary Care,Throat Culture,Neuro,Normal,Rx Started,3,0,Review
+Peds Cardiology,A1C,Respiratory,Normal,None,9,0,Review
+Peds Neuro,Throat Culture,Endocrine,Normal,Phone Outreach,13,0,Review
+Peds GI,A1C,Endocrine,Normal,Phone Outreach,17,1,Review
+Peds Pulmonology,CRP,Respiratory,Normal,Routine Follow-up,9,0,Review
+Peds Neuro,CBC,Endocrine,Missing,Rx Started,16,0,Incomplete
+Peds GI,CRP,Neuro,Normal,Routine Follow-up,11,0,Review
+Peds Pulmonology,A1C,Endocrine,Normal,Phone Outreach,15,0,Review
+Peds GI,CRP,Neuro,Normal,Rx Started,9,0,Review
+Peds Pulmonology,Lipid Panel,Infectious,Missing,Phone Outreach,14,0,Incomplete
+Peds GI,A1C,Infectious,Normal,Phone Outreach,14,0,Review
+Peds Primary Care,CBC,GI,Normal,Routine Follow-up,16,0,Review
+Peds GI,A1C,Well Child,Normal,Referral,1,0,Review
+Peds Cardiology,Urinalysis,Respiratory,Missing,None,12,0,Incomplete
+Peds Primary Care,Urinalysis,Infectious,Normal,None,13,1,Non-actionable
+Peds Pulmonology,A1C,Well Child,Abnormal,None,5,0,Review
+Peds Neuro,CRP,Respiratory,Normal,Rx Started,12,0,Review
+Peds GI,Lipid Panel,Respiratory,Normal,Phone Outreach,1,0,Review
+Peds Neuro,CRP,Respiratory,Normal,None,5,0,Review
+Peds Primary Care,A1C,Well Child,Normal,None,8,0,Review
+Peds GI,Chest X-ray,Cardiac,Normal,Phone Outreach,8,1,Review
+Peds Primary Care,A1C,Cardiac,Abnormal,None,3,0,Review
+Peds Cardiology,CRP,Endocrine,Normal,Phone Outreach,9,1,Review
+Peds GI,Chest X-ray,GI,Normal,Rx Started,13,0,Review
+Peds Neuro,CRP,Respiratory,Normal,Routine Follow-up,15,0,Review
+Peds Pulmonology,Throat Culture,Neuro,Normal,None,12,1,Non-actionable
+Peds Primary Care,CBC,Endocrine,Missing,Phone Outreach,6,0,Incomplete
+Peds Cardiology,Chest X-ray,Endocrine,Normal,Phone Outreach,7,1,Review
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Phone Outreach,11,1,Review
+Peds Neuro,CBC,Endocrine,Normal,Routine Follow-up,3,0,Review
+Peds Neuro,Urinalysis,Neuro,Abnormal,Routine Follow-up,10,1,Actionable
+Peds GI,Throat Culture,Endocrine,Normal,None,7,1,Non-actionable
+Peds Neuro,Throat Culture,Infectious,Missing,Phone Outreach,15,0,Incomplete
+Peds Primary Care,Chest X-ray,Respiratory,Normal,Rx Started,8,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Abnormal,Routine Follow-up,8,1,Actionable
+Peds GI,Urinalysis,Neuro,Normal,None,15,0,Review
+Peds Cardiology,CBC,Well Child,Normal,None,8,1,Non-actionable
+Peds Cardiology,Throat Culture,Infectious,Missing,Routine Follow-up,10,0,Incomplete
+Peds Neuro,Throat Culture,Well Child,Normal,None,7,1,Non-actionable
+Peds Pulmonology,Chest X-ray,GI,Normal,None,16,0,Review
+Peds Cardiology,Lipid Panel,Endocrine,Normal,Rx Started,2,0,Review
+Peds Pulmonology,CRP,Endocrine,Normal,Rx Started,15,1,Review
+Peds Cardiology,Urinalysis,Cardiac,Normal,Routine Follow-up,10,0,Review
+Peds Pulmonology,Lipid Panel,Neuro,Abnormal,Phone Outreach,11,0,Actionable
+Peds Primary Care,A1C,GI,Normal,Routine Follow-up,7,0,Review
+Peds Neuro,Lipid Panel,Endocrine,Normal,Routine Follow-up,16,0,Review
+Peds Neuro,CRP,GI,Normal,Phone Outreach,12,1,Review
+Peds Pulmonology,A1C,Cardiac,Missing,None,7,1,Incomplete
+Peds Neuro,A1C,Endocrine,Normal,Phone Outreach,8,1,Review
+Peds Cardiology,Chest X-ray,Endocrine,Normal,Routine Follow-up,3,1,Review
+Peds Cardiology,A1C,GI,Abnormal,Phone Outreach,15,1,Actionable
+Peds GI,Urinalysis,GI,Normal,Routine Follow-up,3,0,Review
+Peds GI,Lipid Panel,Endocrine,Normal,None,2,0,Review
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Urgent Visit,7,0,Review
+Peds Pulmonology,Lipid Panel,Endocrine,Normal,Referral,4,0,Review
+Peds GI,CRP,Cardiac,Abnormal,Rx Started,13,0,Actionable
+Peds Cardiology,Urinalysis,Infectious,Normal,Routine Follow-up,10,0,Review
+Peds Primary Care,Chest X-ray,Infectious,Normal,None,8,0,Review
+Peds Pulmonology,Urinalysis,Cardiac,Normal,Rx Started,7,0,Review
+Peds Pulmonology,Urinalysis,Respiratory,Normal,Referral,3,0,Review
+Peds Pulmonology,Lipid Panel,Endocrine,Abnormal,None,7,1,Review
+Peds Neuro,Throat Culture,Endocrine,Abnormal,Phone Outreach,8,0,Actionable
+Peds GI,Urinalysis,Cardiac,Normal,None,9,0,Review
+Peds GI,Lipid Panel,GI,Normal,Phone Outreach,14,0,Review
+Peds Neuro,Throat Culture,Well Child,Normal,None,13,1,Non-actionable
+Peds Neuro,CBC,Cardiac,Missing,Referral,12,0,Incomplete
+Peds Cardiology,Throat Culture,Neuro,Normal,Phone Outreach,12,0,Review
+Peds Cardiology,Chest X-ray,Respiratory,Normal,Referral,4,0,Review
+Peds Pulmonology,CBC,Infectious,Normal,Routine Follow-up,8,0,Review
+Peds Neuro,Throat Culture,Infectious,Normal,Routine Follow-up,6,0,Review
+Peds Pulmonology,Chest X-ray,Neuro,Abnormal,Phone Outreach,8,0,Actionable
+Peds Primary Care,Throat Culture,Neuro,Normal,None,10,0,Review
+Peds GI,Chest X-ray,Neuro,Abnormal,None,3,0,Review
+Peds Primary Care,Throat Culture,Neuro,Normal,Urgent Visit,5,0,Review
+Peds Cardiology,A1C,Infectious,Abnormal,Urgent Visit,13,1,Actionable
+Peds Cardiology,Throat Culture,Infectious,Missing,Referral,9,1,Incomplete
+Peds Cardiology,Urinalysis,GI,Abnormal,Routine Follow-up,5,1,Actionable
+Peds GI,Lipid Panel,Cardiac,Missing,None,12,0,Incomplete
+Peds Cardiology,Throat Culture,Respiratory,Normal,None,12,0,Review
+Peds Neuro,Throat Culture,Infectious,Abnormal,None,10,0,Review
+Peds GI,Throat Culture,Well Child,Abnormal,None,16,0,Review
+Peds Neuro,Throat Culture,Infectious,Normal,Rx Started,16,0,Review
+Peds Primary Care,Throat Culture,GI,Normal,Routine Follow-up,7,0,Review
+Peds Pulmonology,CBC,Cardiac,Normal,Routine Follow-up,17,0,Review
+Peds Pulmonology,Urinalysis,GI,Normal,Routine Follow-up,3,0,Review
+Peds Neuro,Lipid Panel,Cardiac,Normal,None,1,0,Review
+Peds Cardiology,CRP,Endocrine,Abnormal,Referral,1,0,Actionable
+Peds GI,Chest X-ray,Infectious,Abnormal,None,6,1,Review
+Peds Neuro,Urinalysis,Cardiac,Normal,Phone Outreach,11,1,Review
+Peds GI,CRP,GI,Abnormal,Phone Outreach,6,1,Actionable
+Peds Pulmonology,CRP,Well Child,Normal,Routine Follow-up,2,0,Review
+Peds Pulmonology,CBC,Endocrine,Missing,Rx Started,15,0,Incomplete
+Peds Pulmonology,CRP,Neuro,Normal,None,17,0,Review
+Peds Cardiology,A1C,Well Child,Normal,Phone Outreach,11,0,Review
+Peds Neuro,A1C,Endocrine,Normal,Urgent Visit,16,0,Review
+Peds Cardiology,A1C,Endocrine,Normal,Referral,14,1,Review
+Peds Pulmonology,CBC,GI,Abnormal,None,9,0,Review
+Peds Pulmonology,CBC,Respiratory,Abnormal,Phone Outreach,1,1,Actionable
+Peds Primary Care,CRP,Neuro,Missing,Routine Follow-up,7,1,Incomplete
+Peds Neuro,Urinalysis,Well Child,Abnormal,None,14,1,Review
+Peds Pulmonology,A1C,Cardiac,Normal,Referral,10,0,Review
+Peds Neuro,Chest X-ray,Respiratory,Abnormal,Routine Follow-up,2,0,Actionable
+Peds Pulmonology,Urinalysis,Well Child,Normal,Routine Follow-up,5,0,Review
+Peds Primary Care,Lipid Panel,GI,Normal,Phone Outreach,17,0,Review
+Peds Neuro,A1C,Neuro,Normal,Phone Outreach,1,0,Review
+Peds GI,Chest X-ray,Respiratory,Normal,Routine Follow-up,6,0,Review
+Peds Neuro,A1C,Well Child,Missing,None,2,1,Incomplete
+Peds Neuro,Throat Culture,Infectious,Normal,Phone Outreach,9,1,Review
+Peds Primary Care,Throat Culture,GI,Normal,Routine Follow-up,5,0,Review
+Peds Cardiology,Chest X-ray,Well Child,Normal,None,15,0,Review
+Peds GI,A1C,GI,Normal,Routine Follow-up,9,1,Review
+Peds Pulmonology,Chest X-ray,Respiratory,Normal,None,7,0,Review
+Peds Neuro,CBC,Well Child,Normal,None,7,0,Review
+Peds Pulmonology,Urinalysis,Infectious,Normal,None,7,0,Review
+Peds Primary Care,Chest X-ray,Endocrine,Normal,None,15,0,Review
+Peds Primary Care,CRP,Endocrine,Normal,Referral,2,0,Review
+Peds GI,A1C,GI,Missing,Phone Outreach,8,0,Incomplete
+Peds Pulmonology,Throat Culture,Infectious,Missing,None,7,0,Incomplete
+Peds Primary Care,Lipid Panel,Cardiac,Normal,None,7,0,Review
+Peds Neuro,CRP,Infectious,Missing,Routine Follow-up,5,0,Incomplete
+Peds Pulmonology,CRP,Cardiac,Normal,None,1,0,Review
+Peds Cardiology,Chest X-ray,Infectious,Abnormal,None,1,1,Review
+Peds GI,Urinalysis,Respiratory,Normal,Phone Outreach,8,0,Review
+Peds Cardiology,Chest X-ray,Infectious,Normal,None,17,1,Non-actionable
+Peds Pulmonology,Throat Culture,Well Child,Abnormal,None,6,0,Review
+Peds Primary Care,CRP,Cardiac,Normal,Routine Follow-up,6,0,Review
+Peds Cardiology,Urinalysis,Respiratory,Normal,Urgent Visit,4,0,Review
+Peds GI,Chest X-ray,Endocrine,Missing,Referral,9,0,Incomplete
+Peds GI,Throat Culture,Respiratory,Normal,Routine Follow-up,17,0,Review
+Peds Cardiology,A1C,Respiratory,Abnormal,Routine Follow-up,2,0,Actionable
+Peds Pulmonology,CRP,GI,Abnormal,Routine Follow-up,4,0,Actionable
+Peds Primary Care,Urinalysis,Neuro,Missing,None,1,0,Incomplete
+Peds Pulmonology,Throat Culture,Cardiac,Missing,None,3,0,Incomplete
+Peds Pulmonology,CBC,Well Child,Abnormal,None,17,0,Review
+Peds GI,CBC,Neuro,Missing,Phone Outreach,4,0,Incomplete
+Peds Cardiology,CBC,Respiratory,Normal,Routine Follow-up,16,0,Review
+Peds GI,CRP,Infectious,Normal,Referral,11,0,Review
+Peds Neuro,A1C,Neuro,Abnormal,Rx Started,16,0,Actionable
+Peds Cardiology,A1C,Infectious,Missing,Rx Started,8,0,Incomplete
+Peds Cardiology,CRP,Endocrine,Normal,None,1,0,Review
+Peds Neuro,Chest X-ray,Cardiac,Normal,None,9,1,Non-actionable
+Peds Primary Care,Throat Culture,Infectious,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Cardiology,Throat Culture,Cardiac,Normal,None,16,0,Review
+Peds Neuro,Urinalysis,Respiratory,Normal,Referral,2,1,Review
+Peds Primary Care,CBC,Neuro,Normal,Routine Follow-up,8,0,Review
+Peds Neuro,Urinalysis,Well Child,Abnormal,Phone Outreach,5,0,Actionable
+Peds Cardiology,CRP,GI,Missing,None,17,0,Incomplete
+Peds Primary Care,Throat Culture,GI,Normal,Phone Outreach,15,1,Review
+Peds GI,Throat Culture,Infectious,Normal,Urgent Visit,15,0,Review
+Peds Cardiology,Lipid Panel,Well Child,Abnormal,Rx Started,16,0,Actionable
+Peds Primary Care,CBC,Cardiac,Abnormal,None,3,0,Review
+Peds Cardiology,CRP,GI,Normal,None,12,0,Review
+Peds Cardiology,Urinalysis,Well Child,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Primary Care,Urinalysis,Neuro,Normal,None,11,0,Review
+Peds GI,Throat Culture,GI,Normal,None,16,0,Review
+Peds Pulmonology,Chest X-ray,Neuro,Normal,None,11,0,Review
+Peds Cardiology,A1C,Well Child,Abnormal,Phone Outreach,10,1,Actionable
+Peds Neuro,Throat Culture,Respiratory,Missing,None,14,0,Incomplete
+Peds Neuro,A1C,Neuro,Abnormal,Rx Started,2,0,Actionable
+Peds Cardiology,Urinalysis,Endocrine,Missing,Phone Outreach,13,0,Incomplete
+Peds Primary Care,CBC,Well Child,Abnormal,None,13,0,Review
+Peds Cardiology,Chest X-ray,GI,Normal,Phone Outreach,5,1,Review
+Peds Neuro,Throat Culture,Cardiac,Abnormal,None,1,0,Review
+Peds GI,Lipid Panel,Neuro,Normal,Routine Follow-up,10,0,Review
+Peds Cardiology,Lipid Panel,GI,Normal,Rx Started,2,0,Review
+Peds GI,CBC,GI,Normal,None,12,0,Review
+Peds Pulmonology,Lipid Panel,Well Child,Normal,Rx Started,15,0,Review
+Peds Primary Care,A1C,Endocrine,Normal,Referral,13,0,Review
+Peds Pulmonology,Lipid Panel,Infectious,Missing,Referral,12,0,Incomplete
+Peds Primary Care,Chest X-ray,GI,Abnormal,Urgent Visit,17,0,Actionable
+Peds Pulmonology,A1C,Neuro,Normal,Urgent Visit,3,0,Review
+Peds Cardiology,A1C,Respiratory,Normal,Routine Follow-up,1,0,Review
+Peds GI,Chest X-ray,GI,Abnormal,Routine Follow-up,17,1,Actionable
+Peds Cardiology,Chest X-ray,Neuro,Normal,Phone Outreach,7,0,Review
+Peds Cardiology,Chest X-ray,Infectious,Normal,Urgent Visit,15,0,Review
+Peds GI,CRP,GI,Abnormal,Rx Started,11,0,Actionable
+Peds Neuro,Chest X-ray,Neuro,Normal,Rx Started,4,0,Review
+Peds Primary Care,Chest X-ray,Respiratory,Normal,None,11,0,Review
+Peds Primary Care,CRP,Neuro,Abnormal,Routine Follow-up,13,1,Actionable
+Peds Neuro,CRP,Respiratory,Normal,Phone Outreach,3,0,Review
+Peds Cardiology,Chest X-ray,Respiratory,Normal,Phone Outreach,17,0,Review
+Peds Cardiology,Throat Culture,Cardiac,Normal,Rx Started,10,1,Review
+Peds Pulmonology,Throat Culture,Endocrine,Missing,Phone Outreach,16,0,Incomplete
+Peds Cardiology,A1C,Well Child,Normal,Phone Outreach,16,0,Review
+Peds GI,CBC,Neuro,Abnormal,None,14,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,Routine Follow-up,10,0,Review
+Peds Neuro,A1C,Infectious,Abnormal,None,12,0,Review
+Peds Neuro,Throat Culture,Neuro,Normal,Urgent Visit,7,0,Review
+Peds Primary Care,Chest X-ray,Well Child,Normal,None,4,0,Review
+Peds Neuro,Chest X-ray,Neuro,Normal,None,12,1,Non-actionable
+Peds Cardiology,CBC,GI,Missing,Routine Follow-up,10,0,Incomplete
+Peds GI,CRP,Cardiac,Normal,Routine Follow-up,9,0,Review
+Peds Cardiology,Urinalysis,GI,Normal,Routine Follow-up,9,1,Review
+Peds Cardiology,CBC,GI,Missing,Routine Follow-up,15,0,Incomplete
+Peds Primary Care,Lipid Panel,GI,Normal,Urgent Visit,14,0,Review
+Peds Pulmonology,Chest X-ray,Well Child,Abnormal,Referral,13,0,Actionable
+Peds Neuro,Throat Culture,Infectious,Normal,Urgent Visit,5,0,Review
+Peds Pulmonology,Urinalysis,Cardiac,Normal,None,5,0,Review
+Peds Neuro,Lipid Panel,Neuro,Normal,Routine Follow-up,8,0,Review
+Peds GI,Throat Culture,Well Child,Normal,Routine Follow-up,11,0,Review
+Peds GI,Lipid Panel,Neuro,Normal,Rx Started,13,1,Review
+Peds GI,CRP,GI,Normal,Routine Follow-up,16,0,Review
+Peds Pulmonology,CRP,Infectious,Normal,None,5,0,Review
+Peds Primary Care,Chest X-ray,Endocrine,Normal,Phone Outreach,12,0,Review
+Peds Cardiology,Throat Culture,Neuro,Normal,Rx Started,10,0,Review
+Peds GI,CRP,Infectious,Missing,Rx Started,7,1,Incomplete
+Peds GI,A1C,Well Child,Normal,None,14,0,Review
+Peds GI,CRP,GI,Abnormal,Phone Outreach,5,0,Actionable
+Peds Cardiology,CRP,Endocrine,Abnormal,Routine Follow-up,7,0,Actionable
+Peds GI,Lipid Panel,GI,Abnormal,Rx Started,7,0,Actionable
+Peds Cardiology,CRP,Endocrine,Normal,Routine Follow-up,4,0,Review
+Peds Pulmonology,A1C,Cardiac,Missing,None,9,0,Incomplete
+Peds Cardiology,Lipid Panel,Well Child,Normal,None,12,0,Review
+Peds GI,Lipid Panel,GI,Normal,Phone Outreach,14,1,Review
+Peds GI,Throat Culture,Neuro,Normal,Routine Follow-up,3,0,Review
+Peds Neuro,Throat Culture,Infectious,Abnormal,Phone Outreach,9,1,Actionable
+Peds Cardiology,CRP,Well Child,Abnormal,None,14,0,Review
+Peds GI,CBC,Infectious,Normal,Routine Follow-up,3,0,Review
+Peds Cardiology,Lipid Panel,Endocrine,Missing,None,15,0,Incomplete
+Peds GI,A1C,Neuro,Missing,Routine Follow-up,16,1,Incomplete
+Peds GI,CBC,GI,Normal,Referral,13,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,None,9,0,Review
+Peds Neuro,Urinalysis,Neuro,Normal,None,6,0,Review
+Peds Primary Care,A1C,Endocrine,Abnormal,Referral,2,1,Actionable
+Peds GI,CRP,Respiratory,Normal,None,12,1,Non-actionable
+Peds Primary Care,CBC,Well Child,Normal,None,4,0,Review
+Peds Cardiology,Chest X-ray,GI,Normal,Routine Follow-up,6,0,Review
+Peds Neuro,Urinalysis,GI,Normal,Rx Started,6,0,Review
+Peds Cardiology,CRP,Cardiac,Missing,Phone Outreach,6,0,Incomplete
+Peds GI,CRP,Neuro,Normal,Rx Started,11,0,Review
+Peds Primary Care,Urinalysis,Respiratory,Missing,None,1,0,Incomplete
+Peds Neuro,CRP,Infectious,Abnormal,None,13,0,Review
+Peds GI,Throat Culture,Respiratory,Normal,Referral,16,0,Review
+Peds GI,CRP,Neuro,Abnormal,None,10,0,Review
+Peds GI,Urinalysis,Endocrine,Normal,Phone Outreach,11,1,Review
+Peds Neuro,Chest X-ray,Well Child,Normal,Routine Follow-up,4,0,Review
+Peds Neuro,Urinalysis,GI,Abnormal,Phone Outreach,13,1,Actionable
+Peds Neuro,Urinalysis,Cardiac,Normal,Urgent Visit,3,0,Review
+Peds Cardiology,Lipid Panel,Infectious,Normal,Rx Started,12,0,Review
+Peds Primary Care,A1C,Respiratory,Normal,Routine Follow-up,14,0,Review
+Peds GI,A1C,Endocrine,Normal,Referral,11,0,Review
+Peds GI,Chest X-ray,Cardiac,Normal,None,1,0,Review
+Peds GI,Throat Culture,Endocrine,Normal,None,5,0,Review
+Peds Neuro,A1C,Infectious,Normal,Routine Follow-up,13,0,Review
+Peds Primary Care,A1C,Cardiac,Missing,Rx Started,9,0,Incomplete
+Peds Primary Care,Throat Culture,Endocrine,Abnormal,Phone Outreach,11,0,Actionable
+Peds Pulmonology,CBC,Endocrine,Normal,None,12,0,Review
+Peds Pulmonology,Chest X-ray,Endocrine,Normal,None,8,1,Non-actionable
+Peds Pulmonology,Throat Culture,Infectious,Normal,Routine Follow-up,3,1,Review
+Peds GI,A1C,Endocrine,Normal,Routine Follow-up,9,0,Review
+Peds GI,Chest X-ray,Cardiac,Normal,None,6,0,Review
+Peds Primary Care,Chest X-ray,GI,Normal,Urgent Visit,6,0,Review
+Peds GI,Urinalysis,Infectious,Abnormal,Rx Started,14,0,Actionable
+Peds Pulmonology,CRP,Cardiac,Normal,None,1,1,Non-actionable
+Peds Neuro,CBC,Cardiac,Normal,Routine Follow-up,6,0,Review
+Peds Primary Care,CRP,Respiratory,Normal,None,11,0,Review
+Peds GI,CRP,Endocrine,Normal,Referral,6,0,Review
+Peds Primary Care,Chest X-ray,Cardiac,Abnormal,Routine Follow-up,17,0,Actionable
+Peds Primary Care,CRP,Neuro,Normal,Routine Follow-up,11,0,Review
+Peds Pulmonology,Throat Culture,Respiratory,Abnormal,Rx Started,17,0,Actionable
+Peds Cardiology,CBC,Well Child,Abnormal,Rx Started,3,0,Actionable
+Peds Neuro,Chest X-ray,Well Child,Normal,None,8,1,Non-actionable
+Peds Primary Care,A1C,Well Child,Normal,Phone Outreach,2,0,Review
+Peds GI,Throat Culture,Neuro,Normal,None,6,0,Review
+Peds Cardiology,Chest X-ray,Respiratory,Abnormal,Referral,4,0,Actionable
+Peds GI,Urinalysis,Endocrine,Missing,Routine Follow-up,4,1,Incomplete
+Peds GI,Lipid Panel,Infectious,Normal,Routine Follow-up,3,1,Review
+Peds Pulmonology,A1C,Neuro,Normal,None,4,0,Review
+Peds Neuro,Chest X-ray,Cardiac,Normal,None,11,0,Review
+Peds Cardiology,Lipid Panel,Well Child,Normal,Routine Follow-up,4,0,Review
+Peds GI,Throat Culture,Cardiac,Normal,Phone Outreach,6,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Normal,Routine Follow-up,14,0,Review
+Peds Neuro,CRP,GI,Abnormal,Routine Follow-up,7,1,Actionable
+Peds GI,Lipid Panel,Infectious,Abnormal,Urgent Visit,13,0,Actionable
+Peds Neuro,Throat Culture,Endocrine,Normal,Routine Follow-up,3,1,Review
+Peds Primary Care,Lipid Panel,Respiratory,Normal,Urgent Visit,2,0,Review
+Peds GI,Urinalysis,Cardiac,Normal,None,16,0,Review
+Peds Primary Care,Urinalysis,Endocrine,Normal,Phone Outreach,2,0,Review
+Peds GI,Throat Culture,Infectious,Normal,Rx Started,8,0,Review
+Peds Cardiology,CBC,Endocrine,Normal,Urgent Visit,15,0,Review
+Peds Cardiology,Throat Culture,Infectious,Normal,Rx Started,4,1,Review
+Peds GI,CBC,Respiratory,Normal,None,1,1,Non-actionable
+Peds Cardiology,Lipid Panel,Neuro,Normal,None,11,1,Non-actionable
+Peds Pulmonology,Throat Culture,Cardiac,Abnormal,None,6,0,Review
+Peds Primary Care,CRP,Neuro,Normal,None,3,1,Non-actionable
+Peds GI,CRP,Neuro,Abnormal,None,10,0,Review
+Peds GI,Throat Culture,Endocrine,Normal,None,11,0,Review
+Peds GI,Urinalysis,GI,Normal,None,1,0,Review
+Peds Cardiology,Chest X-ray,Neuro,Abnormal,None,14,1,Review
+Peds Pulmonology,A1C,Infectious,Abnormal,Routine Follow-up,2,1,Actionable
+Peds Neuro,Urinalysis,Cardiac,Missing,Routine Follow-up,3,0,Incomplete
+Peds Pulmonology,Urinalysis,Endocrine,Missing,None,8,0,Incomplete
+Peds Neuro,A1C,Infectious,Abnormal,Phone Outreach,11,0,Actionable
+Peds Cardiology,Throat Culture,Well Child,Missing,Routine Follow-up,14,0,Incomplete
+Peds Neuro,A1C,Neuro,Normal,Referral,4,0,Review
+Peds Neuro,CBC,GI,Missing,None,11,0,Incomplete
+Peds Pulmonology,CBC,Cardiac,Missing,None,11,0,Incomplete
+Peds Primary Care,A1C,GI,Normal,Routine Follow-up,10,1,Review
+Peds Cardiology,A1C,Cardiac,Normal,Phone Outreach,16,0,Review
+Peds Pulmonology,CRP,Endocrine,Normal,None,17,0,Review
+Peds Primary Care,Chest X-ray,GI,Abnormal,Referral,2,1,Actionable
+Peds Cardiology,CBC,Cardiac,Abnormal,None,10,0,Review
+Peds Neuro,CBC,Infectious,Normal,None,2,0,Review
+Peds Neuro,CBC,Endocrine,Abnormal,None,10,0,Review
+Peds Primary Care,CBC,Respiratory,Missing,Phone Outreach,1,0,Incomplete
+Peds Primary Care,Urinalysis,Respiratory,Normal,None,8,0,Review
+Peds Primary Care,Urinalysis,Respiratory,Normal,Referral,2,1,Review
+Peds Neuro,Urinalysis,Well Child,Abnormal,None,14,0,Review
+Peds Neuro,Urinalysis,Neuro,Abnormal,None,5,0,Review
+Peds Pulmonology,Lipid Panel,Infectious,Normal,None,12,0,Review
+Peds Pulmonology,A1C,Infectious,Normal,Phone Outreach,9,0,Review
+Peds GI,A1C,Infectious,Abnormal,Rx Started,4,0,Actionable
+Peds Neuro,CRP,Cardiac,Abnormal,None,2,0,Review
+Peds Primary Care,CRP,Well Child,Normal,Referral,8,0,Review
+Peds Cardiology,CRP,GI,Normal,Phone Outreach,3,1,Review
+Peds Primary Care,Throat Culture,Endocrine,Normal,None,15,1,Non-actionable
+Peds Cardiology,Chest X-ray,Infectious,Abnormal,Referral,13,0,Actionable
+Peds Pulmonology,Lipid Panel,Endocrine,Normal,None,7,1,Non-actionable
+Peds Neuro,Lipid Panel,Neuro,Missing,None,4,0,Incomplete
+Peds Pulmonology,Lipid Panel,Cardiac,Normal,None,6,0,Review
+Peds GI,Lipid Panel,Well Child,Normal,Phone Outreach,11,0,Review
+Peds GI,Chest X-ray,Infectious,Abnormal,Referral,16,0,Actionable
+Peds Cardiology,CBC,Well Child,Normal,None,16,0,Review
+Peds Cardiology,Lipid Panel,Well Child,Abnormal,None,7,0,Review
+Peds GI,Urinalysis,Respiratory,Missing,None,12,0,Incomplete
+Peds Primary Care,Lipid Panel,Well Child,Abnormal,Routine Follow-up,8,1,Actionable
+Peds Cardiology,CBC,Endocrine,Missing,Routine Follow-up,3,0,Incomplete
+Peds GI,Chest X-ray,Cardiac,Normal,Referral,7,0,Review
+Peds Neuro,Lipid Panel,Endocrine,Abnormal,Routine Follow-up,6,0,Actionable
+Peds GI,Chest X-ray,Neuro,Normal,None,4,1,Non-actionable
+Peds Primary Care,Throat Culture,Cardiac,Normal,None,4,0,Review
+Peds GI,CRP,Infectious,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Neuro,CBC,Endocrine,Normal,Routine Follow-up,4,0,Review
+Peds Pulmonology,CBC,Respiratory,Normal,None,14,0,Review
+Peds Primary Care,Chest X-ray,Cardiac,Normal,None,6,0,Review
+Peds Cardiology,CRP,Well Child,Normal,Referral,1,0,Review
+Peds Pulmonology,CRP,Endocrine,Abnormal,Urgent Visit,15,1,Actionable
+Peds Cardiology,A1C,Infectious,Normal,None,14,0,Review
+Peds Neuro,CRP,Cardiac,Missing,Referral,12,0,Incomplete
+Peds Neuro,A1C,Respiratory,Abnormal,None,14,0,Review
+Peds Primary Care,Throat Culture,Respiratory,Abnormal,Rx Started,17,0,Actionable
+Peds Pulmonology,Chest X-ray,Neuro,Normal,Referral,1,0,Review
+Peds Primary Care,Chest X-ray,Infectious,Normal,Routine Follow-up,10,0,Review
+Peds Cardiology,CBC,Respiratory,Abnormal,None,17,0,Review
+Peds Primary Care,CRP,Endocrine,Abnormal,None,4,1,Review
+Peds Pulmonology,A1C,Infectious,Abnormal,None,3,0,Review
+Peds GI,CBC,Endocrine,Abnormal,None,5,1,Review
+Peds Pulmonology,Chest X-ray,Infectious,Normal,None,14,0,Review
+Peds GI,A1C,Well Child,Abnormal,Routine Follow-up,11,0,Actionable
+Peds Neuro,CRP,Endocrine,Normal,Routine Follow-up,11,0,Review
+Peds Neuro,Throat Culture,Respiratory,Normal,Phone Outreach,6,0,Review
+Peds Cardiology,Throat Culture,GI,Normal,Routine Follow-up,8,0,Review
+Peds Primary Care,Chest X-ray,Respiratory,Missing,None,6,0,Incomplete
+Peds Pulmonology,Throat Culture,GI,Normal,Phone Outreach,8,0,Review
+Peds Cardiology,Chest X-ray,Well Child,Abnormal,Referral,3,0,Actionable
+Peds GI,A1C,Endocrine,Normal,Routine Follow-up,14,0,Review
+Peds GI,Lipid Panel,Endocrine,Abnormal,None,14,0,Review
+Peds GI,A1C,Neuro,Abnormal,Phone Outreach,9,1,Actionable
+Peds Pulmonology,Throat Culture,GI,Abnormal,None,5,0,Review
+Peds Cardiology,Throat Culture,Endocrine,Normal,None,12,0,Review
+Peds Primary Care,CRP,Neuro,Normal,None,14,0,Review
+Peds Primary Care,Chest X-ray,Cardiac,Normal,None,3,0,Review
+Peds Cardiology,A1C,Neuro,Normal,Referral,16,1,Review
+Peds GI,Throat Culture,GI,Abnormal,Routine Follow-up,11,0,Actionable
+Peds Cardiology,Lipid Panel,Neuro,Normal,None,11,0,Review
+Peds Pulmonology,CRP,Cardiac,Normal,None,17,0,Review
+Peds Neuro,CBC,Endocrine,Abnormal,Phone Outreach,14,1,Actionable
+Peds GI,CRP,Cardiac,Missing,Phone Outreach,1,0,Incomplete
+Peds GI,Chest X-ray,Cardiac,Abnormal,Referral,7,0,Actionable
+Peds Pulmonology,Throat Culture,Infectious,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Neuro,Chest X-ray,Cardiac,Normal,Routine Follow-up,2,0,Review
+Peds Primary Care,CBC,Respiratory,Missing,Referral,16,0,Incomplete
+Peds Cardiology,CBC,Endocrine,Abnormal,None,3,0,Review
+Peds GI,Lipid Panel,Infectious,Missing,Rx Started,1,1,Incomplete
+Peds Neuro,CRP,Infectious,Abnormal,None,5,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,Rx Started,2,0,Review
+Peds Cardiology,Urinalysis,Infectious,Abnormal,None,11,0,Review
+Peds GI,Throat Culture,Well Child,Normal,None,10,0,Review
+Peds Neuro,A1C,Well Child,Normal,Phone Outreach,16,0,Review
+Peds Primary Care,CBC,Infectious,Normal,None,12,0,Review
+Peds Cardiology,Urinalysis,Well Child,Normal,Routine Follow-up,13,1,Review
+Peds GI,Throat Culture,Infectious,Abnormal,None,3,0,Review
+Peds Cardiology,CBC,Cardiac,Normal,Routine Follow-up,14,1,Review
+Peds GI,Chest X-ray,Respiratory,Missing,Routine Follow-up,10,0,Incomplete
+Peds Pulmonology,Throat Culture,Well Child,Normal,Urgent Visit,16,0,Review
+Peds Cardiology,Chest X-ray,GI,Normal,Routine Follow-up,4,0,Review
+Peds Cardiology,Throat Culture,Endocrine,Normal,Rx Started,13,0,Review
+Peds Pulmonology,Urinalysis,Cardiac,Abnormal,None,8,1,Review
+Peds GI,A1C,Well Child,Missing,Referral,17,0,Incomplete
+Peds Pulmonology,CBC,Respiratory,Abnormal,Phone Outreach,12,0,Actionable
+Peds Cardiology,Urinalysis,Respiratory,Normal,Referral,15,0,Review
+Peds Primary Care,Chest X-ray,Endocrine,Normal,Urgent Visit,7,0,Review
+Peds Primary Care,CRP,Neuro,Normal,None,4,0,Review
+Peds GI,Throat Culture,GI,Normal,None,1,0,Review
+Peds Cardiology,CRP,Endocrine,Abnormal,Routine Follow-up,3,0,Actionable
+Peds GI,A1C,Well Child,Normal,Phone Outreach,11,0,Review
+Peds Primary Care,A1C,Neuro,Missing,None,8,0,Incomplete
+Peds Primary Care,CRP,Infectious,Normal,None,8,0,Review
+Peds GI,Chest X-ray,Neuro,Normal,None,16,0,Review
+Peds GI,Urinalysis,Neuro,Missing,Routine Follow-up,12,0,Incomplete
+Peds Primary Care,Lipid Panel,GI,Normal,Rx Started,11,1,Review
+Peds GI,Lipid Panel,Cardiac,Normal,None,16,0,Review
+Peds Cardiology,Urinalysis,Infectious,Normal,Phone Outreach,10,0,Review
+Peds Pulmonology,Chest X-ray,Well Child,Normal,Rx Started,7,0,Review
+Peds Pulmonology,A1C,Well Child,Abnormal,Phone Outreach,7,1,Actionable
+Peds Pulmonology,Chest X-ray,Infectious,Normal,Referral,16,0,Review
+Peds Pulmonology,CBC,Neuro,Normal,Routine Follow-up,5,0,Review
+Peds Pulmonology,Chest X-ray,GI,Normal,Urgent Visit,8,1,Review
+Peds Cardiology,CRP,GI,Normal,None,2,0,Review
+Peds Neuro,A1C,Well Child,Normal,Routine Follow-up,13,0,Review
+Peds Pulmonology,Lipid Panel,Endocrine,Abnormal,None,17,0,Review
+Peds Neuro,Lipid Panel,Well Child,Normal,Routine Follow-up,13,0,Review
+Peds GI,CRP,Neuro,Normal,None,15,0,Review
+Peds Pulmonology,Urinalysis,Neuro,Normal,Phone Outreach,13,0,Review
+Peds Primary Care,Lipid Panel,Respiratory,Abnormal,Routine Follow-up,11,0,Actionable
+Peds Primary Care,CBC,GI,Normal,Phone Outreach,13,0,Review
+Peds Pulmonology,CBC,Respiratory,Missing,Referral,7,0,Incomplete
+Peds Primary Care,Throat Culture,Endocrine,Normal,Routine Follow-up,10,1,Review
+Peds Primary Care,Throat Culture,Respiratory,Abnormal,Referral,5,0,Actionable
+Peds Cardiology,Chest X-ray,Infectious,Abnormal,Routine Follow-up,14,0,Actionable
+Peds Pulmonology,Lipid Panel,GI,Normal,None,4,0,Review
+Peds Primary Care,Urinalysis,Cardiac,Abnormal,None,4,0,Review
+Peds Pulmonology,CRP,Endocrine,Normal,None,11,0,Review
+Peds Cardiology,Chest X-ray,GI,Abnormal,Routine Follow-up,12,0,Actionable
+Peds Pulmonology,Lipid Panel,Cardiac,Normal,None,4,0,Review
+Peds Pulmonology,Lipid Panel,Neuro,Normal,None,2,0,Review
+Peds Pulmonology,Urinalysis,Endocrine,Normal,Referral,8,0,Review
+Peds GI,Lipid Panel,Endocrine,Normal,None,3,1,Non-actionable
+Peds Cardiology,A1C,GI,Normal,None,8,0,Review
+Peds Pulmonology,CBC,GI,Normal,None,9,0,Review
+Peds Cardiology,CBC,Respiratory,Normal,Phone Outreach,1,0,Review
+Peds GI,Throat Culture,Cardiac,Abnormal,None,17,0,Review
+Peds Neuro,A1C,Respiratory,Abnormal,Referral,13,0,Actionable
+Peds Neuro,Urinalysis,Neuro,Abnormal,Rx Started,1,0,Actionable
+Peds Pulmonology,Urinalysis,Cardiac,Abnormal,Routine Follow-up,8,0,Actionable
+Peds Neuro,CRP,Endocrine,Normal,Routine Follow-up,14,0,Review
+Peds Pulmonology,Chest X-ray,Endocrine,Abnormal,Rx Started,9,0,Actionable
+Peds GI,A1C,Infectious,Abnormal,Phone Outreach,14,0,Actionable
+Peds GI,Chest X-ray,Cardiac,Normal,Referral,16,0,Review
+Peds Primary Care,A1C,Respiratory,Normal,Referral,8,1,Review
+Peds Cardiology,Chest X-ray,Well Child,Normal,None,12,0,Review
+Peds Pulmonology,Lipid Panel,Infectious,Abnormal,Rx Started,5,0,Actionable
+Peds Cardiology,CRP,Endocrine,Normal,None,10,0,Review
+Peds Primary Care,A1C,Cardiac,Normal,None,12,0,Review
+Peds Pulmonology,Urinalysis,Infectious,Normal,Phone Outreach,6,0,Review
+Peds Primary Care,Lipid Panel,Cardiac,Abnormal,Routine Follow-up,12,0,Actionable
+Peds Primary Care,Lipid Panel,Well Child,Abnormal,None,16,0,Review
+Peds Neuro,Lipid Panel,Well Child,Normal,None,8,0,Review
+Peds Cardiology,CBC,Neuro,Normal,Urgent Visit,4,0,Review
+Peds Neuro,CRP,Neuro,Missing,None,12,0,Incomplete
+Peds Pulmonology,Lipid Panel,Neuro,Missing,None,9,0,Incomplete
+Peds Neuro,CRP,Cardiac,Normal,None,11,0,Review
+Peds Pulmonology,Throat Culture,GI,Normal,Phone Outreach,5,1,Review
+Peds GI,Throat Culture,Respiratory,Normal,None,1,0,Review
+Peds Pulmonology,CBC,Respiratory,Abnormal,Routine Follow-up,1,0,Actionable
+Peds Cardiology,CRP,Cardiac,Normal,Rx Started,17,0,Review
+Peds Neuro,A1C,Well Child,Normal,Phone Outreach,12,0,Review
+Peds Cardiology,Throat Culture,Infectious,Normal,None,3,1,Non-actionable
+Peds Cardiology,CRP,Endocrine,Normal,None,6,1,Non-actionable
+Peds GI,CBC,GI,Normal,Referral,4,1,Review
+Peds Cardiology,Throat Culture,Cardiac,Missing,Phone Outreach,13,0,Incomplete
+Peds Cardiology,CRP,Infectious,Missing,Phone Outreach,9,0,Incomplete
+Peds Primary Care,Urinalysis,Cardiac,Normal,None,2,0,Review
+Peds Neuro,CRP,Neuro,Abnormal,Rx Started,6,0,Actionable
+Peds Neuro,Lipid Panel,Endocrine,Normal,Referral,17,0,Review
+Peds Cardiology,CRP,Endocrine,Normal,None,5,0,Review
+Peds Primary Care,CRP,Cardiac,Normal,None,15,1,Non-actionable
+Peds GI,CBC,Well Child,Normal,Rx Started,14,0,Review
+Peds GI,Urinalysis,Well Child,Normal,None,9,1,Non-actionable
+Peds Pulmonology,A1C,Respiratory,Normal,Rx Started,1,0,Review
+Peds GI,CBC,GI,Normal,Routine Follow-up,6,0,Review
+Peds Cardiology,Urinalysis,Cardiac,Abnormal,None,1,1,Review
+Peds Primary Care,CRP,Respiratory,Normal,None,6,0,Review
+Peds Neuro,CBC,GI,Normal,Phone Outreach,15,0,Review
+Peds Cardiology,CRP,Infectious,Abnormal,Phone Outreach,13,0,Actionable
+Peds Pulmonology,CRP,Well Child,Normal,None,14,0,Review
+Peds GI,Urinalysis,GI,Normal,Phone Outreach,8,0,Review
+Peds Neuro,Throat Culture,Endocrine,Normal,Referral,16,0,Review
+Peds GI,Urinalysis,Respiratory,Abnormal,Rx Started,12,0,Actionable
+Peds GI,Throat Culture,Well Child,Missing,Phone Outreach,15,0,Incomplete
+Peds Primary Care,Lipid Panel,Respiratory,Normal,None,5,1,Non-actionable
+Peds Neuro,Lipid Panel,Well Child,Normal,None,10,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Normal,None,3,0,Review
+Peds Primary Care,Chest X-ray,Endocrine,Normal,Referral,9,0,Review
+Peds Cardiology,Chest X-ray,Well Child,Normal,Routine Follow-up,6,1,Review
+Peds Neuro,CRP,Respiratory,Normal,Routine Follow-up,1,0,Review
+Peds Cardiology,Lipid Panel,Respiratory,Abnormal,Rx Started,3,0,Actionable
+Peds Primary Care,Lipid Panel,Endocrine,Normal,None,2,0,Review
+Peds GI,Urinalysis,Well Child,Normal,Routine Follow-up,4,0,Review
+Peds Primary Care,CRP,GI,Normal,None,12,0,Review
+Peds GI,Lipid Panel,Infectious,Normal,Routine Follow-up,1,0,Review
+Peds Cardiology,CRP,Cardiac,Abnormal,Routine Follow-up,4,0,Actionable
+Peds Neuro,Urinalysis,Endocrine,Normal,Routine Follow-up,15,0,Review
+Peds Primary Care,Chest X-ray,Endocrine,Normal,None,10,0,Review
+Peds Primary Care,CRP,Infectious,Abnormal,Routine Follow-up,1,1,Actionable
+Peds Cardiology,Lipid Panel,Well Child,Normal,Routine Follow-up,4,0,Review
+Peds Pulmonology,Lipid Panel,Well Child,Normal,None,9,0,Review
+Peds Neuro,A1C,Well Child,Normal,None,12,0,Review
+Peds Primary Care,CRP,Well Child,Normal,Referral,5,0,Review
+Peds Cardiology,CBC,Respiratory,Normal,None,7,0,Review
+Peds Cardiology,Urinalysis,Well Child,Normal,Phone Outreach,14,0,Review
+Peds Cardiology,Chest X-ray,Infectious,Normal,None,10,0,Review
+Peds Pulmonology,Chest X-ray,GI,Normal,None,11,0,Review
+Peds Primary Care,CRP,GI,Missing,Routine Follow-up,12,1,Incomplete
+Peds Cardiology,Lipid Panel,Infectious,Missing,Phone Outreach,10,0,Incomplete
+Peds Pulmonology,Urinalysis,Neuro,Abnormal,None,14,0,Review
+Peds GI,Throat Culture,Respiratory,Normal,Phone Outreach,7,0,Review
+Peds Pulmonology,Throat Culture,Endocrine,Normal,Referral,16,0,Review
+Peds Primary Care,Throat Culture,Respiratory,Normal,Urgent Visit,8,1,Review
+Peds Cardiology,CBC,Endocrine,Normal,Phone Outreach,15,0,Review
+Peds Neuro,A1C,Well Child,Normal,None,10,0,Review
+Peds Primary Care,Chest X-ray,Cardiac,Missing,Rx Started,7,0,Incomplete
+Peds GI,Lipid Panel,Well Child,Missing,None,16,1,Incomplete
+Peds Neuro,Throat Culture,Endocrine,Normal,Urgent Visit,5,0,Review
+Peds Neuro,Throat Culture,Well Child,Normal,Routine Follow-up,3,1,Review
+Peds GI,Urinalysis,Respiratory,Abnormal,Urgent Visit,16,1,Actionable
+Peds Neuro,Urinalysis,Respiratory,Normal,Phone Outreach,2,1,Review
+Peds GI,Chest X-ray,Neuro,Missing,Routine Follow-up,15,0,Incomplete
+Peds Primary Care,Lipid Panel,Cardiac,Normal,Phone Outreach,5,1,Review
+Peds Primary Care,Throat Culture,Neuro,Normal,None,6,0,Review
+Peds Pulmonology,CRP,Well Child,Abnormal,None,9,0,Review
+Peds Neuro,Chest X-ray,Well Child,Missing,Referral,13,0,Incomplete
+Peds GI,Urinalysis,GI,Missing,None,15,0,Incomplete
+Peds Neuro,Lipid Panel,Respiratory,Normal,None,7,0,Review
+Peds Neuro,CRP,Neuro,Abnormal,Urgent Visit,3,0,Actionable
+Peds Neuro,CBC,GI,Normal,Routine Follow-up,6,0,Review
+Peds Cardiology,Throat Culture,Endocrine,Normal,Routine Follow-up,12,0,Review
+Peds Primary Care,Lipid Panel,Endocrine,Normal,None,3,0,Review
+Peds Primary Care,CRP,Infectious,Normal,Urgent Visit,13,0,Review
+Peds Primary Care,Urinalysis,Infectious,Abnormal,Rx Started,11,0,Actionable
+Peds Cardiology,Chest X-ray,Endocrine,Normal,Phone Outreach,12,0,Review
+Peds Cardiology,Throat Culture,Neuro,Normal,None,5,0,Review
+Peds Primary Care,Chest X-ray,Well Child,Normal,None,5,0,Review
+Peds Neuro,Chest X-ray,Infectious,Normal,Phone Outreach,8,0,Review
+Peds Pulmonology,Throat Culture,Infectious,Normal,Routine Follow-up,6,1,Review
+Peds Cardiology,CRP,Well Child,Normal,None,7,1,Non-actionable
+Peds Neuro,A1C,Infectious,Missing,Rx Started,17,0,Incomplete
+Peds Pulmonology,Throat Culture,Infectious,Abnormal,None,3,1,Review
+Peds Neuro,CBC,Respiratory,Missing,None,1,0,Incomplete
+Peds Cardiology,A1C,Cardiac,Missing,Phone Outreach,11,0,Incomplete
+Peds Cardiology,Throat Culture,GI,Abnormal,Rx Started,9,1,Actionable
+Peds Primary Care,Throat Culture,Endocrine,Normal,Phone Outreach,13,0,Review
+Peds Neuro,A1C,Well Child,Normal,Phone Outreach,11,0,Review
+Peds GI,Throat Culture,Neuro,Normal,None,12,1,Non-actionable
+Peds Cardiology,CRP,Cardiac,Normal,Referral,13,0,Review
+Peds Primary Care,CBC,Cardiac,Missing,None,8,0,Incomplete
+Peds Neuro,Urinalysis,Respiratory,Abnormal,Routine Follow-up,1,1,Actionable
+Peds GI,Lipid Panel,Endocrine,Normal,None,5,1,Non-actionable
+Peds Neuro,CBC,Well Child,Abnormal,Routine Follow-up,15,0,Actionable
+Peds Primary Care,A1C,Cardiac,Abnormal,None,12,1,Review
+Peds Cardiology,CRP,GI,Abnormal,Phone Outreach,15,0,Actionable
+Peds Pulmonology,CRP,Respiratory,Normal,Routine Follow-up,15,0,Review
+Peds GI,Lipid Panel,Respiratory,Abnormal,Routine Follow-up,2,1,Actionable
+Peds Neuro,Throat Culture,Cardiac,Normal,Routine Follow-up,1,0,Review
+Peds Cardiology,CRP,Respiratory,Normal,Routine Follow-up,2,0,Review
+Peds GI,Throat Culture,Cardiac,Normal,None,15,0,Review
+Peds GI,Lipid Panel,Cardiac,Normal,Routine Follow-up,14,0,Review
+Peds Neuro,Urinalysis,Neuro,Normal,None,16,0,Review
+Peds Neuro,Throat Culture,Well Child,Normal,None,10,0,Review
+Peds GI,CRP,Well Child,Normal,Routine Follow-up,12,0,Review
+Peds Neuro,Lipid Panel,GI,Abnormal,Phone Outreach,6,0,Actionable
+Peds Neuro,CBC,Endocrine,Normal,Referral,2,0,Review
+Peds Pulmonology,CRP,Endocrine,Normal,Routine Follow-up,7,1,Review
+Peds Cardiology,CBC,Endocrine,Normal,Referral,4,0,Review
+Peds Pulmonology,Chest X-ray,Respiratory,Normal,Referral,3,0,Review
+Peds GI,CRP,Infectious,Normal,Routine Follow-up,8,0,Review
+Peds Primary Care,A1C,Neuro,Missing,None,12,0,Incomplete
+Peds GI,Chest X-ray,Infectious,Abnormal,Phone Outreach,7,0,Actionable
+Peds Pulmonology,Chest X-ray,GI,Abnormal,Routine Follow-up,9,0,Actionable
+Peds Neuro,Chest X-ray,Well Child,Normal,Routine Follow-up,1,1,Review
+Peds Primary Care,Chest X-ray,Cardiac,Normal,Urgent Visit,10,0,Review
+Peds Pulmonology,CBC,Infectious,Normal,Phone Outreach,14,0,Review
+Peds Cardiology,Lipid Panel,Neuro,Normal,None,11,0,Review
+Peds Cardiology,Urinalysis,Cardiac,Normal,Rx Started,16,0,Review
+Peds Cardiology,Throat Culture,GI,Abnormal,Referral,16,0,Actionable
+Peds Neuro,A1C,Neuro,Normal,Phone Outreach,6,0,Review
+Peds GI,CBC,Cardiac,Normal,Routine Follow-up,13,0,Review
+Peds Cardiology,CRP,Respiratory,Abnormal,None,2,0,Review
+Peds Pulmonology,CBC,Neuro,Normal,Routine Follow-up,7,0,Review
+Peds GI,Lipid Panel,GI,Normal,Phone Outreach,14,0,Review
+Peds Cardiology,Urinalysis,Neuro,Normal,None,12,1,Non-actionable
+Peds Pulmonology,A1C,Respiratory,Normal,Routine Follow-up,5,0,Review
+Peds Cardiology,Throat Culture,Cardiac,Abnormal,Urgent Visit,9,0,Actionable
+Peds Pulmonology,Urinalysis,Neuro,Normal,Routine Follow-up,14,0,Review
+Peds Cardiology,Lipid Panel,Endocrine,Normal,None,6,0,Review
+Peds Neuro,CBC,Cardiac,Normal,None,7,0,Review
+Peds Pulmonology,Throat Culture,Endocrine,Missing,None,17,0,Incomplete
+Peds Pulmonology,A1C,Well Child,Normal,Rx Started,16,0,Review
+Peds Primary Care,CBC,GI,Normal,None,7,0,Review
+Peds Pulmonology,CBC,Respiratory,Normal,Routine Follow-up,6,0,Review
+Peds GI,Throat Culture,Cardiac,Abnormal,Phone Outreach,10,0,Actionable
+Peds Primary Care,Urinalysis,Endocrine,Normal,Referral,16,0,Review
+Peds GI,Chest X-ray,Well Child,Normal,Phone Outreach,14,0,Review
+Peds Neuro,CBC,Infectious,Normal,Phone Outreach,12,0,Review
+Peds Cardiology,Chest X-ray,Endocrine,Normal,Phone Outreach,9,0,Review
+Peds Cardiology,Lipid Panel,Endocrine,Normal,None,5,1,Non-actionable
+Peds GI,CRP,Infectious,Normal,Routine Follow-up,2,0,Review
+Peds Cardiology,A1C,Neuro,Missing,Routine Follow-up,2,0,Incomplete
+Peds Neuro,Urinalysis,GI,Normal,Rx Started,8,1,Review
+Peds Pulmonology,CRP,GI,Abnormal,Referral,8,1,Actionable
+Peds GI,CRP,Well Child,Normal,Phone Outreach,2,0,Review
+Peds Pulmonology,Throat Culture,Respiratory,Normal,None,14,1,Non-actionable
+Peds Neuro,Chest X-ray,GI,Abnormal,Urgent Visit,2,0,Actionable
+Peds Primary Care,Urinalysis,Neuro,Normal,Routine Follow-up,8,0,Review
+Peds Cardiology,Urinalysis,Cardiac,Normal,Phone Outreach,15,0,Review
+Peds Pulmonology,CRP,Cardiac,Normal,Rx Started,7,0,Review
+Peds Primary Care,CRP,Neuro,Normal,None,11,0,Review
+Peds Cardiology,CRP,Cardiac,Normal,Phone Outreach,1,1,Review
+Peds Cardiology,Throat Culture,Cardiac,Normal,Routine Follow-up,6,0,Review
+Peds Neuro,Throat Culture,Neuro,Normal,Rx Started,6,1,Review
+Peds Cardiology,Chest X-ray,Respiratory,Missing,None,2,0,Incomplete
+Peds Pulmonology,CBC,Respiratory,Missing,Routine Follow-up,15,1,Incomplete
+Peds GI,Chest X-ray,Neuro,Abnormal,None,9,0,Review
+Peds Primary Care,CRP,Respiratory,Normal,Routine Follow-up,4,1,Review
+Peds Cardiology,A1C,GI,Normal,Routine Follow-up,13,0,Review
+Peds GI,A1C,Endocrine,Normal,Routine Follow-up,4,0,Review
+Peds Cardiology,Chest X-ray,Infectious,Normal,Routine Follow-up,7,0,Review
+Peds Pulmonology,CBC,Endocrine,Normal,Phone Outreach,4,1,Review
+Peds Primary Care,A1C,Respiratory,Missing,Rx Started,4,0,Incomplete
+Peds Neuro,Lipid Panel,Respiratory,Missing,Phone Outreach,13,0,Incomplete
+Peds Neuro,Chest X-ray,Infectious,Abnormal,Routine Follow-up,11,0,Actionable
+Peds Pulmonology,CRP,Well Child,Normal,None,12,0,Review
+Peds Primary Care,CRP,GI,Normal,Phone Outreach,7,0,Review
+Peds Cardiology,Lipid Panel,Well Child,Missing,Routine Follow-up,8,0,Incomplete
+Peds Cardiology,A1C,Cardiac,Missing,None,2,1,Incomplete
+Peds Neuro,Urinalysis,Endocrine,Normal,Phone Outreach,2,0,Review
+Peds GI,Lipid Panel,Cardiac,Normal,None,12,0,Review
+Peds Pulmonology,Throat Culture,Endocrine,Abnormal,Referral,14,1,Actionable
+Peds GI,Urinalysis,Cardiac,Abnormal,Rx Started,8,0,Actionable
+Peds Primary Care,Lipid Panel,Neuro,Normal,Rx Started,11,0,Review
+Peds GI,A1C,GI,Missing,None,15,0,Incomplete
+Peds Cardiology,Lipid Panel,Well Child,Normal,None,16,1,Non-actionable
+Peds Cardiology,Urinalysis,Endocrine,Abnormal,Phone Outreach,17,0,Actionable
+Peds Pulmonology,Chest X-ray,Neuro,Normal,Phone Outreach,17,0,Review
+Peds Neuro,CBC,GI,Missing,Routine Follow-up,15,0,Incomplete
+Peds Primary Care,Throat Culture,Respiratory,Missing,Rx Started,16,0,Incomplete
+Peds GI,Lipid Panel,Neuro,Abnormal,Referral,6,0,Actionable
+Peds Pulmonology,CRP,Well Child,Normal,Rx Started,14,0,Review
+Peds Primary Care,CRP,Respiratory,Abnormal,Phone Outreach,14,1,Actionable
+Peds Neuro,CRP,Well Child,Normal,Routine Follow-up,13,0,Review
+Peds Neuro,Chest X-ray,Well Child,Missing,None,7,0,Incomplete
+Peds Cardiology,Throat Culture,Well Child,Normal,Referral,1,0,Review
+Peds Pulmonology,CBC,Respiratory,Normal,Urgent Visit,13,0,Review
+Peds Neuro,CBC,Cardiac,Normal,None,2,0,Review
+Peds Primary Care,Chest X-ray,Infectious,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Neuro,CBC,Well Child,Normal,Routine Follow-up,7,1,Review
+Peds Cardiology,Chest X-ray,GI,Missing,None,12,0,Incomplete
+Peds Primary Care,CRP,Infectious,Missing,Rx Started,15,0,Incomplete
+Peds GI,CBC,Infectious,Normal,Referral,1,1,Review
+Peds Neuro,Lipid Panel,Well Child,Normal,None,4,0,Review
+Peds Cardiology,A1C,GI,Normal,Referral,9,0,Review
+Peds GI,A1C,Respiratory,Normal,None,8,1,Non-actionable
+Peds Neuro,A1C,Endocrine,Normal,Routine Follow-up,3,1,Review
+Peds Neuro,A1C,Endocrine,Normal,None,1,1,Non-actionable
+Peds Neuro,Lipid Panel,Endocrine,Normal,None,4,0,Review
+Peds Pulmonology,Throat Culture,Endocrine,Normal,None,2,0,Review
+Peds Pulmonology,Chest X-ray,GI,Missing,Routine Follow-up,12,0,Incomplete
+Peds Cardiology,Throat Culture,Cardiac,Normal,Phone Outreach,14,0,Review
+Peds Pulmonology,Throat Culture,Infectious,Normal,Phone Outreach,16,0,Review
+Peds Neuro,CBC,Infectious,Normal,Phone Outreach,7,0,Review
+Peds Neuro,Throat Culture,GI,Normal,None,5,1,Non-actionable
+Peds Pulmonology,Chest X-ray,Infectious,Missing,None,13,0,Incomplete
+Peds Neuro,Lipid Panel,Respiratory,Normal,Referral,12,0,Review
+Peds Primary Care,CBC,Well Child,Abnormal,Phone Outreach,14,1,Actionable
+Peds Neuro,Lipid Panel,Endocrine,Normal,None,16,0,Review
+Peds Cardiology,A1C,Neuro,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Cardiology,Throat Culture,Well Child,Normal,None,15,1,Non-actionable
+Peds Pulmonology,Urinalysis,Infectious,Normal,Routine Follow-up,14,0,Review
+Peds Primary Care,CRP,GI,Normal,Rx Started,6,0,Review
+Peds GI,Urinalysis,Endocrine,Missing,Phone Outreach,17,0,Incomplete
+Peds Neuro,CRP,GI,Normal,Routine Follow-up,2,0,Review
+Peds GI,Urinalysis,Endocrine,Abnormal,None,8,0,Review
+Peds Neuro,CRP,Infectious,Abnormal,Routine Follow-up,5,1,Actionable
+Peds Pulmonology,Urinalysis,Cardiac,Abnormal,None,7,0,Review
+Peds GI,Lipid Panel,Well Child,Normal,None,7,0,Review
+Peds Primary Care,Lipid Panel,Neuro,Normal,None,4,0,Review
+Peds Pulmonology,Urinalysis,Endocrine,Normal,Rx Started,17,0,Review
+Peds GI,Lipid Panel,Neuro,Missing,Referral,1,0,Incomplete
+Peds GI,Urinalysis,Infectious,Normal,Urgent Visit,1,1,Review
+Peds GI,Chest X-ray,Endocrine,Normal,Urgent Visit,4,0,Review
+Peds Pulmonology,A1C,GI,Normal,None,13,0,Review
+Peds Cardiology,A1C,Endocrine,Normal,None,9,1,Non-actionable
+Peds Pulmonology,Chest X-ray,Cardiac,Normal,None,7,0,Review
+Peds Neuro,CBC,Respiratory,Normal,Urgent Visit,6,1,Review
+Peds Primary Care,A1C,GI,Normal,None,3,0,Review
+Peds Pulmonology,Chest X-ray,Endocrine,Normal,None,10,1,Non-actionable
+Peds Neuro,A1C,Respiratory,Normal,Routine Follow-up,2,0,Review
+Peds GI,A1C,Well Child,Missing,None,2,0,Incomplete
+Peds GI,Chest X-ray,Cardiac,Missing,None,16,0,Incomplete
+Peds Primary Care,Lipid Panel,Well Child,Normal,None,5,0,Review
+Peds Neuro,Lipid Panel,Infectious,Normal,None,16,1,Non-actionable
+Peds Neuro,A1C,Respiratory,Normal,Rx Started,9,0,Review
+Peds Primary Care,Chest X-ray,Neuro,Missing,Rx Started,16,0,Incomplete
+Peds Cardiology,CBC,Respiratory,Missing,Rx Started,11,0,Incomplete
+Peds Pulmonology,Lipid Panel,Respiratory,Normal,Routine Follow-up,8,0,Review
+Peds GI,Lipid Panel,Respiratory,Missing,None,16,0,Incomplete
+Peds Pulmonology,A1C,Respiratory,Normal,Routine Follow-up,6,0,Review
+Peds Primary Care,Urinalysis,Well Child,Normal,None,17,1,Non-actionable
+Peds Pulmonology,Throat Culture,Neuro,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Primary Care,A1C,Infectious,Normal,Referral,11,0,Review
+Peds Primary Care,CBC,Well Child,Normal,Referral,5,0,Review
+Peds GI,Throat Culture,Endocrine,Abnormal,None,14,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Normal,Routine Follow-up,6,0,Review
+Peds Pulmonology,Throat Culture,Infectious,Abnormal,None,8,0,Review
+Peds Primary Care,Urinalysis,GI,Normal,Rx Started,10,0,Review
+Peds Pulmonology,CBC,Well Child,Normal,Urgent Visit,16,0,Review
+Peds GI,Throat Culture,GI,Normal,Rx Started,15,1,Review
+Peds Cardiology,Urinalysis,Endocrine,Normal,None,8,0,Review
+Peds GI,CBC,Well Child,Normal,Referral,3,0,Review
+Peds Primary Care,Throat Culture,Infectious,Normal,Phone Outreach,12,0,Review
+Peds Cardiology,Lipid Panel,GI,Normal,None,1,0,Review
+Peds Cardiology,A1C,Infectious,Abnormal,None,4,0,Review
+Peds GI,Urinalysis,Neuro,Abnormal,None,8,0,Review
+Peds Pulmonology,Lipid Panel,Respiratory,Normal,None,13,1,Non-actionable
+Peds Neuro,CBC,Infectious,Normal,Rx Started,1,1,Review
+Peds Neuro,CRP,Infectious,Normal,None,4,0,Review
+Peds Neuro,Lipid Panel,Cardiac,Normal,None,14,0,Review
+Peds Cardiology,A1C,Infectious,Normal,Phone Outreach,17,0,Review
+Peds GI,Urinalysis,Well Child,Normal,Routine Follow-up,5,1,Review
+Peds GI,A1C,Cardiac,Normal,Routine Follow-up,2,0,Review
+Peds Cardiology,Chest X-ray,Neuro,Abnormal,Routine Follow-up,16,0,Actionable
+Peds Cardiology,CRP,GI,Abnormal,Urgent Visit,10,0,Actionable
+Peds Primary Care,Throat Culture,Well Child,Normal,Phone Outreach,15,0,Review
+Peds Pulmonology,Throat Culture,GI,Normal,None,5,0,Review
+Peds Pulmonology,Chest X-ray,Endocrine,Normal,Phone Outreach,13,0,Review
+Peds Pulmonology,CRP,Well Child,Normal,Rx Started,11,0,Review
+Peds GI,Urinalysis,Neuro,Normal,Rx Started,2,0,Review
+Peds Neuro,CBC,Endocrine,Missing,Referral,8,0,Incomplete
+Peds Neuro,A1C,Endocrine,Missing,Referral,16,0,Incomplete
+Peds Neuro,Throat Culture,Respiratory,Missing,Routine Follow-up,11,1,Incomplete
+Peds GI,A1C,Neuro,Normal,Routine Follow-up,12,0,Review
+Peds Neuro,CRP,Well Child,Normal,None,2,1,Non-actionable
+Peds Neuro,CBC,GI,Normal,None,11,0,Review
+Peds Neuro,A1C,GI,Normal,None,2,0,Review
+Peds Neuro,Chest X-ray,GI,Normal,None,16,1,Non-actionable
+Peds Primary Care,Chest X-ray,Respiratory,Normal,None,14,0,Review
+Peds Primary Care,Lipid Panel,Cardiac,Normal,Phone Outreach,6,0,Review
+Peds GI,Urinalysis,GI,Normal,None,2,1,Non-actionable
+Peds GI,Throat Culture,Endocrine,Normal,None,8,0,Review
+Peds Pulmonology,CRP,Respiratory,Normal,Phone Outreach,6,0,Review
+Peds Primary Care,Lipid Panel,Well Child,Abnormal,None,9,0,Review
+Peds Neuro,CBC,GI,Normal,Phone Outreach,6,0,Review
+Peds GI,Throat Culture,Respiratory,Abnormal,Phone Outreach,8,0,Actionable
+Peds GI,CBC,Infectious,Normal,Routine Follow-up,16,0,Review
+Peds GI,A1C,Well Child,Missing,None,13,0,Incomplete
+Peds GI,CRP,Neuro,Normal,None,4,0,Review
+Peds Primary Care,Chest X-ray,Well Child,Missing,Urgent Visit,1,0,Incomplete
+Peds Neuro,A1C,Respiratory,Normal,Referral,2,0,Review
+Peds GI,Urinalysis,Well Child,Normal,Phone Outreach,15,1,Review
+Peds Primary Care,Urinalysis,Well Child,Abnormal,Rx Started,12,0,Actionable
+Peds Pulmonology,A1C,Well Child,Normal,None,14,1,Non-actionable
+Peds Pulmonology,Chest X-ray,Infectious,Abnormal,Routine Follow-up,14,1,Actionable
+Peds Neuro,Chest X-ray,Neuro,Abnormal,Routine Follow-up,14,0,Actionable
+Peds Cardiology,CBC,Cardiac,Normal,Urgent Visit,6,0,Review
+Peds GI,CBC,Cardiac,Normal,Referral,9,0,Review
+Peds Pulmonology,CBC,Well Child,Normal,Phone Outreach,15,0,Review
+Peds Primary Care,CRP,GI,Abnormal,Urgent Visit,3,0,Actionable
+Peds Primary Care,Chest X-ray,Infectious,Normal,None,3,1,Non-actionable
+Peds Primary Care,Lipid Panel,Neuro,Normal,None,14,0,Review
+Peds Primary Care,CRP,GI,Abnormal,Referral,8,0,Actionable
+Peds Cardiology,Lipid Panel,Infectious,Normal,None,2,0,Review
+Peds Neuro,CBC,Respiratory,Abnormal,None,5,0,Review
+Peds Cardiology,Throat Culture,Endocrine,Normal,None,8,1,Non-actionable
+Peds GI,Chest X-ray,Cardiac,Missing,None,8,0,Incomplete
+Peds GI,Lipid Panel,Well Child,Normal,Routine Follow-up,12,1,Review
+Peds Pulmonology,CBC,Cardiac,Normal,Referral,17,0,Review
+Peds Primary Care,CBC,Respiratory,Normal,None,15,1,Non-actionable
+Peds Primary Care,CBC,Respiratory,Normal,Phone Outreach,2,0,Review

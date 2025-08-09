@@ -1,0 +1,21 @@
+department,classification,count,percent
+Peds Cardiology,Actionable,21,14.4
+Peds Cardiology,Incomplete,19,13.0
+Peds Cardiology,Non-actionable,4,2.7
+Peds Cardiology,Review,102,69.9
+Peds GI,Actionable,27,20.1
+Peds GI,Incomplete,13,9.7
+Peds GI,Non-actionable,6,4.5
+Peds GI,Review,88,65.7
+Peds Neuro,Actionable,22,14.8
+Peds Neuro,Incomplete,21,14.1
+Peds Neuro,Non-actionable,5,3.4
+Peds Neuro,Review,101,67.8
+Peds Primary Care,Actionable,22,16.2
+Peds Primary Care,Incomplete,15,11.0
+Peds Primary Care,Non-actionable,2,1.5
+Peds Primary Care,Review,97,71.3
+Peds Pulmonology,Actionable,25,18.5
+Peds Pulmonology,Incomplete,13,9.6
+Peds Pulmonology,Non-actionable,3,2.2
+Peds Pulmonology,Review,94,69.6
