@@ -163,68 +163,57 @@
       });
     });
 
+      <script>
+  async function loadCSVToTable(csvPath, tableEl, colPercents){
+  tableEl.classList.add('table','zebra');   // add classes
 
-    <script>
-async function loadCSVToTable(csvPath, tableEl){
-    try {
-        const res = await fetch(csvPath);
-        const text = await res.text();
-        const lines = text.trim().split('\n');
-        if (lines.length === 0) return;
+  // Optional: set explicit column widths when provided
+  if (colPercents && colPercents.length) {
+    const colgroup = document.createElement('colgroup');
+    colPercents.forEach(p => {
+      const col = document.createElement('col');
+      col.style.width = p;
+      colgroup.appendChild(col);
+    });
+    tableEl.appendChild(colgroup);
+  }
 
-        const header = lines[0].split(',');
-        const thead = document.createElement('thead');
-        const trh = document.createElement('tr');
-        header.forEach(h => {
-            const th = document.createElement('th');
-            th.textContent = h;
-            trh.appendChild(th);
-        });
-        thead.appendChild(trh);
-        tableEl.appendChild(thead);
+  try {
+    const res = await fetch(csvPath);
+    const text = await res.text();
+    const lines = text.trim().split('\n');
+    if (lines.length === 0) return;
 
-        const tbody = document.createElement('tbody');
-        for (let i = 1; i < lines.length; i++) {
-            const tr = document.createElement('tr');
-            const cells = lines[i].split(',');
-            for (let j = 0; j < header.length; j++) {
-                const td = document.createElement('td');
-                td.textContent = (cells[j] ?? '').trim();
-                tr.appendChild(td);
-            }
-            tbody.appendChild(tr);
-        }
-        tableEl.appendChild(tbody);
-    } catch(e) {
-        tableEl.innerHTML = `<caption style="color:red">Failed to load ${csvPath}</caption>`;
-    }
-}
-</script>
+    const header = lines[0].split(',');
+    const thead = document.createElement('thead');
+    const trh = document.createElement('tr');
+    header.forEach(h => {
+      const th = document.createElement('th');
+      th.textContent = h;
+      trh.appendChild(th);
+    });
+    thead.appendChild(trh);
+    tableEl.appendChild(thead);
 
-    async function loadCSVToTable(csvPath, tableEl) {
-      try {
-        const res = await fetch(csvPath);
-        const text = await res.text();
-        const lines = text.trim().split('\n');
-        if (lines.length === 0) return;
-        const header = lines[0].split(',');
-        const thead = document.createElement('thead');
-        const trh = document.createElement('tr');
-        header.forEach(h => { const th = document.createElement('th'); th.textContent = h; trh.appendChild(th); });
-        thead.appendChild(trh);
-        tableEl.appendChild(thead);
-        const tbody = document.createElement('tbody');
-        for (let i = 1; i < lines.length; i++) {
-          const cols = lines[i].split(',');
-          const tr = document.createElement('tr');
-          cols.forEach(c => { const td = document.createElement('td'); td.textContent = c; tr.appendChild(td); });
-          tbody.appendChild(tr);
-        }
-        tableEl.appendChild(tbody);
-      } catch (e) {
-        console.error('Failed to load CSV', csvPath, e);
+    const tbody = document.createElement('tbody');
+    for (let i = 1; i < lines.length; i++) {
+      const tr = document.createElement('tr');
+      const cells = lines[i].split(',');
+      // pad/truncate so column count matches header
+      for (let j = 0; j < header.length; j++) {
+        const td = document.createElement('td');
+        td.textContent = (cells[j] ?? '').trim();
+        tr.appendChild(td);
       }
+      tbody.appendChild(tr);
     }
+    tableEl.appendChild(tbody);
+  } catch(e) {
+    tableEl.innerHTML = `<caption style="color:#b91c1c">Failed to load ${csvPath}</caption>`;
+  }
+}
+    </script>
+    <script>
     loadCSVToTable('classification_interventions_amb.csv',document.getElementById('map-table'),
      ['18%','47%','35%']   // adjust if you prefer
      );
