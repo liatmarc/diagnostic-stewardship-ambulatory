@@ -159,55 +159,75 @@
     });
 
     // CSV -> table loader with optional fixed column widths
-    async function loadCSVToTable(csvPath, tableEl, colPercents){
-      // add fixed table styling only to the target table(s)
-      tableEl.classList.add('table','zebra');
+   <script>
+// Minimal CSV parser that respects quotes and commas inside fields
+function parseCSV(text){
+  const rows = [];
+  let row = [], field = "", inQuotes = false;
 
-      // optional explicit column widths
-      if (colPercents && colPercents.length){
-        const colgroup = document.createElement('colgroup');
-        colPercents.forEach(p=>{
-          const col = document.createElement('col');
-          col.style.width = p;
-          colgroup.appendChild(col);
-        });
-        tableEl.appendChild(colgroup);
+  for (let i = 0; i < text.length; i++){
+    const c = text[i];
+
+    if (inQuotes){
+      if (c === '"'){
+        if (text[i+1] === '"'){ field += '"'; i++; } // escaped quote
+        else { inQuotes = false; }
+      } else {
+        field += c;
       }
-
-      try{
-        const res = await fetch(csvPath);
-        const text = await res.text();
-        const lines = text.trim().split('\n');
-        if(lines.length === 0) return;
-
-        const header = lines[0].split(',');
-        const thead = document.createElement('thead');
-        const trh = document.createElement('tr');
-        header.forEach(h=>{
-          const th = document.createElement('th');
-          th.textContent = h;
-          trh.appendChild(th);
-        });
-        thead.appendChild(trh);
-        tableEl.appendChild(thead);
-
-        const tbody = document.createElement('tbody');
-        for(let i=1;i<lines.length;i++){
-          const tr = document.createElement('tr');
-          const cells = lines[i].split(',');
-          for(let j=0;j<header.length;j++){
-            const td = document.createElement('td');
-            td.textContent = (cells[j] ?? '').trim();
-            tr.appendChild(td);
-          }
-          tbody.appendChild(tr);
-        }
-        tableEl.appendChild(tbody);
-      }catch(e){
-        tableEl.innerHTML = `<caption style="color:#b91c1c">Failed to load ${csvPath}</caption>`;
-      }
+    } else {
+      if (c === '"'){ inQuotes = true; }
+      else if (c === ','){ row.push(field); field = ""; }
+      else if (c === '\r'){ /* ignore */ }
+      else if (c === '\n'){ row.push(field); rows.push(row); row = []; field = ""; }
+      else { field += c; }
     }
+  }
+  // last field/row
+  row.push(field);
+  if (row.length > 1 || row[0] !== "") rows.push(row);
+  return rows;
+}
 
+async function loadCSVToTable(csvPath, tableEl, colPercents){
+  tableEl.classList.add('table','zebra');
+
+  if (colPercents && colPercents.length){
+    const colgroup = document.createElement('colgroup');
+    colPercents.forEach(p => { const col = document.createElement('col'); col.style.width = p; colgroup.appendChild(col); });
+    tableEl.appendChild(colgroup);
+  }
+
+  try {
+    const res = await fetch(csvPath);
+    const text = await res.text();
+    const rows = parseCSV(text);
+    if (!rows.length) return;
+
+    const header = rows[0];
+    const thead = document.createElement('thead');
+    const trh = document.createElement('tr');
+    header.forEach(h => { const th = document.createElement('th'); th.textContent = h; trh.appendChild(th); });
+    thead.appendChild(trh);
+    tableEl.appendChild(thead);
+
+    const tbody = document.createElement('tbody');
+    for (let i = 1; i < rows.length; i++){
+      const tr = document.createElement('tr');
+      for (let j = 0; j < header.length; j++){
+        const td = document.createElement('td');
+        td.textContent = (rows[i][j] ?? "").trim();
+        tr.appendChild(td);
+      }
+      tbody.appendChild(tr);
+    }
+    tableEl.appendChild(tbody);
+  } catch (e) {
+    tableEl.innerHTML = `<caption style="color:#b91c1c">Failed to load ${csvPath}</caption>`;
+  }
+}
+</script>
+<script>
     // Load tables
     // Overview mapping table: enforce 3 fixed column widths for alignment
     loadCSVToTable('classification_interventions_amb.csv', document.getElementById('map-table'), ['18%','47%','35%']);
