@@ -5,7 +5,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ambulatory Diagnostic Stewardship – Dashboard</title>
   <style>
-    :root { --bg:#f8fafc; --fg:#0f172a; --muted:#475569; --card:#ffffff; --accent:#1d4ed8; }
+    /* Fixed-layout, 3-column table so rows line up cleanly */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;            /* <-- keeps columns aligned */
+}
+.table th, .table td {
+  border: 1px solid #e2e8f0;
+  padding: 8px 10px;
+  vertical-align: top;
+  text-align: left;
+  word-break: break-word;         /* prevent overflow on long phrases */
+  overflow-wrap: anywhere;
+}
+.table th {
+  background: #f1f5f9;
+  font-weight: 600;
+}
+.table.zebra tbody tr:nth-child(even) {
+  background: #f8fafc;
+}
+  :root { --bg:#f8fafc; --fg:#0f172a; --muted:#475569; --card:#ffffff; --accent:#1d4ed8; }
     html, body { margin:0; padding:0; background:var(--bg); color:var(--fg); font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
     .container { max-width:1100px; margin:24px auto; padding:0 16px; }
     header { display:flex; align-items:center; gap:12px; margin-bottom:12px; flex-wrap:wrap; }
@@ -142,6 +163,44 @@
       });
     });
 
+
+    <script>
+async function loadCSVToTable(csvPath, tableEl){
+    try {
+        const res = await fetch(csvPath);
+        const text = await res.text();
+        const lines = text.trim().split('\n');
+        if (lines.length === 0) return;
+
+        const header = lines[0].split(',');
+        const thead = document.createElement('thead');
+        const trh = document.createElement('tr');
+        header.forEach(h => {
+            const th = document.createElement('th');
+            th.textContent = h;
+            trh.appendChild(th);
+        });
+        thead.appendChild(trh);
+        tableEl.appendChild(thead);
+
+        const tbody = document.createElement('tbody');
+        for (let i = 1; i < lines.length; i++) {
+            const tr = document.createElement('tr');
+            const cells = lines[i].split(',');
+            for (let j = 0; j < header.length; j++) {
+                const td = document.createElement('td');
+                td.textContent = (cells[j] ?? '').trim();
+                tr.appendChild(td);
+            }
+            tbody.appendChild(tr);
+        }
+        tableEl.appendChild(tbody);
+    } catch(e) {
+        tableEl.innerHTML = `<caption style="color:red">Failed to load ${csvPath}</caption>`;
+    }
+}
+</script>
+
     async function loadCSVToTable(csvPath, tableEl) {
       try {
         const res = await fetch(csvPath);
@@ -166,8 +225,9 @@
         console.error('Failed to load CSV', csvPath, e);
       }
     }
-
-    loadCSVToTable('classification_interventions_amb.csv', document.getElementById('map-table'));
+    loadCSVToTable('classification_interventions_amb.csv',document.getElementById('map-table'),
+     ['18%','47%','35%']   // adjust if you prefer
+     );
     loadCSVToTable('follow_up_time_summary_amb.csv', document.getElementById('follow-summary'));
     loadCSVToTable('outreach_counts_by_department_amb.csv', document.getElementById('outreach-counts'));
   </script>
