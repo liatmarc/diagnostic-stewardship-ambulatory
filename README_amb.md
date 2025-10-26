@@ -5,12 +5,6 @@ This package is ready for **GitHub Pages** and includes:
 - **Follow-up** (time-to-follow-up metrics for abnormal results)
 - **Outreach** (tests not completed by department + outreach list)
 
-## How to publish
-1. Create a public repo named **diagnostic-stewardship-ambulatory**.
-2. Upload **all files in this folder** to the repo root.
-3. Go to **Settings → Pages**, choose **Deploy from a branch**, select the **main** branch and **/(root)** folder, then **Save**.
-4. Your site will be live at the URL GitHub shows. The entry page is **index_amb.html**.
-
 ## Files
 - `index_amb.html` – Tabbed dashboard (Overview, Follow-up, Outreach)
 - `ambulatory_tests_raw_amb.csv`, `ambulatory_tests_processed_amb.csv`
